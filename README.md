@@ -11,4 +11,4 @@ This is an **English translation** submod for the Hearts of Iron IV modification
 
 ## Credits
 * **The TFR-ROC Team**
-* **English Translation Team**: [KiminaNatsuki](https://github.com/KiminaNatsuki), dynamo, [rocaethan2006](https://github.com/rocaethan2006)
+* **English Translation Team**: [KiminaNatsuki](https://github.com/KiminaNatsuki), [dynamo](https://github.com/Feeshermann), [rocaethan2006](https://github.com/rocaethan2006)

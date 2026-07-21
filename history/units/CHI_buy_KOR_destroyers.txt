@@ -1,0 +1,24 @@
+﻿units = {
+	fleet = {
+		name = "ROK Navy Submarine Squadron 15" 
+		naval_base = 4056
+		task_force = {
+			name = "ROK Navy Submarine Squadron 15" 
+			location = 4056
+
+			ship = { name = "Dosan Ahn Changho (SS-083)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = KOR version_name = "Dosan Ahn Changho-class" } } }
+			ship = { name = "Ahn Mu (SS-085)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = KOR version_name = "Dosan Ahn Changho-class" } } }
+
+			ship = { name = "Sohn Won-yil (SS-072)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = KOR version_name = "Sohn Won-yil-class" } } }
+			ship = { name = "Jeong Ji (SS-073)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = KOR version_name = "Sohn Won-yil-class" } } }
+			ship = { name = "Ahn Jung-geun (SS-075)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = KOR version_name = "Sohn Won-yil-class" } } }
+
+			ship = { name = "Jang Bogo (SS-061)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = KOR version_name = "Jang Bogo-class" } } }
+			ship = { name = "Yi Eokgi (SS-066)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = KOR version_name = "Jang Bogo-class" } } }
+			ship = { name = "Yi Sun-sin (SS-068)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = KOR version_name = "Jang Bogo-class" } } }
+
+			ship = { name = "Hong Beom-do (SS-084)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = KOR version_name = "Dosan Ahn Changho-class" } } }
+			ship = { name = "Yu Gwan-sun (SS-086)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = KOR version_name = "Dosan Ahn Changho-class" } } }
+		}
+	}
+}

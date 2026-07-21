@@ -1,0 +1,541 @@
+﻿focus = {
+	current = "CHI_election"
+	progress = 0
+}
+
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Sī Lìng Bù"
+	is_locked = yes 
+	regiments = {
+		bus = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Lǚ"
+	division_names_group = CHI_INF_5
+	regiments = {
+		modern_armor = { x = 0 y = 0 }
+		modern_armor = { x = 0 y = 1 }
+		modern_armor = { x = 0 y = 2 }
+		mechanized = { x = 1 y = 0 }
+		modern_sp_artillery_brigade = { x = 1 y = 1 }
+	}
+
+	support = {
+		light_tank_recon = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Jī Xiè Huà Bù Bīng Lǚ"
+	division_names_group = CHI_INF_2
+	regiments = {
+		mechanized = { x = 0 y = 0 }
+		mechanized = { x = 0 y = 1 }
+		mechanized = { x = 0 y = 2 }
+		modern_armor = { x = 1 y = 0 }
+		artillery_brigade = { x = 2 y = 0 }
+	}
+
+	support = {
+		light_tank_recon = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Lǚ"
+	division_names_group = CHI_INF_1
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 1 y = 0 }
+		artillery_brigade = { x = 1 y = 1 }
+	}
+
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Hòu Bèi Lǚ"
+	division_names_group = CHI_INF_3
+	is_locked = yes
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 1 y = 0 }
+		artillery_brigade = { x = 1 y = 1 }
+	}
+
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Shǒu Bèi Dà Duì"
+division_names_group = CHI_INF_11
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		artillery_brigade = { x = 0 y = 2 }
+		mechanized = { x = 1 y = 0 }
+		modern_armor = { x = 2 y = 0 }
+	}
+
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Dì Qū Zhǐ Huī Bù"
+	division_names_group = CHI_INF_12
+
+	regiments = {
+		mechanized = { x = 0 y = 0 }
+		mechanized = { x = 0 y = 1 }
+		modern_armor = { x = 1 y = 0 }
+		artillery_brigade = { x = 2 y = 0 }
+	}
+
+	support = {
+		recon = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }		
+	}
+}
+
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Háng Kōng Tè Zhàn Lǚ"
+division_names_group = CHI_INF_7
+	regiments = {
+		paratrooper = { x = 0 y = 0 }
+		paratrooper = { x = 0 y = 1 }
+		paratrooper = { x = 0 y = 2 }
+		paratrooper = { x = 0 y = 3 }
+	}
+
+	support = {
+		engineer = { x = 0 y = 0 }
+	}
+}
+division_template = {
+	name = "Zhōng Huá Mín Guó Hǎi Jūn Lù Zhàn Duì Lù Zhàn Lǚ"
+	division_names_group = CHI_INF_8
+	regiments = {
+		marine = { x = 0 y = 0 }
+		marine = { x = 0 y = 1 }
+		marine = { x = 0 y = 2 }
+		marine = { x = 0 y = 3 }
+	}
+
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Yíng"
+division_names_group = CHI_INF_10
+	regiments = {
+		special_forces = { x = 0 y = 0 }
+		special_forces = { x = 0 y = 1 }
+		special_forces = { x = 0 y = 2 }
+		special_forces = { x = 0 y = 3 }
+	}
+
+	support = {
+		engineer = { x = 0 y = 0 }
+	}
+
+}
+air_wings = {
+
+	### 台東基地（東部戰備基地） ###
+	524 = {
+
+		small_plane_airframe_2 = {
+			owner = "CHI"
+			amount = 120
+			version_name = "F-16V Fighter"
+		}
+
+		small_plane_airframe_1 = {
+			owner = "CHI"
+			amount = 120
+			version_name = "F-CK-1 Ching-kuo Fighter"
+		}
+
+		medium_plane_airframe_1 = {
+			owner = "CHI"
+			amount = 6
+			version_name = "E-2K AWACS"
+		}
+
+		transport_plane_equipment_1 = {
+			owner = "CHI"
+			amount = 19
+			version_name = "C-130H Transport"
+		}
+
+	}
+
+	### 台中清泉崗 ###
+	1149 = {
+
+		small_plane_airframe_1 = {
+			owner = "CHI"
+			amount = 60
+			version_name = "F-16A/B Fighting Falcon Fighter"
+		}
+		attack_helicopter_equipment_1 =  { owner = "CHI" amount = 31 }
+
+	}
+
+	### 台南基地 ###
+	1150 = {
+
+		small_plane_airframe_1 = {
+			owner = "CHI"
+			amount = 60
+			version_name = "F-CK-1 Ching-kuo Fighter"
+		}
+
+	}
+
+	### 台北基地 ###
+	1148 = {
+
+		small_plane_airframe_1 = {
+			owner = "CHI"
+			amount = 55
+			version_name = "Mirage 2000-5 Fighter"
+		}
+		attack_helicopter_equipment_1 =  { owner = "CHI" amount = 29 }
+		
+
+	}
+
+	### 金門前線機場 ###
+	648 = {
+
+		small_plane_airframe_1 = {
+			owner = "CHI"
+			amount = 20
+			version_name = "F-16A/B Fighting Falcon Fighter"
+		}
+
+	}
+
+}
+units = {
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Jī Xiè Huà Bù Bīng Dì 269 Lǚ"
+		location = 13961
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Jī Xiè Huà Bù Bīng Lǚ"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Jī Xiè Huà Bù Bīng Dì 333 Lǚ"
+		location = 11914
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Jī Xiè Huà Bù Bīng Lǚ"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Jī Xiè Huà Bù Bīng Dì 234 Lǚ"
+		location = 13968
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Jī Xiè Huà Bù Bīng Lǚ"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Dì 586 Lǚ"
+		location = 13968
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Lǚ"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Dì 542 Lǚ"
+		location = 13967
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Lǚ"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Dì 584 Lǚ"
+		location = 13967
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Lǚ"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Dì 564 Lǚ"
+		location = 12068
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Zhuāng Jiǎ Lǚ"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Hǎi Jūn Lù Zhàn Duì Dì 66 Lǚ"
+		location = 7186
+		division_template = "Zhōng Huá Mín Guó Hǎi Jūn Lù Zhàn Duì Lù Zhàn Lǚ"
+		start_experience_factor = 0.5
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Háng Kōng Dì 601 Lǚ"
+		location = 13961
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Háng Kōng Tè Zhàn Lǚ"
+		start_experience_factor = 0.6
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Háng Kōng Dì 602 Lǚ"
+		location = 13968
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Háng Kōng Tè Zhàn Lǚ"
+		start_experience_factor = 0.6
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Dì 1 Yíng"
+		location = 13961
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Yíng"
+		start_experience_factor = 0.7
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Dì 2 Yíng"
+		location = 13961
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Yíng"
+		start_experience_factor = 0.7
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Dì 3 Yíng"
+		location = 13966
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Yíng"
+		start_experience_factor = 0.7
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Dì 4 Yíng"
+		location = 13968
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Yíng"
+		start_experience_factor = 0.7
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Dì 5 Yíng"
+		location = 13961
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Tè Zhǒng Zuò Zhàn Yíng"
+		start_experience_factor = 0.7
+	}
+	division = {
+	name = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Dì 206 Lǚ"
+	location = 13967
+	division_template = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Lǚ"
+	start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Dì 302 Lǚ"
+		location = 13968
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Lǚ"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Dì 104 Lǚ"
+		location = 13968
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Lǚ"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Dì 257 Lǚ"
+		location = 13966
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Lǚ"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Dì 203 Lǚ"
+		location = 13965
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Lǚ"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Dì 153 Lǚ"
+		location = 13962
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Bù Bīng Lǚ"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Hǎi Jūn Lù Zhàn Duì Dì 99 Lǚ"
+		location = 12068
+		division_template = "Zhōng Huá Mín Guó Hǎi Jūn Lù Zhàn Duì Lù Zhàn Lǚ"
+		start_experience_factor = 0.5
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Jīn Mén Shǒu Bèi Dà Duì"
+		location = 14170
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Shǒu Bèi Dà Duì"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Liè Yǔ Shǒu Bèi Dà Duì"
+		location = 14170
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Shǒu Bèi Dà Duì"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Pēng Hú Fáng Wèi Zhǐ Huī Bù"
+		location = 14976
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Shǒu Bèi Dà Duì"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Huā Dōng Fáng Wèi Zhǐ Huī Bù"
+		location = 4096
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Shǒu Bèi Dà Duì"
+		start_experience_factor = 0.35
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Lán Yáng Dì Qū Zhǐ Huī Bù"
+		location = 13962
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Dì Qū Zhǐ Huī Bù"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Tái Dōng Dì Qū Zhǐ Huī Bù"
+		location = 1175
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Dì Qū Zhǐ Huī Bù"
+		start_experience_factor = 0.4
+	}
+
+	division = {
+		name = "Zhōng Huá Mín Guó Lù Jūn Guān Dù Dì Qū Zhǐ Huī Bù"
+		location = 7186
+		division_template = "Zhōng Huá Mín Guó Lù Jūn Dì Qū Zhǐ Huī Bù"
+		start_experience_factor = 0.4
+	}
+}
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_3
+			creator = "CHI"
+		}
+		requested_factories = 2
+		progress = 0.25
+		efficiency = 50
+	}
+
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "CHI"
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 50
+	}
+
+	add_equipment_production = {
+		equipment = {
+			type = artillery_equipment_2
+			creator = "CHI"
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = light_tank_chassis_2
+			creator = "CHI"
+			version_name = "CM-34 Clouded Leopard Armored Vehicle"
+		}
+		requested_factories = 1
+		progress = 0.35
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = small_plane_airframe_2
+			creator = "CHI"
+			version_name = "F-16V Fighter"
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 50
+	}
+
+	add_equipment_production = {
+		equipment = {
+			type = small_plane_airframe_1
+			creator = "CHI"
+			version_name = "F-CK-1 Ching-kuo Fighter"
+		}
+		requested_factories = 1
+		progress = 0.35
+		efficiency = 50
+	}
+	add_equipment_production = {
+			equipment = {
+				type = ship_hull_cruiser_2
+				creator = "CHI"
+				version_name = "Cheng Kung-class Frigate"
+			}
+			name = "Modernized Cheng Kung-class Frigate"
+			requested_factories = 4
+			progress = 0.4
+			amount = 1
+	}
+
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_cruiser_2
+			creator = "CHI"
+			version_name = "Kang Ding-class Frigate"
+		}
+		name = "Refitted Kang Ding-class Frigate"
+		requested_factories = 2
+		progress = 0.3
+		amount = 1
+	}
+
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_submarine_2
+			creator = "CHI"
+			version_name = "Chien Lung-class Submarine"
+		}
+		name = "Refitted Chien Lung-class Submarine"
+		requested_factories = 2
+		progress = 0.2
+		amount = 1
+	}
+}

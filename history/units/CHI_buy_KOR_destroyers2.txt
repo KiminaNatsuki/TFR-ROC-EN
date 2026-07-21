@@ -1,0 +1,17 @@
+﻿units = {
+	fleet = {
+		name = "ROK Navy Destroyer Squadron 15" 
+		naval_base = 4056
+		task_force = {
+			name = "ROK Navy Destroyer Squadron 15" 
+			location = 4056
+
+			ship = { name = "Sejong the Great (DDG-991)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KOR version_name = "Sejong the Great-class" } } }
+			ship = { name = "Yulgok Yi I (DDG-992)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KOR version_name = "Sejong the Great-class" } } }
+			ship = { name = "Seoae Ryu Seong-ryong (DDG-993)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KOR version_name = "Sejong the Great-class" } } }
+			ship = { name = "Wang Geon (DDH-978)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KOR version_name = "Chungmugong Yi Sun-sin-class" } } }
+			ship = { name = "Gang Gam-chan (DDH-979)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = KOR version_name = "Chungmugong Yi Sun-sin-class" } } }
+
+		}
+	}
+}

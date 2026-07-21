@@ -1,0 +1,15 @@
+﻿units = {
+	fleet = {
+		name = "US Navy Cruiser Squadron 31" 
+		naval_base = 4180
+		task_force = {
+			name = "US Navy Cruiser Squadron 31" 
+			location = 4180
+
+			ship = { name = "Ticonderoga (CG-47)" definition = heavy_cruiser equipment = { ship_hull_heavy_1 = { amount = 1 owner = USA version_name = "Ticonderoga-class" } } }
+			ship = { name = "Antietam (CG-54)" definition = heavy_cruiser equipment = { ship_hull_heavy_1 = { amount = 1 owner = USA version_name = "Ticonderoga-class" } } }
+			ship = { name = "Chancellorsville (CG-62)" definition = heavy_cruiser equipment = { ship_hull_heavy_1 = { amount = 1 owner = USA version_name = "Ticonderoga-class" } } }
+
+		}
+	}
+}

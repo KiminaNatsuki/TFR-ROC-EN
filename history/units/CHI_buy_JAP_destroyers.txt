@@ -1,0 +1,25 @@
+﻿units = {
+	fleet = {
+		name = "JMSDF Submarine Squadron" 
+		naval_base = 7072
+		task_force = {
+			name = "JMSDF Submarine Squadron" 
+			location = 7072
+
+			ship = { name = "Sōryū (SS-501)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = JAP version_name = "Sōryū-class" } } }
+			ship = { name = "Hakuryū (SS-503)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = JAP version_name = "Sōryū-class" } } }
+			ship = { name = "Seiryū (SS-509)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = JAP version_name = "Sōryū-class" } } }
+			ship = { name = "Huáng Lóng Hào (SS-510)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = JAP version_name = "Sōryū-class" } } }
+
+			ship = { name = "Taigei (SS-513)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = JAP version_name = "Taigei-class" } } }
+			ship = { name = "Jingei (SS-514)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = JAP version_name = "Taigei-class" } } }
+
+			ship = { name = "Oyashio (SS-590)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = JAP version_name = "Oyashio-class" } } }
+			ship = { name = "Maizuru (SS-593)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = JAP version_name = "Oyashio-class" } } }
+
+			ship = { name = "Yūshio (SS-597)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = JAP version_name = "Yūshio-class" } } }
+			ship = { name = "Setoshio (SS-600)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = JAP version_name = "Yūshio-class" } } }
+
+		}
+	}
+}

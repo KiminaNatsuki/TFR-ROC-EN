@@ -1,0 +1,113 @@
+﻿units = {
+	fleet = {
+	name = "Navy 168th Flotilla"
+	naval_base = 7186
+	task_force = {
+		name = "Èr Sān Yī Zhàn Duì"
+		location = 7186
+
+		ship = { name = "Kee Lung (DDG-1801)" pride_of_the_fleet = yes definition = heavy_cruiser equipment = { ship_hull_cruiser_3 = { amount = 1 owner = CHI version_name = "Kee Lung-class Destroyer" } } }
+		ship = { name = "Su Ao (DDG-1802)" definition = heavy_cruiser equipment = { ship_hull_cruiser_3 = { amount = 1 owner = CHI version_name = "Kee Lung-class Destroyer" } } }
+		ship = { name = "Feng Yang (FFG-933)" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CHI version_name = "Chi Yang-class Frigate" } } }
+		ship = { name = "Fen Yang (FFG-934)" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CHI version_name = "Chi Yang-class Frigate" } } }
+		ship = { name = "Lan Yang (FFG-935)" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CHI version_name = "Chi Yang-class Frigate" } } }
+	}
+	task_force = {
+		name = "Èr Wǔ Yī Zhàn Duì"
+		location = 7186
+
+		ship = { name = "Tso Ying (DDG-1803)" definition = heavy_cruiser equipment = { ship_hull_cruiser_3 = { amount = 1 owner = CHI version_name = "Kee Lung-class Destroyer" } } }
+		ship = { name = "Ma Kong (DDG-1805)" definition = heavy_cruiser equipment = { ship_hull_cruiser_3 = { amount = 1 owner = CHI version_name = "Kee Lung-class Destroyer" } } }
+		ship = { name = "Huai Yang (FFG-937)" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CHI version_name = "Chi Yang-class Frigate" } } }
+		ship = { name = "Ning Yang (FFG-938)" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CHI version_name = "Chi Yang-class Frigate" } } }
+		ship = { name = "Yi Yang (FFG-939)" definition = light_cruiser equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CHI version_name = "Chi Yang-class Frigate" } } }
+	}
+}
+fleet = {
+	name = "Navy 124th Flotilla"
+	naval_base = 12068
+	task_force = {
+		name = "Èr Sì Èr Zhàn Duì"
+		location = 12068
+
+		ship = { name = "Kang Ding (FFG-1202)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Kang Ding-class Frigate" } } }
+		ship = { name = "Si Ning (FFG-1203)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Kang Ding-class Frigate" } } }
+		ship = { name = "Kun Ming (FFG-1205)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Kang Ding-class Frigate" } } }
+	}
+	task_force = {
+		name = "Èr Liù Sì Zhàn Duì"
+		location = 12068
+
+		ship = { name = "Di Hua (FFG-1206)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Kang Ding-class Frigate" } } }
+		ship = { name = "Wu Chang (FFG-1207)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Kang Ding-class Frigate" } } }
+		ship = { name = "Cheng De (FFG-1209)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Kang Ding-class Frigate" } } }
+	}
+}
+fleet = {
+	name = "Navy 146th Flotilla"
+	naval_base = 12068
+	task_force = {
+		name = "Èr Èr Liù Zhàn Duì"
+		location = 12068
+
+		ship = { name = "Cheng Kung (PFG2-1101)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Cheng Ho (PFG2-1103)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Chi Kuang (PFG2-1105)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Yueh Fei (PFG2-1106)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Ming Chuan (PFG2-1112)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+	}
+	task_force = {
+		name = "Cheng Kung-class Frigate Squadron"
+		location = 12068
+
+		ship = { name = "Tzu I (PFG2-1107)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Pan Chao (PFG2-1108)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Chang Chien (PFG2-1109)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Tien Ta (PFG2-1110)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+		ship = { name = "Feng Chia (PFG2-1115)" definition = light_cruiser equipment = { ship_hull_cruiser_2 = { amount = 1 owner = CHI version_name = "Cheng Kung-class Frigate" } } }
+	}
+}
+fleet = {
+	name = "Navy 256th Submarine Squadron"
+	naval_base = 7186
+	task_force = {
+		name = "Submarine Squadron"
+		location = 7186
+
+		ship = { name = "Hai Shih (SS-791)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = CHI version_name = "Tench-class Submarine" } } }
+		ship = { name = "Hai Pao (SS-792)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = CHI version_name = "Tench-class Submarine" } } }
+		ship = { name = "Hai Lung (SS-793)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = CHI version_name = "Hai Lung-class Submarine" } } }
+		ship = { name = "Hai Hu (SS-794)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = CHI version_name = "Hai Lung-class Submarine" } } }
+	}
+}
+fleet = {
+	name = "Navy 131st Flotilla"
+	naval_base = 12068
+	task_force = {
+		name = "Èr Yī Èr Zhàn Duì"
+		location = 12068
+
+		ship = { name = "Tuo Chiang (PGG-618)" definition = light_cruiser equipment = { ship_hull_light_2 = { amount = 1 owner = CHI version_name = "Tuo Chiang-class Guided-Missile Corvette" } } }
+		ship = { name = "Dan Chiang (PGG-605)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Feng Yang (PGG-607)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Kao Chiang (PGG-609)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Hsiang Chiang (PGG-611)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Chang Chiang (PGG-615)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Chu Chiang (PGG-617)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+	}
+	task_force = {
+		name = "Èr Wǔ Èr Zhàn Duì"
+		location = 12068
+
+		ship = { name = "Ta Chiang (PGG-619)" definition = light_cruiser equipment = { ship_hull_light_2 = { amount = 1 owner = CHI version_name = "Tuo Chiang-class Guided-Missile Corvette" } } }
+		ship = { name = "Ching Chiang (PGG-603)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Hsin Chiang (PGG-606)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Tseng Chiang (PGG-608)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Chin Chiang (PGG-610)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Tzu Chiang (PGG-612)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+		ship = { name = "Po Chiang (PGG-614)" definition = light_cruiser equipment = { ship_hull_light_1 = { amount = 1 owner = CHI version_name = "Ching Chiang-class Patrol Ship" } } }
+	}
+}
+
+
+}

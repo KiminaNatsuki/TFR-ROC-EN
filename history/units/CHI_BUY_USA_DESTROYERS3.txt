@@ -1,0 +1,28 @@
+﻿units = {
+	fleet = {
+		name = "US Navy Submarine Squadron 1" 
+		naval_base = 4180
+		task_force = {
+			name = "US Navy Submarine Squadron 1" 
+			location = 4180
+
+			ship = { name = "Los Angeles (SSN-688)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "La Jolla (SSN-701)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Buffalo (SSN-715)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+
+			ship = { name = "Philadelphia (SSN-690)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Dallas (SSN-700)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Baltimore (SSN-704)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Boston (SSN-703)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Atlanta (SSN-712)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Providence (SSN-719)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Pittsburgh (SSN-720)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Chicago (SSN-721)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Key West (SSN-722)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Oklahoma City (SSN-723)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Louisville (SSN-724)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+			ship = { name = "Helena (SSN-725)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = USA version_name = "Los Angeles-class" } } }
+
+		}
+	}
+}

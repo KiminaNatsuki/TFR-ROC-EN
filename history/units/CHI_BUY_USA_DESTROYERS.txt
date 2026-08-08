@@ -1,20 +1,20 @@
-﻿units = {
-	fleet = {
-		name = "US Navy Destroyer Squadron 15" 
-		naval_base = 4180
-		task_force = {
-			name = "US Navy Destroyer Squadron 15" 
-			location = 4180
-
-			ship = { name = "Curtis Wilbur (DDG-54)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = USA version_name = "Arleigh Burke Class" } } }
-			ship = { name = "John S. McCain (DDG-56)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = USA version_name = "Arleigh Burke Class" } } }
-			ship = { name = "O'Bannon (DD-975)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = USA version_name = "Arleigh Burke Class" } } }
-			ship = { name = "Cushing (DD-985)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = USA version_name = "Arleigh Burke Class" } } }
-
-			ship = { name = "Lassen (DDG-82)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = USA version_name = "Arleigh Burke Class" } } }
-			ship = { name = "Mustin (DDG-89)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = USA version_name = "Arleigh Burke Class" } } }
-			ship = { name = "McCampbell (DDG-85)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = USA version_name = "Arleigh Burke Class" } } }
-
-		}
-	}
+﻿units = {
+	fleet = {
+		name = "US Navy Destroyer Squadron 15" 
+		naval_base = 4180
+		task_force = {
+			name = "US Navy Destroyer Squadron 15" 
+			location = 4180
+
+			ship = { name = "Curtis Wilbur (DDG-54)" definition = destroyer equipment = { ship_hull_cruiser_3 = { amount = 1 owner = USA version_name = "Arleigh Burke-class" } } }
+			ship = { name = "John S. McCain (DDG-56)" definition = destroyer equipment = { ship_hull_cruiser_3 = { amount = 1 owner = USA version_name = "Arleigh Burke-class" } } }
+			ship = { name = "O'Bannon (DD-975)" definition = destroyer equipment = { ship_hull_cruiser_3 = { amount = 1 owner = USA version_name = "Arleigh Burke-class" } } }
+			ship = { name = "Cushing (DD-985)" definition = destroyer equipment = { ship_hull_cruiser_3 = { amount = 1 owner = USA version_name = "Arleigh Burke-class" } } }
+
+			ship = { name = "Lassen (DDG-82)" definition = destroyer equipment = { ship_hull_cruiser_3 = { amount = 1 owner = USA version_name = "Arleigh Burke-class" } } }
+			ship = { name = "Mustin (DDG-89)" definition = destroyer equipment = { ship_hull_cruiser_3 = { amount = 1 owner = USA version_name = "Arleigh Burke-class" } } }
+			ship = { name = "McCampbell (DDG-85)" definition = destroyer equipment = { ship_hull_cruiser_3 = { amount = 1 owner = USA version_name = "Arleigh Burke-class" } } }
+
+		}
+	}
 }

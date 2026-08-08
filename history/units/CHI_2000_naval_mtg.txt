@@ -74,10 +74,10 @@ fleet = {
 		name = "Submarine Squadron"
 		location = 7186
 
-		ship = { name = "Hai Shih (SS-791)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = CHI version_name = "Tench-class Submarine" } } }
-		ship = { name = "Hai Pao (SS-792)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = CHI version_name = "Tench-class Submarine" } } }
-		ship = { name = "Hai Lung (SS-793)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = CHI version_name = "Hai Lung-class Submarine" } } }
-		ship = { name = "Hai Hu (SS-794)" definition = submarine equipment = { ship_hull_submarine_3 = { amount = 1 owner = CHI version_name = "Hai Lung-class Submarine" } } }
+		ship = { name = "Hai Shih (SS-791)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = CHI version_name = "Hai Shih-class Submarine" } } }
+		ship = { name = "Hai Pao (SS-792)" definition = submarine equipment = { ship_hull_submarine_1 = { amount = 1 owner = CHI version_name = "Hai Shih-class Submarine" } } }
+		ship = { name = "Hai Lung (SS-793)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = CHI version_name = "Chien Lung-class Submarine" } } }
+		ship = { name = "Hai Hu (SS-794)" definition = submarine equipment = { ship_hull_submarine_2 = { amount = 1 owner = CHI version_name = "Chien Lung-class Submarine" } } }
 	}
 }
 fleet = {

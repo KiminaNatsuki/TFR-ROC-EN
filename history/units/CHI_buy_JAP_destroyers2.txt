@@ -1,17 +1,17 @@
-﻿units = {
-	fleet = {
-		name = "JMSDF Destroyer Squadron" 
-		naval_base = 7072
-		task_force = {
-			name = "JMSDF Destroyer Squadron" 
-			location = 7072
-
-			ship = { name = "Kongō (DDG-173)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Kongō-class" } } }
-			ship = { name = "Kirishima (DDG-174)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Kongō-class" } } }
-			ship = { name = "Atago (DDG-177)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Atago-class" } } }
-			ship = { name = "Kaohsiung (DDG-178)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Atago-class" } } }
-			ship = { name = "Maya (DDG-179)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Maya-class" } } }
-
-		}
-	}
+﻿units = {
+	fleet = {
+		name = "JMSDF Destroyer Squadron" 
+		naval_base = 7072
+		task_force = {
+			name = "JMSDF Destroyer Squadron" 
+			location = 7072
+
+			ship = { name = "Kongō (DDG-173)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Kongo-class" } } }
+			ship = { name = "Kirishima (DDG-174)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Kongo-class" } } }
+			ship = { name = "Atago (DDG-177)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Atago-class" } } }
+			ship = { name = "Kaohsiung (DDG-178)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Atago-class" } } }
+			ship = { name = "Maya (DDG-179)" definition = destroyer equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "Maya-class" } } }
+
+		}
+	}
 }

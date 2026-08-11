@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
  STATE_1: "Corsica"
  STATE_2: "Latium"
  STATE_3: "Suisse"
@@ -1514,7 +1514,7 @@
  STATE_1488: "City of Algiers"
  STATE_1489: "Asturias"
  STATE_1490: "European Quarter"
- STATE_1491: "Kalamazoo"
  ARG_STATE_299: "Malvinas Islands"
+ STATE_1491: "Kalamazoo"
  STATE_1492: "Metropolitan City of Milan"
  STATE_1493: "Metropolitan City of Rome"

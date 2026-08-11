@@ -1,8 +1,7 @@
 preserve_hierarchy: true
 files:
-  - source: /localisation/simp_chinese/**/*.yml
-    translation: /localisation/%language%/**/%original_file_name%
-    type: paradox
+  - source: "/localisation/simp_chinese/**/*.yml"
+    translation: "/localisation/%language%/**/%original_file_name%"
     update_option: update_as_unapproved
     translation_replace:
-      "_l_simp_chinese.yml": "_l_english.yml"
+      "_source.yml": "_l_%language%.yml"

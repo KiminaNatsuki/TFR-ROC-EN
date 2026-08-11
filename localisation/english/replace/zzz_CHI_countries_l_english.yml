@@ -1,9 +1,11 @@
-﻿l_simp_chinese:
+﻿l_english:
+ ## 國名與形容詞覆蓋
  CHI_conservative_ADJ: "Taiwanese"
  CHI_nationalist_ADJ: "Taiwanese"
  CHI_authoritarian_democrat_ADJ: "Taiwanese"
  CHI_paternalism_ADJ: "中国"
  CHI_fascist_ADJ: "Taiwanese"
+ ## CHI_UNITED 統一/反攻/還都動態國名與形容詞
  CHI_UNITED: "中华民国"
  CHI_UNITED_DEF: "中华民国"
  CHI_UNITED_ADJ: "中国"

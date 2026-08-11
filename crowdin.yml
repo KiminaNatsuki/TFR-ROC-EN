@@ -1,11 +1,11 @@
 preserve_hierarchy: true
 files:
-  - source: "/localisation/simp_chinese/**/*.yml"
-    translation: "/localisation/%two_letters_code%/**/%original_file_name%"
+  - source: /localisation/simp_chinese/**/*.yml
+    translation: /localisation/%two_letters_code%/**/%original_file_name%
     update_option: update_as_unapproved
     translation_replace:
-      "_source.yml": "_l_english.yml"
+      _source.yml: _l_english.yml
     languages_mapping:
       two_letters_code:
-        en: "english"
-        en-US: "english"
+        en: english
+        en-US: english

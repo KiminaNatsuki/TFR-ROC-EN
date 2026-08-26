@@ -262,9 +262,9 @@
  ccw_core_hongkong_desc: "Reintegrate Hong Kong as our core territory."
 
 
- ccw_grant_hkmacau_autonomy: "[UNTRANSLATED] 港澳問題"
+ ccw_grant_hkmacau_autonomy: "Hong Kong Macau Problem"
 
- ccw_grant_hkmacau_autonomy_desc: "[UNTRANSLATED] 處理香港與澳門的自治請求。"
+ ccw_grant_hkmacau_autonomy_desc: "Take care of Hong Kong and Macau's demands for autonomy."
 
 
  ccw_core_hongkong_focus1: "Core Hong Kong"
@@ -531,11 +531,11 @@
 
  ccw_core_mon_focus2_desc: "Reintegrate Mongolia as our core territory."
 
- CHI_tuva_decision_unlocked_tt: "[UNTRANSLATED] 解鎖第二次北伐戰爭決議：§Y收復唐努烏梁海§!"
+ CHI_tuva_decision_unlocked_tt: "Unlocks the Second Northern Expedition decision: §YReclaim Tannu Uriankhai§!"
 
- ccw_seize_tuva: "[UNTRANSLATED] 收復唐努烏梁海"
+ ccw_seize_tuva: "Reclaim Tannu Uriankhai"
 
- ccw_seize_tuva_desc: "[UNTRANSLATED] §Y注意：採取此行動將引發與俄羅斯的邊境衝突。若在衝突中取勝，我國將永久實質控制該地區。§!"
+ ccw_seize_tuva_desc: "§YNote: Taking this action will trigger a border conflict with Russia. If victorious, our nation will gain permanent de facto control over the region.§!"
 
  ccw_core_tuva: "Core Tuva"
 

@@ -457,14 +457,18 @@
  CHI_efficient_government_category_desc: "Efficiency. What is efficiency? Simply put, efficiency is being fast, accurate, and ruthless. To judge any ruler from ancient times to the present, one must first see if their decrees sweep across the nation the moment they are issued. A precise, highly efficient bureaucratic system is often the prelude to a nation's grand symphony of revival. As the victors of a great war, recognizing the absolute importance of efficiency, we will rebuild a highly efficient government system in Taiwan under the leadership of President Han Kuo-yu."
  CHI_fiscal_budget_1: "£GFX_fiscal_budget_texticon §Y1§!"
  CHI_fiscal_budget_1_blocked: "£GFX_fiscal_budget_texticon §R1§!"
- CHI_fiscal_budget_1_tooltip: "執行此決議需要財政額度 £GFX_fiscal_budget_texticon §Y1§!"
+ CHI_fiscal_budget_1_tooltip: "[UNTRANSLATED] 執行此決議需要財政額度 £GFX_fiscal_budget_texticon §Y1§!"
+
  CHI_road_quality: "Tighten Road Quality Management"
 
- CHI_road_quality_coal: "公定發電優質煤限制"
- CHI_water_monitor: "水質監測網"
+ CHI_road_quality_coal: "[UNTRANSLATED] 公定發電優質煤限制"
+
+ CHI_water_monitor: "[UNTRANSLATED] 水質監測網"
+
  CHI_pub_care_fund: "Long-Term Public Care Fund"
 
- CHI_public_ltc_fund: "公有長期照護基金"
+ CHI_public_ltc_fund: "[UNTRANSLATED] 公有長期照護基金"
+
  CHI_co_learning: "Intergenerational Learning"
 
  CHI_co_living: "All Reside Together"
@@ -473,7 +477,8 @@
 
  CHI_youth_vision: "Youth Vision Project"
 
- CHI_youth_startup_loan: "青年創業貸款"
+ CHI_youth_startup_loan: "[UNTRANSLATED] 青年創業貸款"
+
  CHI_transit_integration: "Integrate Public Transport"
 
  CHI_mrt_network: "Improve Rapid Transportation"
@@ -488,60 +493,114 @@
  CHI_NCSIST_funds_200_blocked: "£GFX_MIO_fund_texticon §R200§!"
  CHI_NCSIST_funds_200_tooltip: "Implementing this resolution requires funding from the NCSIST.\n£GFX_MIO_fund_texticon §Y200§!"
 
- CHI_project_Wan_Chien: "萬劍計畫"
- CHI_project_Yung_Wu: "勇武計畫"
- CHI_project_M60A3_upgrade: "M60A3全面升級計畫"
- CHI_project_exoskeleton_trial: "外骨骼試驗計畫"
- CHI_project_CM13: "CM13計畫"
- CHI_project_sparrow: "麻雀計畫"
- CHI_project_Hai_Kun: "項目代號：海鯤"
- CHI_project_Kun_Lun: "項目代號：崑崙"
- CHI_project_Zhen_Bing: "項目代號：鎮冰"
- CHI_project_Peng_Hu: "項目代號：澎湖"
- CHI_project_Brave_Eagle: "勇鷹號現代化"
- CHI_project_Zhi_Hang: "志航號計畫"
- CHI_project_IPS67: "天晴計畫"
- CHI_project_Avionics: "改進航電系統"
- CHI_dont_forget_homeland_category: "兵者，國之大事也"
- CHI_project_ROCA_reform_1: "預備軍事編遣"
- CHI_project_ROCA_reform_1_desc: "我們必須著手進行預備軍事編遣計畫，將軍隊規模縮減並精簡人事，禁止任何志願軍的派遣，以集中資源進行後續的改革。"
- CHI_project_ROCA_reform_1_idea: "預備軍事編遣"
- CHI_project_ROCA_reform_1_idea_desc: "我們正在精簡人事並預備重整軍隊，目前已全面禁止向外派遣志願軍。"
- CHI_project_ROCA_reform_2: "編遣會議"
- CHI_project_ROCA_reform_2_desc: "編遣會議正式開始。所有已部署師團將刪除，以統一並規範作戰編制，消除冗餘的軍事單位。"
- CHI_project_ROCA_reform_2_effect_tt: "編遣會議正式開始。§R將刪除現有已部署編制§"
- CHI_project_ROCA_reform_3: "恢復軍級番號"
- CHI_project_ROCA_reform_3_desc: "隨著軍隊重組順利進行，我們將恢復軍級番號，提升所有將領的指揮能力，並下達新的軍指揮所編制。"
- CHI_project_ROCA_reform_3_idea: "恢復軍級番號"
- CHI_project_ROCA_reform_3_idea_desc: "我們的軍級作戰編制已經恢復，將軍們的指揮能力獲得了全面提升。"
- CHI_project_ROCA_reform_4: "確立軍事指揮系統"
- CHI_project_ROCA_reform_4_desc: "國軍的現代化軍事指揮系統已正式確立！我們的師團組織度、戰場寬度適應力、增援及主動性皆獲得大幅提升，並重新開放志願軍的派遣。"
- CHI_project_ROCA_reform_4_effect_tt: "強化 §Y中華民國國軍§! 精神：\n陸軍組織度：§G+10.0%§!\n戰場寬度：§G-15.0%§!\n增援率：§G+50.0%§!\n主動性：§G+50.0%§!"
- CHI_project_Ning_Hai: "寧海計畫"
- CHI_project_Ning_Hai_desc: "寧海計畫是一項旨在全面提升中華民國海軍作戰能力的長遠方針，涵蓋艦隊協同、航速、探測以及屏衛艦的攻防效能。"
- CHI_ninghai_plan_idea_1: "寧海計畫 (第一階段)"
- CHI_ninghai_plan_idea_1_desc: "透過初步的海軍作戰革新，我們的艦隊協同性、速度與屏衛效率獲得了小幅提升。"
- CHI_ninghai_plan_idea_2: "寧海計畫 (第二階段)"
- CHI_ninghai_plan_idea_2_desc: "隨著寧海計畫的深入，我們的海軍逐漸成為了一支具有高度協同與偵蒐能力的現代化海上力量。"
- CHI_ninghai_plan_idea_3: "寧海計畫 (最終階段)"
- CHI_ninghai_plan_idea_3_desc: "寧海計畫已全面落實。中華民國海軍在速度、探測、協同與屏衛攻防上達到了前所未有的高峰。"
- CHI_project_Ling_Hsiao: "凌霄計畫"
- CHI_project_Ling_Hsiao_desc: "凌霄計畫專注於爭奪制空權與提供密接空中支援，確保我們的雄鷹能主宰天空，並為地面部隊提供最具毀滅性的打擊力量。"
- CHI_lingxiao_plan_idea: "凌霄計畫"
- CHI_lingxiao_plan_idea_desc: "執行凌霄計畫後，我國空軍的奪取制空、攔截與密接支援能力獲得了飛躍性的強化。"
- CHI_project_hump_training: "駝峰炸射訓練"
- CHI_project_hump_training_desc: "我們的空軍飛行員將回憶當年飛越駝峰航線的傳奇，並進行更嚴苛的炸射訓練。這將在關鍵時刻小幅強化我們爭奪制空權的效率。"
- CHI_project_hump_training_idea: "駝峰炸射訓練"
- CHI_project_hump_training_idea_desc: "我們傳承了駝峰航線的驕傲與戰技，空軍在奪取制空權時擁有更高的效率。"
- CHI_project_ROCA_reform_1_completed: "預備軍事編遣完成"
- CHI_project_ROCA_reform_2_completed: "編遣會議完成"
- CHI_project_ROCA_reform_3_completed: "恢復軍級番號完成"
- CHI_project_ROCA_reform_4_completed: "確立軍事指揮系統完成"
- CHI_ninghai_plan_completed_1: "寧海計畫（第一階段）完成"
- CHI_ninghai_plan_completed_2: "寧海計畫（第二階段）完成"
- CHI_ninghai_plan_completed_3: "寧海計畫（最終階段）完成"
- CHI_lingxiao_plan_completed: "凌霄計畫完成"
- CHI_project_hump_training_completed: "駝峰炸射訓練完成"
+ CHI_project_Wan_Chien: "[UNTRANSLATED] 萬劍計畫"
+
+ CHI_project_Yung_Wu: "[UNTRANSLATED] 勇武計畫"
+
+ CHI_project_M60A3_upgrade: "[UNTRANSLATED] M60A3全面升級計畫"
+
+ CHI_project_exoskeleton_trial: "[UNTRANSLATED] 外骨骼試驗計畫"
+
+ CHI_project_CM13: "[UNTRANSLATED] CM13計畫"
+
+ CHI_project_sparrow: "[UNTRANSLATED] 麻雀計畫"
+
+ CHI_project_Hai_Kun: "[UNTRANSLATED] 項目代號：海鯤"
+
+ CHI_project_Kun_Lun: "[UNTRANSLATED] 項目代號：崑崙"
+
+ CHI_project_Zhen_Bing: "[UNTRANSLATED] 項目代號：鎮冰"
+
+ CHI_project_Peng_Hu: "[UNTRANSLATED] 項目代號：澎湖"
+
+ CHI_project_Brave_Eagle: "[UNTRANSLATED] 勇鷹號現代化"
+
+ CHI_project_Zhi_Hang: "[UNTRANSLATED] 志航號計畫"
+
+ CHI_project_IPS67: "[UNTRANSLATED] 天晴計畫"
+
+ CHI_project_Avionics: "[UNTRANSLATED] 改進航電系統"
+
+ CHI_dont_forget_homeland_category: "[UNTRANSLATED] 兵者，國之大事也"
+
+ CHI_project_ROCA_reform_1: "[UNTRANSLATED] 預備軍事編遣"
+
+ CHI_project_ROCA_reform_1_desc: "[UNTRANSLATED] 我們必須著手進行預備軍事編遣計畫，將軍隊規模縮減並精簡人事，禁止任何志願軍的派遣，以集中資源進行後續的改革。"
+
+ CHI_project_ROCA_reform_1_idea: "[UNTRANSLATED] 預備軍事編遣"
+
+ CHI_project_ROCA_reform_1_idea_desc: "[UNTRANSLATED] 我們正在精簡人事並預備重整軍隊，目前已全面禁止向外派遣志願軍。"
+
+ CHI_project_ROCA_reform_2: "[UNTRANSLATED] 編遣會議"
+
+ CHI_project_ROCA_reform_2_desc: "[UNTRANSLATED] 編遣會議正式開始。所有已部署師團將刪除，以統一並規範作戰編制，消除冗餘的軍事單位。"
+
+ CHI_project_ROCA_reform_2_effect_tt: "[UNTRANSLATED] 編遣會議正式開始。§R將刪除現有已部署編制§"
+
+ CHI_project_ROCA_reform_3: "[UNTRANSLATED] 恢復軍級番號"
+
+ CHI_project_ROCA_reform_3_desc: "[UNTRANSLATED] 隨著軍隊重組順利進行，我們將恢復軍級番號，提升所有將領的指揮能力，並下達新的軍指揮所編制。"
+
+ CHI_project_ROCA_reform_3_idea: "[UNTRANSLATED] 恢復軍級番號"
+
+ CHI_project_ROCA_reform_3_idea_desc: "[UNTRANSLATED] 我們的軍級作戰編制已經恢復，將軍們的指揮能力獲得了全面提升。"
+
+ CHI_project_ROCA_reform_4: "[UNTRANSLATED] 確立軍事指揮系統"
+
+ CHI_project_ROCA_reform_4_desc: "[UNTRANSLATED] 國軍的現代化軍事指揮系統已正式確立！我們的師團組織度、戰場寬度適應力、增援及主動性皆獲得大幅提升，並重新開放志願軍的派遣。"
+
+ CHI_project_ROCA_reform_4_effect_tt: "[UNTRANSLATED] 強化 §Y中華民國國軍§! 精神：\n陸軍組織度：§G+10.0%§!\n戰場寬度：§G-15.0%§!\n增援率：§G+50.0%§!\n主動性：§G+50.0%§!"
+
+ CHI_project_Ning_Hai: "[UNTRANSLATED] 寧海計畫"
+
+ CHI_project_Ning_Hai_desc: "[UNTRANSLATED] 寧海計畫是一項旨在全面提升中華民國海軍作戰能力的長遠方針，涵蓋艦隊協同、航速、探測以及屏衛艦的攻防效能。"
+
+ CHI_ninghai_plan_idea_1: "[UNTRANSLATED] 寧海計畫 (第一階段)"
+
+ CHI_ninghai_plan_idea_1_desc: "[UNTRANSLATED] 透過初步的海軍作戰革新，我們的艦隊協同性、速度與屏衛效率獲得了小幅提升。"
+
+ CHI_ninghai_plan_idea_2: "[UNTRANSLATED] 寧海計畫 (第二階段)"
+
+ CHI_ninghai_plan_idea_2_desc: "[UNTRANSLATED] 隨著寧海計畫的深入，我們的海軍逐漸成為了一支具有高度協同與偵蒐能力的現代化海上力量。"
+
+ CHI_ninghai_plan_idea_3: "[UNTRANSLATED] 寧海計畫 (最終階段)"
+
+ CHI_ninghai_plan_idea_3_desc: "[UNTRANSLATED] 寧海計畫已全面落實。中華民國海軍在速度、探測、協同與屏衛攻防上達到了前所未有的高峰。"
+
+ CHI_project_Ling_Hsiao: "[UNTRANSLATED] 凌霄計畫"
+
+ CHI_project_Ling_Hsiao_desc: "[UNTRANSLATED] 凌霄計畫專注於爭奪制空權與提供密接空中支援，確保我們的雄鷹能主宰天空，並為地面部隊提供最具毀滅性的打擊力量。"
+
+ CHI_lingxiao_plan_idea: "[UNTRANSLATED] 凌霄計畫"
+
+ CHI_lingxiao_plan_idea_desc: "[UNTRANSLATED] 執行凌霄計畫後，我國空軍的奪取制空、攔截與密接支援能力獲得了飛躍性的強化。"
+
+ CHI_project_hump_training: "[UNTRANSLATED] 駝峰炸射訓練"
+
+ CHI_project_hump_training_desc: "[UNTRANSLATED] 我們的空軍飛行員將回憶當年飛越駝峰航線的傳奇，並進行更嚴苛的炸射訓練。這將在關鍵時刻小幅強化我們爭奪制空權的效率。"
+
+ CHI_project_hump_training_idea: "[UNTRANSLATED] 駝峰炸射訓練"
+
+ CHI_project_hump_training_idea_desc: "[UNTRANSLATED] 我們傳承了駝峰航線的驕傲與戰技，空軍在奪取制空權時擁有更高的效率。"
+
+ CHI_project_ROCA_reform_1_completed: "[UNTRANSLATED] 預備軍事編遣完成"
+
+ CHI_project_ROCA_reform_2_completed: "[UNTRANSLATED] 編遣會議完成"
+
+ CHI_project_ROCA_reform_3_completed: "[UNTRANSLATED] 恢復軍級番號完成"
+
+ CHI_project_ROCA_reform_4_completed: "[UNTRANSLATED] 確立軍事指揮系統完成"
+
+ CHI_ninghai_plan_completed_1: "[UNTRANSLATED] 寧海計畫（第一階段）完成"
+
+ CHI_ninghai_plan_completed_2: "[UNTRANSLATED] 寧海計畫（第二階段）完成"
+
+ CHI_ninghai_plan_completed_3: "[UNTRANSLATED] 寧海計畫（最終階段）完成"
+
+ CHI_lingxiao_plan_completed: "[UNTRANSLATED] 凌霄計畫完成"
+
+ CHI_project_hump_training_completed: "[UNTRANSLATED] 駝峰炸射訓練完成"
+
  CHI_cost_50_army_xp_tt: "£army_experience §Y50§!"
  CHI_cost_50_army_xp_tt_blocked: "£army_experience §R50§!"
  CHI_cost_50_navy_xp_tt: "£navy_experience §Y50§!"
@@ -1286,7 +1345,8 @@
  offensive_war_stability_factor_tooltip: "$MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$：$RIGHT|+=%2$"
  defensive_war_stability_factor_tooltip: "$MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR$：$RIGHT|+=%2$"
  naval_invasion_penalty_tooltip: "$MODIFIER_NAVAL_INVASION_PENALTY$：$RIGHT|-=0%$"
- cannot_call_allies_or_join_wars_tooltip: "§R無法召喚盟友！§!"
+ cannot_call_allies_or_join_wars_tooltip: "[UNTRANSLATED] §R無法召喚盟友！§!"
+
  battalion_upkeep_factor_tooltip: "$battalion_upkeep_factor$：$RIGHT|-=%1$"
  aircraft_upkeep_factor_tooltip: "$aircraft_upkeep_factor$：$RIGHT|-=%1$"
  ship_upkeep_factor_tooltip: "$ship_upkeep_factor$：$RIGHT|-=%1$"
@@ -1304,10 +1364,12 @@
  taiwan.1.d: "The skylines of the cities are illuminated brighter than usual by dazzling fireworks. Performers drive concerts to their climaxes, further hyping the crowds. People gathered around the tallest buildings watch in awe as the Moon itself seems overpowered by the rockets' flames, while those in the comfort of their own shelters rejoice as the countdown finally reaches zero-marking the end of the decade.\n\nThe year is 2020. Our leading position in semiconductor manufacturing remains unchallenged. The stock market soars higher than ever, with the TAIEX maintaining over 10,000 points for nearly the entire year. Despite the turbulence caused by the China–U.S. trade war, our robust economy has shown remarkable resilience, with the economic growth rate holding steady at around 3% throughout 2019.\n\nThe new year also signals the conclusion of the presidential election campaigns. President Tsai Ing-wen is seeking a second term, while the main opposition leader, the controversial Han Kuo-yu, continues to gain popularity. James Soong will make his fifth bid for the presidency, though he has also announced that this may be his final attempt.\n\nDiplomatically, our nation continues to lose formal allies due to factors such as Mainland China's expanding global influence, including its Belt and Road Initiative. At the same time, our strategy has shifted toward fostering warm, albeit unofficial, relationships with major powers. The riots in Hong Kong further alienate the pro-unification camp within our borders, and many cite them as evidence of the inevitable failure of the \"One Country, Two Systems\" framework.\n\nAll in all, the brave people of the Taiwan archipelago - including Kinmen and Matsu - are prepared to weather the coming storm and carry forward into the next decade. Although the Ministry of Health and Welfare has reported a new suspected case of atypical pneumonia from Mainland China, surely, that won't be much of an issue."
  taiwan.1.a: "May the journey ahead be smooth for you, Taiwan."
  taiwan.2.t: "Secret of the Baltic"
- taiwan.2.d: "立陶宛-維爾紐斯，台灣代表処的大門被推開，代表處秘書黃興家從大門走了出來，他拿出電話，打給自己的立陶宛妻子：「我今天不回家吃晚飯了，長官安排了緊急任務，你去接一下孩子吧，我愛你」他收起電話，帶上帽子，朝著維爾紐斯市中心走去，在一家私人飯店，他向前台説出了房間號，侍者將他帶到一鍵深處的包廂，他推開門，裏面傳來生硬的中文：“你好，黃先生”，他開箱發出聲音的人，正是之前見過面的日本駐立陶宛大使館的一位秘書-中野秘書，兩人坐下，黃興家拿起茶杯喝了一口，說道：“中野秘書，感謝邀請，不知這次兩方有什麽事情需要通過我們在這遙遠的波羅的海秘密相見來商討？”中野秘書到：“我相信你也知道了，美利堅陷入了内戰，在美國的力量撤出東亞后，中國現在不太安分，他們加强了戰備，對台灣甚至整個東亞虎視眈眈，我相信台灣政府也爲此苦惱吧，外務省命我們與你們接觸，希望能通過你們，在不被中國知道的情況下與臺北政府接觸。”他拿出了一個有多層密封的信封，遞給黃興家“請將這個，用最安全的渠道，交給臺北政府。\n\n四天后，中華民國總統府，中華民國總統親自打開了這個信封，裏面寫到日本對東亞局勢的擔憂，希望兩方能加强合作，并且提到了澳大利亞的合作意向。\n\n在後續，黃興家多次與日本和澳大利亞在立陶宛的外交人員接觸，三方就軍事同盟-太約的成立交換了各自的意向和訴求，並提出了最大的誠意-如果戰爭爆發，日本願意廢除《中日聯合聲明》重新和中華民國建立大使級外交關係，甚至承認中華民國為中國唯一合法政府。\n\n太約的框架，就這樣在波羅的海的海風中搭建了起來"
+ taiwan.2.d: "[UNTRANSLATED] 立陶宛-維爾紐斯，台灣代表処的大門被推開，代表處秘書黃興家從大門走了出來，他拿出電話，打給自己的立陶宛妻子：「我今天不回家吃晚飯了，長官安排了緊急任務，你去接一下孩子吧，我愛你」他收起電話，帶上帽子，朝著維爾紐斯市中心走去，在一家私人飯店，他向前台説出了房間號，侍者將他帶到一鍵深處的包廂，他推開門，裏面傳來生硬的中文：“你好，黃先生”，他開箱發出聲音的人，正是之前見過面的日本駐立陶宛大使館的一位秘書-中野秘書，兩人坐下，黃興家拿起茶杯喝了一口，說道：“中野秘書，感謝邀請，不知這次兩方有什麽事情需要通過我們在這遙遠的波羅的海秘密相見來商討？”中野秘書到：“我相信你也知道了，美利堅陷入了内戰，在美國的力量撤出東亞后，中國現在不太安分，他們加强了戰備，對台灣甚至整個東亞虎視眈眈，我相信台灣政府也爲此苦惱吧，外務省命我們與你們接觸，希望能通過你們，在不被中國知道的情況下與臺北政府接觸。”他拿出了一個有多層密封的信封，遞給黃興家“請將這個，用最安全的渠道，交給臺北政府。\n\n四天后，中華民國總統府，中華民國總統親自打開了這個信封，裏面寫到日本對東亞局勢的擔憂，希望兩方能加强合作，并且提到了澳大利亞的合作意向。\n\n在後續，黃興家多次與日本和澳大利亞在立陶宛的外交人員接觸，三方就軍事同盟-太約的成立交換了各自的意向和訴求，並提出了最大的誠意-如果戰爭爆發，日本願意廢除《中日聯合聲明》重新和中華民國建立大使級外交關係，甚至承認中華民國為中國唯一合法政府。\n\n太約的框架，就這樣在波羅的海的海風中搭建了起來"
+
  taiwan.2.a: "A Pacific friendship forged in the Baltic Sea."
  taiwan.3.t: "Crisis Alliance"
- taiwan.3.d: "波羅的海的海風吹來了同盟的消息，在立陶宛三方的多次接觸后，這個被獨裁與威脅像粘合劑團結起來的同盟，終於被牢固的締結在一起，爲了防止刺激到中國大陸，防範可能的北京間諜，三方派出了外交部門的最高秘書，以私人旅游名義前往日本箱根，他們將在那裏進行最後的確認，在一間山間的溫泉旅館中，日本公安裏三層外三層地秘密將溫泉旅館保護了起來，三方將在此就同盟達成協定，協定中寫道：「為保障東亞安全，三方將結成秘密軍事同盟，如任何一方被敵人所攻擊，其他兩方將加入防禦戰爭」，并且提到了如中華民國遭到攻擊，日本與澳大利亞將與其重建大使級外交關係，三方收下協定，妥善的保管好，在享受了箱根的溫泉后，帶回了各自的國家"
+ taiwan.3.d: "[UNTRANSLATED] 波羅的海的海風吹來了同盟的消息，在立陶宛三方的多次接觸后，這個被獨裁與威脅像粘合劑團結起來的同盟，終於被牢固的締結在一起，爲了防止刺激到中國大陸，防範可能的北京間諜，三方派出了外交部門的最高秘書，以私人旅游名義前往日本箱根，他們將在那裏進行最後的確認，在一間山間的溫泉旅館中，日本公安裏三層外三層地秘密將溫泉旅館保護了起來，三方將在此就同盟達成協定，協定中寫道：「為保障東亞安全，三方將結成秘密軍事同盟，如任何一方被敵人所攻擊，其他兩方將加入防禦戰爭」，并且提到了如中華民國遭到攻擊，日本與澳大利亞將與其重建大使級外交關係，三方收下協定，妥善的保管好，在享受了箱根的溫泉后，帶回了各自的國家"
+
  taiwan.3.a: "The bulwark of East Asia is thus established."
  taiwan.4.t: "2020 Taiwanese Presidential Election"
  taiwan.4.d: "The most important event between Western New Year and Chinese New Year, the 2020 Taiwanese elections, will determine both the legislature and the presidency. The final phase of campaigning resumed after a week of pause due to the tragic Black Hawk helicopter crash on January 2nd, and candidates held their final and largest political rallies in several major cities.\n\nRepresenting the pro-Green camp is the incumbent President Tsai Ing-wen, the first female president of Taiwan and the first to be of indigenous descent. A law professor with a political career spanning back to 2000, her experience and professionalism are often cited by supporters as reasons she is the more qualified choice. Despite a turbulent first term, her approval ratings have been on the rise since July 2019, and many observers are predicting a Green victory.\n\nOn the pro-Blue side is Han Kuo-yu, the current mayor of Kaohsiung, who has faced backlash from city residents for allegedly \"abandoning\" them. Holding a master's degree in law, Han only returned to politics in 2017, making his experience pale in comparison to that of the DPP's candidate. Nonetheless, his supporters argue that the DPP's underperformance has left voters eager for change, with many believing that his unorthodox political style could usher in a new golden era for Taiwan.\n\nJames Soong is also in the race, although most of the public attention he receives comes in the form of jokes rather than serious political engagement.\n\nThe day after an exhausting night of final rallies, citizens across the country head to the nearest polling stations to decide the future of their nation. As night falls and votes are counted, the final result is declared:"
@@ -1340,8 +1402,10 @@
  taiwan.14.d: ""
  taiwan.14.a: "Oh."
  taiwan.15.t: "Han Kuo-yu Re-elected in Taiwan"
- taiwan.15.d: "占位符"
- taiwan.15.a: "青天白日依舊在"
+ taiwan.15.d: "[UNTRANSLATED] 占位符"
+
+ taiwan.15.a: "[UNTRANSLATED] 青天白日依舊在"
+
  taiwan.16.t: "Ko Wen-je Victorious in Taiwan Elections"
  taiwan.16.d: "After fending off troops from mainland in the recent war, Taiwan announced that it is now able to hold free elections according to the constitution again. As the recent war incited mass hatred against mainland China, the blue camp lost a significant portion of voters who blame the party of unable to secure peace or see them as posible mainland China's collaborators. Meanwhile, green camp politicians also struck a heavy blow, as they were being blamed for leading to the war and bloodshed that just struck Taiwan. Meanwhile, radical policies of the previous presidency pushed lots of neutral voters to TPP's side. As a result, a political blackhorse - Taiwan People's Party under Ko Wen-Je managed to successfully challenge Taiwan's traditional blue-green bipartisan system, winning a first-ever presidency.\n\nNew president Ko Wen-je thanked all his supporters for achieving such a political miracle, and at the same time announced his own plans for reconstruction."
  taiwan.16.a: "The wolf has a winning game when the shepherds quarrel."
@@ -1404,22 +1468,38 @@
  taiwan.32.t: "The Republic Stands Tall"
  taiwan.32.d: "After weeks of heated combat, the People's Liberation Army was brought to a full stop facing the PDTO's fierce resistance and has failed in its objective to overrun our armed forces and our government. For the past few days, intelligence reports have indicated the PLA abandoning gained ground, though this information is withheld in case of a PLA surprise counterattack. However, with Japanese and Australian sources confirming that the Communist Forces are retreating across all fronts-including Kinmen-the presidential office has, at last, announced the victory of democratic forces at dawn.\n\nThe Air Force and Navy have followed suit, ceasing all military operations following the withdrawal of the ground invasion forces, leaving the skies and the seas open once again. Our devastated docks and airports are now receiving humanitarian aid from around the world, with the majority coming from our PDTO allies.\n\nThis is far from over, however. Our cities lie in ruins, our factories have been destroyed, our railways and highways are crippled, and our crown jewel-the semiconductor industry-has been completely wiped out. Not only that, PDTO intelligence suggests that the Communists' major defeat would almost certainly trigger political turmoil, potentially inviting an even more aggressive leadership that could threaten our democracy and freedom in the years ahead. For now, a monumental task of reconstruction lies before us."
  taiwan.32.a: "Plum blossoms smell sweetest after the bitter cold."
- CHI_tibet_zangnan_secured_tt: "（臨時文本）獲得西藏全境與藏南地區所有權，並與印度及相關陣營停火達成白和。"
- CHI_begonia_leaf_send_diplomat_tt: "（臨時文本）向日本正式提出交涉，要求歸還東北地區與沿海租借港口。"
- CHI_begonia_leaf_returned_tt: "（臨時文本）收回東北地區全境（遼寧、吉林、黑龍江、大連、旅順等）及沿海租借港口所有權與核心。"
- CHI_japan_refused_tt: "（臨時文本）獲得對日本的宣戰理由。"
- CHI_japan_refused_territory_demand: "（臨時文本）拒絕領土移交請求"
- CHI_wait_pdto_reorganization_tt: "（臨時文本）印度已脫離太平洋防衛條約組織。"
- CHI_mongolia_send_delegation_tt: "（臨時文本）向蒙古派出外交特使團，商討兩國合併事宜。"
- CHI_mongolia_accept_merge_tt: "（臨時文本）同意與中華民國和平合併。"
- CHI_mongolia_refuse_merge_tt: "（臨時文本）拒絕與中華民國合併。"
- CHI_mongolia_annexed_tt: "（臨時文本）蒙古同意和平合併，中華民國和平收復蒙古全境並獲得核心。"
- CHI_mongolia_war_declared_tt: "（臨時文本）蒙古拒絕和平合併，中華民國對蒙古正式宣戰。"
- CHI_mongolia_focus_required_tt: "蒙古問題需透過國策「蒙古磋商」交涉解決，無法直接宣戰。"
- CHI_republic_achieved_east_south_china_tt: "光復東南與華東地區"
- CHI_republic_achieved_north_northeast_tt: "光復華北與東北地區"
- CHI_republic_achieved_central_southwest_tt: "光復華中與西南地區"
- CHI_republic_achieved_northwest_tt: "光復西北與邊疆地區"
+ CHI_tibet_zangnan_secured_tt: "[UNTRANSLATED] （臨時文本）獲得西藏全境與藏南地區所有權，並與印度及相關陣營停火達成白和。"
+
+ CHI_begonia_leaf_send_diplomat_tt: "[UNTRANSLATED] （臨時文本）向日本正式提出交涉，要求歸還東北地區與沿海租借港口。"
+
+ CHI_begonia_leaf_returned_tt: "[UNTRANSLATED] （臨時文本）收回東北地區全境（遼寧、吉林、黑龍江、大連、旅順等）及沿海租借港口所有權與核心。"
+
+ CHI_japan_refused_tt: "[UNTRANSLATED] （臨時文本）獲得對日本的宣戰理由。"
+
+ CHI_japan_refused_territory_demand: "[UNTRANSLATED] （臨時文本）拒絕領土移交請求"
+
+ CHI_wait_pdto_reorganization_tt: "[UNTRANSLATED] （臨時文本）印度已脫離太平洋防衛條約組織。"
+
+ CHI_mongolia_send_delegation_tt: "[UNTRANSLATED] （臨時文本）向蒙古派出外交特使團，商討兩國合併事宜。"
+
+ CHI_mongolia_accept_merge_tt: "[UNTRANSLATED] （臨時文本）同意與中華民國和平合併。"
+
+ CHI_mongolia_refuse_merge_tt: "[UNTRANSLATED] （臨時文本）拒絕與中華民國合併。"
+
+ CHI_mongolia_annexed_tt: "[UNTRANSLATED] （臨時文本）蒙古同意和平合併，中華民國和平收復蒙古全境並獲得核心。"
+
+ CHI_mongolia_war_declared_tt: "[UNTRANSLATED] （臨時文本）蒙古拒絕和平合併，中華民國對蒙古正式宣戰。"
+
+ CHI_mongolia_focus_required_tt: "[UNTRANSLATED] 蒙古問題需透過國策「蒙古磋商」交涉解決，無法直接宣戰。"
+
+ CHI_republic_achieved_east_south_china_tt: "[UNTRANSLATED] 光復東南與華東地區"
+
+ CHI_republic_achieved_north_northeast_tt: "[UNTRANSLATED] 光復華北與東北地區"
+
+ CHI_republic_achieved_central_southwest_tt: "[UNTRANSLATED] 光復華中與西南地區"
+
+ CHI_republic_achieved_northwest_tt: "[UNTRANSLATED] 光復西北與邊疆地區"
+
  taiwan.34.t: "Letter from the Ministry of National Defense"
  taiwan.34.d: "Receiver: Presidential Office\nPriority: Top Priority\nSubject: Current Status of Our National Defense\n\nOur main objective to prevent the People's Liberation Army from advancing into Taiwan has failed. The PLA has exploited vulnerabilities in our defenses, and now controls several major cities and ports, severely crippling our war effort. With this goal unmet, we can no longer confine the conflict to shorelines, and are now forced to engage within urban and mountainous terrain.\n\nThe PLA has reached our second line of defense surrounding the remaining cities and mountain ranges, which can be used to our advantage in defense due to the complexity of urban and mountainous environments. Our Army has already established defensive positions around PRC-controlled cities, and is better positioned to halt further PLA advances.\n\nThe PDTO has also taken heavy casualties during this conflict. This led to an unexpected psychological impact on both our civilians and armed forces. Acknowledging that the PDTO is truly our brothers-in-arms, we have received an influx of civilian volunteers supporting our defense preparation and logistics. This has bolstered our morale and defense capabilities, and the commanders report that our ground forces' willingness and readiness are higher than ever."
  taiwan.34.a: "We will surely win..."
@@ -1645,7 +1725,8 @@
  CHI_boost_kmt_grassroots: "Support the Grassroots Alliance"
  CHI_Aid_Arab_Republics_category: "Aid the Arabian Republic"
  CHI_Aid_Arab_Republics_category_desc: "\n\n\n\n\n\n\n£GFX_PROXY_saudi_cw_cat_banner\n\n\n\n\n\n\n\n\n\n"
- CHI_ARR_Expand_the_volunteer_army: "§Y阿拉伯§! : 擴大志願軍"
+ CHI_ARR_Expand_the_volunteer_army: "[UNTRANSLATED] §Y阿拉伯§! : 擴大志願軍"
+
  CHI_humanitarian_aid: "§YArabia§! : Provide Humanitarian Aid"
  CHI_Trafficking_small_arms: "§YArabia§! : Traffic Small Arms"
  CHI_Trafficking_big_arms: "§YArabia§! : Traffic Heavy Arms"
@@ -1658,7 +1739,8 @@
  decision_cost_20pp_20cp_tooltip: "Executing this decision requires £command_power §Y50§! £pol_power §Y100§!"
  decision_cost_50pp_100cp: "£command_power_texticon §Y100§! £pol_power §Y50§!"
  decision_cost_50pp_100cp_blocked: "£command_power_texticon §R100§! £pol_power §R50§!"
- decision_cost_50pp_100cp_tooltip: "執行此決議需要 £command_power §Y100§! £pol_power §Y50§!"
+ decision_cost_50pp_100cp_tooltip: "[UNTRANSLATED] 執行此決議需要 £command_power §Y100§! £pol_power §Y50§!"
+
  CHI_Assist_reconstruction_the_Arab_Republic_category: "Assist in the Reconstruction of the Arabian Republic"
  CHI_Assist_reconstruction_the_Arab_Republic_category_desc: "\n\n\n\n\n£GFX_CHI_Assist_reconstruction_the_Arab_Republic_banner\n\n\n\n\n\n\n\n\n\n§YCurrent Reconstruction Progress§!: [?CHI_Assist_reconstruction_progress]"
  reconstruction_times_to_five: "§YReconstruction Progress§! : Greater than §Y5§!"
@@ -1675,23 +1757,39 @@
  CHI_Propose_diplomatic_relations: "Propose Diplomatic Relations"
  CHI_Gain_benefits_from_relationships: "Gain Benefits from the Relationship"
  Debug_add_reconstruction_progress: "§YDEBUG§! : Add §Y5§! to Reconstruction Progress"
- CHI_Intervene_the_American_Civil_War_category: "干涉美國內戰"
+ CHI_Intervene_the_American_Civil_War_category: "[UNTRANSLATED] 干涉美國內戰"
+
  CHI_Intervene_the_American_Civil_War_category_desc: "\n\n\n\n\n£GFX_CHI_USA_cw_cat_banner\n\n\n\n\n\n\n\n"
- CHI_USA_Expand_the_volunteer_army: "擴大志願軍"
- CHI_Take_stand_divider: "§Y=====================表態=====================§!"
- CHI_Publicly_support_USC: "公開支持憲政府"
- CHI_Send_humanitarian_aid_to_the_USC: "向憲政府提供人道援助"
- CHI_Trafficking_small_arms_to_USC: "向憲政府提供輕武器"
- CHI_Trafficking_big_arms_to_USC: "向憲政府提供重武器"
- CHI_Publicly_support_USB: "公開支持聯邦政府"
- CHI_Send_humanitarian_aid_to_the_USB: "向聯邦政府提供人道援助"
- CHI_Trafficking_small_arms_to_USB: "向聯邦政府提供輕武器"
- CHI_Trafficking_big_arms_to_USB: "向聯邦政府提供重武器"
- CHI_Experimenting_with_combat_methods_in_the_USA: "在美國實驗作戰方式"
- CHI_support_us: "支持我們"
- CHI_opposed_us: "反對我們"
- CHI_support_USB: "我們已選擇支持§C聯邦政府§!"
- CHI_support_USC: "我們已選擇支持§R憲政府§!"
+ CHI_USA_Expand_the_volunteer_army: "[UNTRANSLATED] 擴大志願軍"
+
+ CHI_Take_stand_divider: "[UNTRANSLATED] §Y=====================表態=====================§!"
+
+ CHI_Publicly_support_USC: "[UNTRANSLATED] 公開支持憲政府"
+
+ CHI_Send_humanitarian_aid_to_the_USC: "[UNTRANSLATED] 向憲政府提供人道援助"
+
+ CHI_Trafficking_small_arms_to_USC: "[UNTRANSLATED] 向憲政府提供輕武器"
+
+ CHI_Trafficking_big_arms_to_USC: "[UNTRANSLATED] 向憲政府提供重武器"
+
+ CHI_Publicly_support_USB: "[UNTRANSLATED] 公開支持聯邦政府"
+
+ CHI_Send_humanitarian_aid_to_the_USB: "[UNTRANSLATED] 向聯邦政府提供人道援助"
+
+ CHI_Trafficking_small_arms_to_USB: "[UNTRANSLATED] 向聯邦政府提供輕武器"
+
+ CHI_Trafficking_big_arms_to_USB: "[UNTRANSLATED] 向聯邦政府提供重武器"
+
+ CHI_Experimenting_with_combat_methods_in_the_USA: "[UNTRANSLATED] 在美國實驗作戰方式"
+
+ CHI_support_us: "[UNTRANSLATED] 支持我們"
+
+ CHI_opposed_us: "[UNTRANSLATED] 反對我們"
+
+ CHI_support_USB: "[UNTRANSLATED] 我們已選擇支持§C聯邦政府§!"
+
+ CHI_support_USC: "[UNTRANSLATED] 我們已選擇支持§R憲政府§!"
+
  CHI_GAN: "Gan"
  CHI_xiang: "Xiang"
  CHI_min: "Min"
@@ -1899,7 +1997,8 @@
  PHN_ADJ: "Philippine Navy Command"
  NDF: "National Democratic Front of the Philippines"
  NDF_DEF: "National Democratic Front of the Philippines"
- NDF_ADJ: "菲律賓"
+ NDF_ADJ: "[UNTRANSLATED] 菲律賓"
+
  MIL_Murad_Ebrahim: "Murad Ebrahim"
  NDF_Nur_Misuari: "Jose Maria Sison"
  PHN_Torribio_D_Adachi: "Toribio D. Adaci Jr."
@@ -1929,9 +2028,12 @@
  CHI_BUY_USA_DESTROYERS_tt: "§YA new pair of fleets will be deployed at the Hawaii Naval Base§!"
  CHI_BUY_JAP_DESTROYERS_tt: "§YA new pair of fleets will be deployed at the Osaka Naval Base§!"
  CHI_BUY_KOR_DESTROYERS_tt: "§YA new pair of fleets will be deployed at the Busan Naval Base§!"
- CHI_anti_silent_dawn: "加強防空網"
- CHI_anti_silent_dawn_tooltip: "或許有奇效"
- CHI_anti_silent_dawn_effect_tooltip: "因為戰前加強了防空網，使得我們能降低空襲的影響"
+ CHI_anti_silent_dawn: "[UNTRANSLATED] 加強防空網"
+
+ CHI_anti_silent_dawn_tooltip: "[UNTRANSLATED] 或許有奇效"
+
+ CHI_anti_silent_dawn_effect_tooltip: "[UNTRANSLATED] 因為戰前加強了防空網，使得我們能降低空襲的影響"
+
  PHI_civil_war_AFP_WOM: "Republic of the Philippines"
  PHI_civil_war_MILF_WON: "Islamic State of the Philippines"
  PHI_civil_war_NDF_WON: "Democratic Republic of the Philippines"
@@ -1951,7 +2053,8 @@
  loc_taiwanese_liberal_populism: "Liberal Populism"
  taiwanese_liberal_populism: "Liberal Populism"
  taiwanese_liberal_populism_desc: "Taiwanese liberal populism is a variant of liberal conservatism, centered around winning votes by satisfying popular demands, actively providing public services, and improving the livelihood of vulnerable groups.\n\nDue to its excessive focus on winning elections, this ideology is often criticized as \"lacking principles\" and having blurred boundaries. Rather than calling it an ideology, it might be more accurate to call it an electoral strategy."
- taiwanese_liberal_populism2_desc: "台灣自由民粹主義是自由保守主義的一種變體，其核心是通過滿足民眾需求、積極提供公共服務及改善弱勢群體生計來贏得選票。\n\n由於過度聚焦選舉勝負，該思想常被批評\"缺乏原則\"且邊界模糊。與其稱之為意識形態，不如更合本質地稱它為一種選舉策略。"
+ taiwanese_liberal_populism2_desc: "[UNTRANSLATED] 台灣自由民粹主義是自由保守主義的一種變體，其核心是通過滿足民眾需求、積極提供公共服務及改善弱勢群體生計來贏得選票。\n\n由於過度聚焦選舉勝負，該思想常被批評\"缺乏原則\"且邊界模糊。與其稱之為意識形態，不如更合本質地稱它為一種選舉策略。"
+
  loc_taiwanese_reformed_tridemism: "Reformed Tridemism"
  reformed_tridemism: "Reformed Tridemism"
  reformed_tridemism_desc: "The Three Principles of the People—Nationalism, Democracy, and Livelihood—consist of three equally important parts: nationalism, democratic institutions, and social welfare.\n\nEntering the 21st century, traditional Tridemism has revealed its limitations in governing modern society, prompting many to seek a reformed version of it.\n\nCompared to the original version, reformed Tridemism reduces the emphasis on nationalism and instead highlights the expansion of welfare, treating it as the core pillar of modernization theory. At the same time, democratic institutions, as a basic need of the people, are incorporated into a broader definition of welfare, making welfarism the sole focus of reformed Tridemism."
@@ -2107,7 +2210,8 @@
  CHI_low_fertility_rate: "Revive our Natality"
  CHI_Taipei_childcare: "Promote the Taipei Model"
  CHI_childcare_policy: "Implement Childcare Policy"
- CHI_operating_new_curriculum_guidelines: "推行新課綱標準"
+ CHI_operating_new_curriculum_guidelines: "[UNTRANSLATED] 推行新課綱標準"
+
  CHI_babysitter_selection: "Stricter Caregiver Screening"
  CHI_End_of_Chaos: "End the Chaos"
  CHI_blue_sky_white_sun_never_falls: "The White Sun Never Sets"
@@ -2197,26 +2301,41 @@
  CHI_allied_electronic_bonus_tt: "Grants to all PDTO allies:\nGain 2x 100% research bonus for §YElectronics and Computing Technology§!."
  CHI_international_division_of_labor: "Dominate the Labor Sector"
  CHI_i_am_become_death: "Harness The Destroyer of Worlds"
- CHI_Economy_Industry_category: "財政政策"
- CHI_Economy_Industry_category_desc: "財政額度餘額：[?CHI_fiscal_budget_var]單位"
- CHI_mil_industry_expansion: "軍工業擴張"
- CHI_mil_production_line: "建立軍工生產線"
- CHI_approve_cm13: "批准CM13生產項目"
- CHI_advanced_mil_engine: "高端軍用發動機項目"
- CHI_domestic_cloud_leopard: "建成雲豹自產"
- CHI_improve_mil_quality: "提升軍用品品質"
- CHI_expand_shipyards: "擴大造船廠"
- CHI_build_nuke_plant_5: "建立核五廠"
- CHI_solar_industry_project: "太陽能產業鋪設工程"
- CHI_expand_processing_plant: "擴建加工廠"
- CHI_heavy_industry_policy: "推行重工業政策"
- CHI_national_construction_plan: "國家建設計畫"
+ CHI_Economy_Industry_category: "[UNTRANSLATED] 財政政策"
+
+ CHI_Economy_Industry_category_desc: "[UNTRANSLATED] 財政額度餘額：[?CHI_fiscal_budget_var]單位"
+
+ CHI_mil_industry_expansion: "[UNTRANSLATED] 軍工業擴張"
+
+ CHI_mil_production_line: "[UNTRANSLATED] 建立軍工生產線"
+
+ CHI_approve_cm13: "[UNTRANSLATED] 批准CM13生產項目"
+
+ CHI_advanced_mil_engine: "[UNTRANSLATED] 高端軍用發動機項目"
+
+ CHI_domestic_cloud_leopard: "[UNTRANSLATED] 建成雲豹自產"
+
+ CHI_improve_mil_quality: "[UNTRANSLATED] 提升軍用品品質"
+
+ CHI_expand_shipyards: "[UNTRANSLATED] 擴大造船廠"
+
+ CHI_build_nuke_plant_5: "[UNTRANSLATED] 建立核五廠"
+
+ CHI_solar_industry_project: "[UNTRANSLATED] 太陽能產業鋪設工程"
+
+ CHI_expand_processing_plant: "[UNTRANSLATED] 擴建加工廠"
+
+ CHI_heavy_industry_policy: "[UNTRANSLATED] 推行重工業政策"
+
+ CHI_national_construction_plan: "[UNTRANSLATED] 國家建設計畫"
+
  CHI_taiwan_optoelectronics: "Establish Taiwan Solar Energy Company"
  CHI_mine_silica_sand: "Silica Sand Extraction"
  CHI_invest_free_nations: "Invest in Foreign Solar"
  CHI_norway_state_visit: "Norwegian Collaboration"
  CHI_eurasia_joint_rd: "Propose Joint Eurasian R&D"
- CHI_mil_production_line_completed: "已建立軍工生產線"
+ CHI_mil_production_line_completed: "[UNTRANSLATED] 已建立軍工生產線"
+
  CHI_Economy_Industry_desc: "At the enormous cost of our economic power, we've successfully defended our homeland. The CCP's invasion has destroyed our infrastructure and coastal industry, leaving us the job of restarting our economy."
  CHI_Rebulid_7th_CT_desc: "In accordance with the \"Future Development and Construction Plan for Taiwan International Commercial Ports (2017-2021), 2nd Revised Plan\" from the Executive Yuan, the \"Kaohsiung Port Terminal 7 Project\" was drafted and subsequently approved by the Executive Yuan on April 24, 2019.\n\nHowever, the arrival of war and the horrifying bombardment by the CCP severely devastated the entire port area. This nearly reset the progress of Terminal 7 to zero, a project originally scheduled for completion in mid-2024.\n\nThe central government has approved a proposal to provide additional resources to the project, ensuring that Terminal 7 can be completed on schedule.\n\nTerminal 7 is planned to include 5 deep-water berths and 149 hectares of backland space, capable of accommodating the world's largest 24,000 TEU container ships in the future. The first phase, consisting of 2.5 berths and backland reclamation, was executed under the \"Kaohsiung Port Intercontinental Container Center\" project and completed in May 2019, with repairs concluding just days ago. This project will continue with the construction of the remaining phase two operational infrastructure: 2.5 berths, 51 hectares of land reclamation, container yards and related facilities, an operations management building, and 32 auxiliary structures. Ultimately, this will create a massive automated container base with a storage and transit capacity of over 4.5 million TEUs per year."
  CHI_Way_Of_Can_To_Asia_desc: "Today, the entire world is mired in the flames of war or post-war rubble, and food supplies are severely strained. As our nation seeks a rapid restoration of our industrial system after the war, we should heavily invest in the production of military rations and canned goods. This will drive the development of modern agriculture and light industry, generate foreign exchange, and increase our food reserves, preparing us for the future development of heavy industry and any other crises that may arise."
@@ -2271,7 +2390,8 @@
  CHI_solidarity: "United As One"
  unlock_NCSIST_project_tt: "Unlocks NCSIST Research Project Decisions"
  CHI_relaunch_project_zhenhai: "Project Zhenhai"
- CHI_dont_forget_homeland_desc: "Atop Mount Taiwu on Kinmen Island, four characters are inscribed:\n\n\"毋忘在莒\" (Do not forget Ju)\n\nThis phrase stems from a story dating back two millennia, originating in the ancient State of Qi (present-day Shangdong).\nDuring the Warring States period, the King of Yan appointed Yue Yi as Supreme General and launched an invasion against the State of Qi. Qi’s forces suffered repeated defeats along with the death of the state's leader, King Min. Ultimately, only the Qi cities of Ju and Jimo remained, holding out in desperate resistance.\nAfter five long years of sieges, General Tian Dan of Qi routed Yan forces using the \"Fire Ox Formation.\" He then went on to recapture seventy cities and re-establish the state of Qi.\n\nThis story later gave Chiang Kai Shek inspiration for rallying the military and the people after the Nationalist's defeat at the hands of the PLA. He had the four charactes inscribed to rally the military and the people for the cause of retaking the mainland, a message that has endured for over seventy years.\n\nAs the CCP currently face setbacks in the Taiwan Strait along with political turmoil, the moment is ripe to retake our homeland.\nLet us never forget the spirit of Tian Dan."
+ CHI_dont_forget_homeland_desc: "[UNTRANSLATED] Atop Mount Taiwu on Kinmen Island, four characters are inscribed:\n\n\"毋忘在莒\" (Do not forget Ju)\n\nThis phrase stems from a story dating back two millennia, originating in the ancient State of Qi (present-day Shangdong).\nDuring the Warring States period, the King of Yan appointed Yue Yi as Supreme General and launched an invasion against the State of Qi. Qi’s forces suffered repeated defeats along with the death of the state's leader, King Min. Ultimately, only the Qi cities of Ju and Jimo remained, holding out in desperate resistance.\nAfter five long years of sieges, General Tian Dan of Qi routed Yan forces using the \"Fire Ox Formation.\" He then went on to recapture seventy cities and re-establish the state of Qi.\n\nThis story later gave Chiang Kai Shek inspiration for rallying the military and the people after the Nationalist's defeat at the hands of the PLA. He had the four charactes inscribed to rally the military and the people for the cause of retaking the mainland, a message that has endured for over seventy years.\n\nAs the CCP currently face setbacks in the Taiwan Strait along with political turmoil, the moment is ripe to retake our homeland.\nLet us never forget the spirit of Tian Dan."
+
  CHI_spirit_reaches_to_rainbow_desc: "In the past five millennia of Chinese history, we have faced countless formidable foreign enemies. The Xiongnu, Mongols, and Jurchens have all tried conquering fertile and prosperous land. However, the people of China never simply surrendered. On the contrary, we have always held out in a spirit of resistance. Brave legends such as General Wen Tianxiang of the Song Dynasty embodied this bold spirit through his fierce resistance against the Mongols and his patriotic writings, leaving a legacy of unyielding heroism for future generations.\n\n\nThrough our inspiring past, we may look to the future. We shall strive on without surrender, with thought and courage, and with a spirit that pierces the clouds. Our air force will be the embodiment of this spirit. To carry out this great legacy and achieve ultimate victory, we must eradicate the deep-rooted corruption within our air force!"
  CHI_need_of_equipment_desc: "Since World War II, air superiority has been synonymous with dominance over the battlefield. Although the Nationalist government has pursued various R&D projects since relocating to Taiwan, the military still heavily relies on advanced U.S. fighter aircraft. However, due to attrition from the Taiwan Strait War and the outbreak of the American Civil War, our inventory of fighter jets has been reduced to a mere handful, stripping the military of its ability to rapidly replenish aircraft. We must employ every means necessary to break free from our reliance on foreign nations and build a truly self-reliant Air Force!"
  CHI_funds_college_desc: "If advanced weaponry alone could defeat the CCP, the Nationalist forces would not have collapsed so disastrously during the civil war that began in 1946, ultimately retreating to Formosa. Superior weapons require a superior research and development team behind them to provide support. Every wing panel and screw is the product of precise mathematical calculations and engineering design. Those institutions of higher learning with outstanding achievements in the field of aviation will receive increased research funding. This will be used to purchase more precise experimental equipment and cultivate the aviation engineering talent of the future."
@@ -2284,7 +2404,8 @@
  CHI_forming_air_force_political_warfare_command_desc: "In 1920, to cultivate a revolutionary army capable of ending the warlord era, Sun Yat-sen modeled the \"Political Department of the Military Affairs Commission\" after the Soviet political commissar system. After undergoing numerous reorganizations, it eventually became the General Political Warfare Department under the Ministry of National Defense. Its responsibilities included strictly managing military ideology, conducting external psychological warfare, and appropriately monitoring and intervening in the psychological well-being of soldiers. History has repeatedly proven that a military's true core lies in excellent psychological resilience and absolute loyalty to the government. During the Liangguang Incident, it was precisely Chiang Kai-shek's appeal to national righteousness that persuaded Huang Chih-kang, Huang Chu-ku, and others of the Guangdong Air Force to defect to the central government. These martyrs later sacrificed themselves heroically during the War of Resistance, fighting for China down to the last aircraft and the last man.\n\nTherefore, establishing a dedicated Political Warfare Command for the Air Force is absolutely necessary. We will let our personnel know that the nation they protect is also their most solid backing!"
  CHI_carry_forward_the_inspiration_of_our_airman_desc: "During wartime, our nation's Air Force produced ace pilots such as Kao Chih-hang, Wang Kuang-fu, and Chen Huai-sheng. After the government relocated to Taiwan, we continued to cultivate outstanding talents like Wu Ke-chen, Liao Chen-kuo, Wang Tung-yi, and Kao Ting-cheng. Beyond just these names, there are countless unsung heroes of the blue sky who have defended this free airspace. They, in turn, will continue to train even more exceptional successors in an endless, unbroken lineage. It is true now, and it shall remain true forevermore!"
  CHI_modern_whampoa_desc: "The Republic of China Army, from the Kuomintang Party Army, to the National Revolutionary Army, to the modern-day ROC Army, is a force with a long and storied history. Although certain past policies still hinder us, things are now beginning to take a turn for the better. After all, we successfully repelled the PLA's coastal offensive. Could anyone argue that the PLA's equipment was worse than ours? We have already proven ourselves. Now is the time to deepen our reforms even further!"
- CHI_modern_whampoa_tooltip: "選擇此條軍改分支將給予您§G強大的陸軍加成§!，但是您將§R無法編輯部隊§!，並且僅能通過§Y決議§!訓練新部隊。"
+ CHI_modern_whampoa_tooltip: "[UNTRANSLATED] 選擇此條軍改分支將給予您§G強大的陸軍加成§!，但是您將§R無法編輯部隊§!，並且僅能通過§Y決議§!訓練新部隊。"
+
  CHI_new_whampoa_spirits_desc: "For many years, the old-guard generals of the Whampoa clique were one of the major obstacles to military reform. Many outdated tactical systems were not overhauled until the eve of the Taiwan Strait War. They worried that if the tactics that played such a massive role during the Northern Expedition were completely replaced, the military would forget its roots. However, while tactics may change, the spirit lives on forever. The Taiwan Strait War proved that even as our tactics and equipment fully align with NATO standards, our armed forces remain a patriotic organization that loves its people and fears no hardship. The spirit has not vanished; it resides within our hearts."
  CHI_unity_of_knowledge_and_desc: "The Ministry of National Defense has summarized the lessons learned during the Taiwan Strait War into several comprehensive reports. These documents systematically outline the new tactical improvements and training programs for our troops. Such excellent reports cannot be allowed to gather dust in an archive room. High command has already ordered them to be copied and distributed to every unit for immediate training implementation."
  CHI_shining_spear_and_iron_horses_desc: "Before the next-generation main battle tank is developed, we must immediately address the fact that our current tanks possess weak armor and are unable to penetrate enemy armor. To urgently resolve this issue, the Ministry of National Defense plans to upgrade the CM-12 with a larger caliber gun and equip it with explosive reactive armor."
@@ -2377,10 +2498,14 @@
  CHI_mongolian_negotiations_desc: "Mongolia—a country bordering China to the south and Russia to the north. The birth of this nation did not arise from a context of national self-determination or separatism, but rather, it was established by the former Soviet regime forcibly ceding land to create a buffer state between China and Russia. The CCP, which tacitly accepted this relationship, is now gone, and our country has never recognized this treaty. We should immediately dispatch diplomats to Mongolia to discuss the issue of its continued existence."
  CHI_tuva_problem_desc: "The Tuva Republic—formerly known in Chinese as Tannu Uriankhai. Centuries ago, the Russian Empire and the Qing Empire engaged in a game of governance over this strategic location. After the success of the Xinhai Revolution, Tannu Uriankhai followed Outer Mongolia in declaring independence from China and joined the Russian Empire. It subsequently went through the Soviet era to become the Tuva Republic within the present-day Russian Federation. Our actions to recover Outer Mongolia have already caused tension with Russia, and the Tuva issue could potentially spark another major war."
  CHI_begonia_leaf_desc: "Having resolved relations with Mongolia, more than ninety percent of our country's claimed maximum territory has been secured. There are still many fragmented lands under the control of other nations, some of which are partners who once stood on the same front with us against the CCP. The government will dispatch diplomats to discuss this, hoping that it won't lead to outcomes that none of us would be happy to see..."
- CHI_GAW_situation_category: "大亞洲戰爭"
- CHI_ending_tooltip: "《同島一命·烈焰升騰中華民國擴充》製作組感謝您遊玩§Y“同島一命”§!，並希望您§P體驗愉快§!!\n\n\n\n\n£GFX_chi_ending_texticon\n\n\n\n\n\n§g願中國終成自由！§!"
- CHI_ending_tooltip2: "《同島一命·烈焰升騰中華民國擴充》製作組感謝您遊玩§Y“同島一命”§!，並希望您§P體驗愉快§!!\n\n\n\n\n£GFX_chi_ending_two_texticon\n\n\n\n\n\n§g中華民國萬歲！§!"
- CHI_ending_tooltip3: "《同島一命·烈焰升騰中華民國擴充》製作組感謝您遊玩§Y“同島一命”§!，並希望您§P體驗愉快§!!\n\n\n\n\n£GFX_chi_ending_three_texticon\n\n\n\n\n\n§g革命尚未成功，同志仍須努力！§!"
+ CHI_GAW_situation_category: "[UNTRANSLATED] 大亞洲戰爭"
+
+ CHI_ending_tooltip: "[UNTRANSLATED] 《同島一命·烈焰升騰中華民國擴充》製作組感謝您遊玩§Y“同島一命”§!，並希望您§P體驗愉快§!!\n\n\n\n\n£GFX_chi_ending_texticon\n\n\n\n\n\n§g願中國終成自由！§!"
+
+ CHI_ending_tooltip2: "[UNTRANSLATED] 《同島一命·烈焰升騰中華民國擴充》製作組感謝您遊玩§Y“同島一命”§!，並希望您§P體驗愉快§!!\n\n\n\n\n£GFX_chi_ending_two_texticon\n\n\n\n\n\n§g中華民國萬歲！§!"
+
+ CHI_ending_tooltip3: "[UNTRANSLATED] 《同島一命·烈焰升騰中華民國擴充》製作組感謝您遊玩§Y“同島一命”§!，並希望您§P體驗愉快§!!\n\n\n\n\n£GFX_chi_ending_three_texticon\n\n\n\n\n\n§g革命尚未成功，同志仍須努力！§!"
+
  CHI_ending_random_tt: "[Root.GetCHIEndingTooltip]"
  oil: "Oil"
  CHI_hsiung_hou_chi_char: "Hsiung Hou-chi"

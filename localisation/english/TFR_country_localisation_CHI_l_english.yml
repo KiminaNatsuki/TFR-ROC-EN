@@ -5006,22 +5006,18 @@
 
  HKN_Government: "Hong Kong Government"
 
- HKN_Government_desc: "Hong Kong Government"
-
  HKN_transitional_party: "Hong Kong Democratic Autonomy Faction"
 
  MCU_Government: "Macau Special Municipal Government"
 
- MCU_Government_desc: "Macau Special Municipal Government"
-
  MCU_transitional_party: "Macau Democratic Autonomy Faction"
 
 
- CHI_ending_tooltip: "The \"One Island, One Destiny - Flaming Ascension ROC Expansion\" development team thanks you for playing §Y\"One Island, One Destiny\"§!, and we hope you had a §Ppleasant experience§!!\n\n\n\n\n£GFX_chi_ending_texticon\n\n\n\n\n\n§gMay China finally be free!§!"
+ CHI_ending_tooltip: "The \"One Island, One Determination - The Fire Rises: Republic of China Expansion\" development team thanks you for playing §Y\"One Island, One Determination\"§!, and we hope you had a §Ppleasant experience§!!\n\n\n\n\n£GFX_chi_ending_texticon\n\n\n\n\n\n§gMay China finally be free!§!"
 
- CHI_ending_tooltip2: "The \"One Island, One Destiny - Flaming Ascension ROC Expansion\" development team thanks you for playing §Y\"One Island, One Destiny\"§!, and we hope you had a §Ppleasant experience§!!\n\n\n\n\n£GFX_chi_ending_two_texticon\n\n\n\n\n\n§gLong live the Republic of China!§!"
+ CHI_ending_tooltip2: "The \"One Island, One Determination - The Fire Rises: Republic of China Expansion\" development team thanks you for playing §Y\"One Island, One Determination\"§!, and we hope you had a §Ppleasant experience§!!\n\n\n\n\n£GFX_chi_ending_two_texticon\n\n\n\n\n\n§gLong live the Republic of China!§!"
 
- CHI_ending_tooltip3: "The \"One Island, One Destiny - Flaming Ascension ROC Expansion\" development team thanks you for playing §Y\"One Island, One Destiny\"§!, and we hope you had a §Ppleasant experience§!!\n\n\n\n\n£GFX_chi_ending_three_texticon\n\n\n\n\n\n§gThe revolution is not yet successful; comrades must still strive on!§!"
+ CHI_ending_tooltip3: "The \"One Island, One Determination - The Fire Rises: Republic of China Expansion\" development team thanks you for playing §Y\"One Island, One Determination\"§!, and we hope you had a §Ppleasant experience§!!\n\n\n\n\n£GFX_chi_ending_three_texticon\n\n\n\n\n\n§gThe revolution is not yet successful; comrades must still strive on!§!"
 
  CHI_ending_random_tt: "[Root.GetCHIEndingTooltip]"
 

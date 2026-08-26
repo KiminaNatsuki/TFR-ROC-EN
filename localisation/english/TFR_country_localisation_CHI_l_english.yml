@@ -3217,9 +3217,9 @@
 
  CHI_country_summary: "§YCountry Summary§!:\n\n§3[CHI.GetFlag] The Republic of China§!, born in the flames of the Xinhai Revolution. Once ruling the vast §3Mainland China§!, it endured war, §drevolution§!, and upheaval throughout the turbulent 20th century. The bloody civil war eventually rewrote history. The Nationalist Government retreated to §GTaiwan§!, and the fate of [PRC.GetFlag]§RChi§!§3na§![CHI.GetFlag] turned to a new chapter.\n\nPost-war §GTaiwan§! rose from a humble island to one of Asia's most dynamic regions during the Cold War, driven by its hardworking people, rapid economic growth, and booming industry.\n\nThe political system transformed from §gauthoritarian rule§! to a §Ydemocratic system§!, as diverse voices shaped today's Taiwanese society. Freedom and prosperity gave this small island a unique place on the world stage.\n\nYet the shadow of the §3Republic§! lingers. The §R[PRC.GetFlag] Red Dragon§! glares like a tiger, while political divisions tear at society. Can the §3Republic of China§! defeat the §Rwicked dragon§!? Can the §Gdream of Taiwan independence§! be realized?\n\n§Y\"Guard freedom, and let this island continue to move forward.\"§!"
 
- CHI_country_paths: "§YCountry Paths§!:\n§3 - Kuomintang (Chinese Nationalist Party)§!\n§G - Democratic Progressive Party§!"
+ CHI_country_paths: "\n\n\n\n\n\n\n§YCountry Paths§!:\n§3 - Kuomintang (Chinese Nationalist Party)§!\n§G - Democratic Progressive Party§!"
 
- CHI_country_other: "§YGameplay Tips:§!\n§YLife is short, treat it just like a game.\nSometimes you worry, sometimes you relax.\nYou ask me what secret tricks I have up my sleeve?\nActually, there are no shortcuts, as long as you're happy!§!"
+ CHI_country_other: "\n\n§YGameplay Tips:§!\n§YLife is short, treat it just like a game. Sometimes you worry, sometimes you relax. You ask me what secret tricks I have up my sleeve? Actually, there are no shortcuts, as long as you're happy!§!"
 
  CHI_oil_crash_name: "Oil Crisis"
 

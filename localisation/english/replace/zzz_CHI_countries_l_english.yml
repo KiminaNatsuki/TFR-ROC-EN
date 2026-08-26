@@ -1,4 +1,5 @@
 ﻿l_english:
+ ## 國名與形容詞覆蓋
  CHI_conservative_ADJ: "China"
 
  CHI_nationalist_ADJ: "China"
@@ -9,6 +10,8 @@
 
  CHI_fascist_ADJ: "China"
 
+
+ ## CHI_UNITED 統一/反攻/還都動態國名與形容詞
  CHI_UNITED: "Republic of China"
 
  CHI_UNITED_DEF: "Republic of China"

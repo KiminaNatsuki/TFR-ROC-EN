@@ -1,21 +1,20 @@
 ﻿l_english:
- CHI.TW.61.t:0 "[UNTRANSLATED] 中科院設施遭到毀滅性空襲"
+  CHI.TW.61.t: "Devastating Airstrike on NCSIST Facilities"
 
- CHI.TW.61.d:0 "[UNTRANSLATED] 隨著台海戰火擴大，敵方精準導彈突破了我方防空網，國家中山科學研究院（中科院）總部與核心研發設施遭精準打擊。研發人員傷亡慘重，多項關鍵武器研發計畫被迫中斷。"
+  CHI.TW.61.d: "As the war across the Taiwan Strait escalates, enemy precision missiles have breached our air defense network, dealing a devastating blow to the headquarters and core research facilities of the National Chung-Shan Institute of Science and Technology (NCSIST). R&D personnel have suffered heavy casualties, and multiple key weapon development programs have been forced to halt."
 
- CHI.TW.61.a:0 "[UNTRANSLATED] 這對我們的自主國防是致命的打擊..."
+  CHI.TW.61.a: "This is a fatal blow to our indigenous defense..."
 
- CHI_ncsist_destroyed:0 "[UNTRANSLATED] 中科院設施癱瘓"
+  CHI_ncsist_destroyed: "NCSIST Facilities Crippled"
 
- CHI_ncsist_destroyed_desc:0 "[UNTRANSLATED] 由於中科院核心設施遭到破壞，國防科技研發與軍工生產效率嚴重下降。"
+  CHI_ncsist_destroyed_desc: "Due to the destruction of core NCSIST facilities, the efficiency of our defense technology R&D and military-industrial production has severely decreased."
 
- CHI.TW.63.t:0 "[UNTRANSLATED] 重建國家中山科學研究院"
+  CHI.TW.63.t: "Rebuilding the NCSIST"
 
- CHI.TW.63.d:0 "[UNTRANSLATED] 隨著戰局穩定與資源重新調配，我們正式啟動了中科院設施的重建計畫..."
+  CHI.TW.63.d: "With the stabilization of the frontline and the reallocation of resources, we have officially launched the reconstruction plan for the NCSIST facilities..."
 
- CHI.TW.63.a:0 "[UNTRANSLATED] 盡快恢復我們的研發量能！"
+  CHI.TW.63.a: "Restore our R&D capacity as soon as possible!"
 
- CHI_ncsist_rebuilding:0 "[UNTRANSLATED] 重建中科院"
+  CHI_ncsist_rebuilding: "Rebuilding NCSIST"
 
- CHI_ncsist_rebuilding_desc:0 "[UNTRANSLATED] 我們正在全力重建國家中山科學研究院的設施，投入大量資源以盡快恢復軍工研發與生產量能。"
-
+  CHI_ncsist_rebuilding_desc: "We are fully committed to rebuilding the facilities of the National Chung-Shan Institute of Science and Technology, investing massive resources to restore our military-industrial R&D and production capacity as quickly as possible."

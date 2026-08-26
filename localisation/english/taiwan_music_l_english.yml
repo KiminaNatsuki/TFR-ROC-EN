@@ -2,41 +2,78 @@
  radio_TPM_TITLE: "Taiwan Pop Music Radio"
  radio_TPM2_TITLE: "Taiwan Political Radio"
  radio_TMM_TITLE: "Taiwan Military Music Radio"
- setoffagiain: "任賢齊 - 再出發\n\n\n\n\n\n£GFX_Set_off_again\n\n\n\n\n\n\n"
- Damn: "草東沒有派對 - 但\n\n\n\n\n\n£GFX_Damn\n\n\n\n\n\n\n"
- tomorrowwillbeBetter: "群星 - 明天會更好\n\n\n\n\n\n£GFX_tomorrow_will_be_Better\n\n\n\n\n\n\n"
- YourLegend: "五月天 - 將軍令\n\n\n\n\n\n£GFX_Your_Legend\n\n\n\n\n\n\n"
- Senbonelection: "千本選舉\n\n\n\n\n\n£GFX_Senbonelection\n\n\n\n\n\n\n"
- 2020tsaielectionsong: "自信勇敢 咱的名\n\n\n\n\n\n£GFX_2020tsaielectionsong\n\n\n\n\n\n\n"
- 2020hanelectionsong: "耀眼新藍天\n\n\n\n\n\n£GFX_2020hanelectionsong\n\n\n\n\n\n\n"
- taiwan: "台灣 - 曾柏恩\n\n\n\n\n\n£GFX_taiwan\n\n\n\n\n\n\n"
- teamtaiwan: "挺台灣\n\n\n\n\n\n£GFX_teamtaiwan\n\n\n\n\n\n\n"
- StrugglingintheSoutheast: "東南苦行山\n\n\n\n\n\n£GFX_StrugglingintheSoutheast\n\n\n\n\n\n\n"
- HubenHurray: "虎賁萬歲\n\n\n\n\n\n£GFX_HubenHurray\n\n\n\n\n\n\n"
- TaiwaneseMarch: "台灣進行曲\n\n\n\n\n\n£GFX_TaiwaneseMarch\n\n\n\n\n\n\n"
- NationalAnthemoftheRepublicofChina: "中華民國國歌\n\n\n\n\n\n£GFX_NationalAnthemoftheRepublicofChina\n\n\n\n\n\n\n"
- NationalFlagAnthemoftheRepublicofChina: "中華民國國旗歌\n\n\n\n\n\n£GFX_NationalFlagAnthemoftheRepublicofChina\n\n\n\n\n\n\n"
+ setoffagiain: "Richie Jen - Setting Out Again\n\n\n\n\n\n£GFX_Set_off_again\n\n\n\n\n\n\n"
+
+ Damn: "No Party for Cao Dong - Damn\n\n\n\n\n\n£GFX_Damn\n\n\n\n\n\n\n"
+
+ tomorrowwillbeBetter: "Various Artists ft. Lo Ta-yu - Tomorrow Will Be Better\n\n\n\n\n\n£GFX_tomorrow_will_be_Better\n\n\n\n\n\n\n"
+
+ YourLegend: "Mayday - Your Legend\n\n\n\n\n\n£GFX_Your_Legend\n\n\n\n\n\n\n"
+
+ Senbonelection: "Old Goose Entertainment - Thousand Elections\n\n\n\n\n\n£GFX_Senbonelection\n\n\n\n\n\n\n"
+
+ 2020tsaielectionsong: "Fire EX. - Brave Forward, Our Name\n\n\n\n\n\n£GFX_2020tsaielectionsong\n\n\n\n\n\n\n"
+
+ 2020hanelectionsong: "Sea Wave - Dazzling New Blue Sky\n\n\n\n\n\n£GFX_2020hanelectionsong\n\n\n\n\n\n\n"
+
+ taiwan: "Brian Tseng ft. DJ Hauer - TAIWAN\n\n\n\n\n\n£GFX_taiwan\n\n\n\n\n\n\n"
+
+ teamtaiwan: "Xu Daixia ft. Way Jamrock - Team Taiwan\n\n\n\n\n\n£GFX_teamtaiwan\n\n\n\n\n\n\n"
+
+ StrugglingintheSoutheast: "Johnny Yin - Struggling in the Southeast\n\n\n\n\n\n£GFX_StrugglingintheSoutheast\n\n\n\n\n\n\n"
+
+ HubenHurray: "ROC Armed Forces Military Academy Choir - Long Live the Huben\n\n\n\n\n\n£GFX_HubenHurray\n\n\n\n\n\n\n"
+
+ TaiwaneseMarch: "OK Mixed Choir & Lo Ta-yu - Taiwan March\n\n\n\n\n\n£GFX_TaiwaneseMarch\n\n\n\n\n\n\n"
+
+ NationalAnthemoftheRepublicofChina: "National Revolutionary Army Choir - National Anthem of the Republic of China\n\n\n\n\n\n£GFX_NationalAnthemoftheRepublicofChina\n\n\n\n\n\n\n"
+
+ NationalFlagAnthemoftheRepublicofChina: "ROC Armed Forces Military Academy Band & Choir - National Flag Anthem of the Republic of China\n\n\n\n\n£GFX_NationalFlagAnthemoftheRepublicofChina\n\n\n\n\n\n\n"
+
  MedalofValor: "英勇勳章\n\n\n\n\n\n£GFX_MedalofValor\n\n\n\n\n\n\n"
- ghostland: "鬼島\n\n\n\n\n\n£GFX_ghostland\n\n\n\n\n\n\n"
- GrandAmbition: "豪情\n\n\n\n\n\n£GFX_GrandAmbition\n\n\n\n\n\n\n"
- ImmortalChina: "死不了的中國\n\n\n\n\n\n£GFX_ImmortalChina\n\n\n\n\n\n\n"
- NightRaid: "夜襲\n\n\n\n\n\n£GFX_NightRaid\n\n\n\n\n\n\n"
- Lightofvictory: "勝利之光\n\n\n\n\n\n£GFX_Lightofvictory\n\n\n\n\n\n\n"
- Ambitionstothesky: "壯蕭凌雲\n\n\n\n\n\n£GFX_Ambitionstothesky\n\n\n\n\n\n\n"
- MarchofMilitaryPolice: "憲兵進行曲\n\n\n\n\n\n£GFX_MarchofMilitaryPolice\n\n\n\n\n\n\n"
- SongofMilitaryDiscipline: "軍紀歌\n\n\n\n\n\n£GFX_SongofMilitaryDiscipline\n\n\n\n\n\n\n"
- SoulofWhampoa: "黃埔軍魂\n\n\n\n\n\n£GFX_SoulofWhampoa\n\n\n\n\n\n\n"
- ihavearifle: "我有一支槍\n\n\n\n\n\n£GFX_ihavearifle\n\n\n\n\n\n\n"
- MilitaryAnthemofRepublicofChinaNavy: "中華民國海軍軍歌\n\n\n\n\n\n£GFX_MilitaryAnthemofRepublicofChinaNavy\n\n\n\n\n\n\n"
- SongofROCCombinedServiceForces: "中華民國聯勤歌\n\n\n\n\n\n£GFX_SongofROCCombinedServiceForces\n\n\n\n\n\n\n"
- MarchoftheROCTanktroops: "中華民國裝甲兵進行曲\n\n\n\n\n\n£GFX_MarchoftheROCTanktroops\n\n\n\n\n\n\n"
- TheheroicSonsofHuangpu: "黃埔男兒最豪壯\n\n\n\n\n\n£GFX_TheheroicSonsofHuangpu\n\n\n\n\n\n\n"
- MarchoftheWarriors: "勇士進行曲\n\n\n\n\n\n£GFX_MarchoftheWarriors\n\n\n\n\n\n\n"
- ResisttheEnemySong: "抗敵歌\n\n\n\n\n\n£GFX_ResisttheEnemySong\n\n\n\n\n\n\n"
- NightSentry: "夜哨\n\n\n\n\n\n£GFX_NightSentry\n\n\n\n\n\n\n"
- MilitaryAnthemoftheROCAirforce: "中華民國空軍軍歌\n\n\n\n\n\n£GFX_MilitaryAnthemoftheROCAirforce\n\n\n\n\n\n\n"
- ChinaTheCamel: "中國的駱駝\n\n\n\n\n\n£GFX_ChinaTheCamel\n\n\n\n\n\n\n"
- MaritimeMarch: "海上進行曲\n\n\n\n\n\n£GFX_MaritimeMarch\n\n\n\n\n\n\n"
- UprightandEqualSpirit: "頂天立地\n\n\n\n\n\n£GFX_UprightandEqualSpirit\n\n\n\n\n\n\n"
- ROCMilitaryParadeReviewMarch: "分列式進行曲\n\n\n\n\n\n£GFX_ROCMilitaryParadeReviewMarch\n\n\n\n\n\n\n"
- StreetFightingSong: "巷戰歌\n\n\n\n\n\n£GFX_StreetFightingSong\n\n\n\n\n\n\n"
+ ghostland: "Namewee ft. Dwagie - Ghost Island\n\n\n\n\n\n£GFX_ghostland\n\n\n\n\n\n\n"
+
+ GrandAmbition: "Han Sheng - Pride and Passion\n\n\n\n\n\n£GFX_GrandAmbition\n\n\n\n\n\n\n"
+
+ ImmortalChina: "Unknown Lyricist - The Immortal China\n\n\n\n\n\n£GFX_ImmortalChina\n\n\n\n\n\n\n"
+
+ NightRaid: "Republic of China Armed Forces Choir - Night Raid\n\n\n\n\n\n£GFX_NightRaid\n\n\n\n\n\n\n"
+
+ Lightofvictory: "Jenny Tseng - Light of Victory\n\n\n\n\n\n£GFX_Lightofvictory\n\n\n\n\n\n\n"
+
+ Ambitionstothesky: "Republic of China Air Force Academy Choir - Grand Ambitions Reaching the Clouds\n\n\n\n\n\n£GFX_Ambitionstothesky\n\n\n\n\n\n\n"
+
+ MarchofMilitaryPolice: "Republic of China Armed Forces Choir - March of the Military Police\n\n\n\n\n\n£GFX_MarchofMilitaryPolice\n\n\n\n\n\n\n"
+
+ SongofMilitaryDiscipline: "Republic of China Armed Forces Choir - Song of Military Discipline\n\n\n\n\n\n£GFX_SongofMilitaryDiscipline\n\n\n\n\n\n\n"
+
+ SoulofWhampoa: "Fei Yu-ching - Whampoa Military Soul\n\n\n\n\n\n£GFX_SoulofWhampoa\n\n\n\n\n\n\n"
+
+ ihavearifle: "Republic of China Armed Forces Choir - I Have a Gun\n\n\n\n\n\n£GFX_ihavearifle\n\n\n\n\n\n\n"
+
+ MilitaryAnthemofRepublicofChinaNavy: "Republic of China Navy Choir - Naval Anthem of the Republic of China\n\n\n\n\n\n£GFX_MilitaryAnthemofRepublicofChinaNavy\n\n\n\n\n\n\n"
+
+ SongofROCCombinedServiceForces: "Republic of China Combined Service Forces Choir - Song of the Combined Service Forces\n\n\n\n\n\n£GFX_SongofROCCombinedServiceForces\n\n\n\n\n\n\n"
+
+ MarchoftheROCTanktroops: "Republic of China Armed Forces Choir - Armored Division Marching Song\n\n\n\n\n\n£GFX_MarchoftheROCTanktroops\n\n\n\n\n\n\n"
+
+ TheheroicSonsofHuangpu: "The Plains Trio - Whampoa Men are the Most Heroic\n\n\n\n\n\n£GFX_TheheroicSonsofHuangpu\n\n\n\n\n\n\n"
+
+ MarchoftheWarriors: "Republic of China Armed Forces Choir - March of the Warriors\n\n\n\n\n\n£GFX_MarchoftheWarriors\n\n\n\n\n\n\n"
+
+ ResisttheEnemySong: "National Conservatory of Music Choir - The Song of Resistance\n\n\n\n\n\n£GFX_ResisttheEnemySong\n\n\n\n\n\n\n"
+
+ NightSentry: "Republic of China Armed Forces Choir - Night Sentry\n\n\n\n\n\n£GFX_NightSentry\n\n\n\n\n\n\n"
+
+ MilitaryAnthemoftheROCAirforce: "Republic of China Air Force Choir - Air Force Anthem of the Republic of China\n\n\n\n\n\n£GFX_MilitaryAnthemoftheROCAirforce\n\n\n\n\n\n\n"
+
+ ChinaTheCamel: "Republic of China Armed Forces Choir - The Chinese Camel\n\n\n\n\n\n£GFX_ChinaTheCamel\n\n\n\n\n\n\n"
+
+ MaritimeMarch: "Republic of China Armed Forces Choir - Maritime March\n\n\n\n\n\n£GFX_MaritimeMarch\n\n\n\n\n\n\n"
+
+ UprightandEqualSpirit: "Republic of China Armed Forces Choir - Standing Tall and Firm\n\n\n\n\n\n£GFX_UprightandEqualSpirit\n\n\n\n\n\n\n"
+
+ ROCMilitaryParadeReviewMarch: "Republic of China Armed Forces Band - Parade Review March\n\n\n\n\n\n£GFX_ROCMilitaryParadeReviewMarch\n\n\n\n\n\n\n"
+
+ StreetFightingSong: "Chen Tian-he - Street Fighting Song\n\n\n\n\n\n£GFX_StreetFightingSong\n\n\n\n\n\n\n"
+

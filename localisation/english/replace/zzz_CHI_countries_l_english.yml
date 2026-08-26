@@ -1,39 +1,77 @@
 ﻿l_english:
- CHI_conservative_ADJ: "Taiwanese"
- CHI_nationalist_ADJ: "Taiwanese"
- CHI_authoritarian_democrat_ADJ: "Taiwanese"
- CHI_paternalism_ADJ: "中国"
- CHI_fascist_ADJ: "Taiwanese"
- CHI_UNITED: "中华民国"
- CHI_UNITED_DEF: "中华民国"
- CHI_UNITED_ADJ: "中国"
- CHI_UNITED_conservative: "中华民国"
- CHI_UNITED_conservative_DEF: "中华民国"
- CHI_UNITED_conservative_ADJ: "中国"
- CHI_UNITED_nationalist: "中华民国"
- CHI_UNITED_nationalist_DEF: "中华民国"
- CHI_UNITED_nationalist_ADJ: "中国"
- CHI_UNITED_authoritarian_democrat: "中华民国"
- CHI_UNITED_authoritarian_democrat_DEF: "中华民国"
- CHI_UNITED_authoritarian_democrat_ADJ: "中国"
- CHI_UNITED_paternalism: "中华民国"
- CHI_UNITED_paternalism_DEF: "中华民国"
- CHI_UNITED_paternalism_ADJ: "中国"
- CHI_UNITED_fascist: "中华民国"
- CHI_UNITED_fascist_DEF: "中华民国"
- CHI_UNITED_fascist_ADJ: "中国"
- CHI_UNITED_market_liberal: "中华民国"
- CHI_UNITED_market_liberal_DEF: "中华民国"
- CHI_UNITED_market_liberal_ADJ: "中国"
- CHI_UNITED_social_liberal: "中华民国"
- CHI_UNITED_social_liberal_DEF: "中华民国"
- CHI_UNITED_social_liberal_ADJ: "中国"
- CHI_UNITED_social_democrat: "中华民国"
- CHI_UNITED_social_democrat_DEF: "中华民国"
- CHI_UNITED_social_democrat_ADJ: "中国"
- CHI_UNITED_libertarian_socialist: "中华民国"
- CHI_UNITED_libertarian_socialist_DEF: "中华民国"
- CHI_UNITED_libertarian_socialist_ADJ: "中国"
- CHI_UNITED_communist: "中华民国"
- CHI_UNITED_communist_DEF: "中华民国"
- CHI_UNITED_communist_ADJ: "中国"
+ CHI_conservative_ADJ: "China"
+
+ CHI_nationalist_ADJ: "China"
+
+ CHI_authoritarian_democrat_ADJ: "China"
+
+ CHI_paternalism_ADJ: "China"
+
+ CHI_fascist_ADJ: "China"
+
+ CHI_UNITED: "Republic of China"
+
+ CHI_UNITED_DEF: "Republic of China"
+
+ CHI_UNITED_ADJ: "China"
+
+ CHI_UNITED_conservative: "Republic of China"
+
+ CHI_UNITED_conservative_DEF: "Republic of China"
+
+ CHI_UNITED_conservative_ADJ: "China"
+
+ CHI_UNITED_nationalist: "Republic of China"
+
+ CHI_UNITED_nationalist_DEF: "Republic of China"
+
+ CHI_UNITED_nationalist_ADJ: "China"
+
+ CHI_UNITED_authoritarian_democrat: "Republic of China"
+
+ CHI_UNITED_authoritarian_democrat_DEF: "Republic of China"
+
+ CHI_UNITED_authoritarian_democrat_ADJ: "China"
+
+ CHI_UNITED_paternalism: "Republic of China"
+
+ CHI_UNITED_paternalism_DEF: "Republic of China"
+
+ CHI_UNITED_paternalism_ADJ: "China"
+
+ CHI_UNITED_fascist: "Republic of China"
+
+ CHI_UNITED_fascist_DEF: "Republic of China"
+
+ CHI_UNITED_fascist_ADJ: "China"
+
+ CHI_UNITED_market_liberal: "Republic of China"
+
+ CHI_UNITED_market_liberal_DEF: "Republic of China"
+
+ CHI_UNITED_market_liberal_ADJ: "China"
+
+ CHI_UNITED_social_liberal: "Republic of China"
+
+ CHI_UNITED_social_liberal_DEF: "Republic of China"
+
+ CHI_UNITED_social_liberal_ADJ: "China"
+
+ CHI_UNITED_social_democrat: "Republic of China"
+
+ CHI_UNITED_social_democrat_DEF: "Republic of China"
+
+ CHI_UNITED_social_democrat_ADJ: "China"
+
+ CHI_UNITED_libertarian_socialist: "Republic of China"
+
+ CHI_UNITED_libertarian_socialist_DEF: "Republic of China"
+
+ CHI_UNITED_libertarian_socialist_ADJ: "China"
+
+ CHI_UNITED_communist: "Republic of China"
+
+ CHI_UNITED_communist_DEF: "Republic of China"
+
+ CHI_UNITED_communist_ADJ: "China"
+

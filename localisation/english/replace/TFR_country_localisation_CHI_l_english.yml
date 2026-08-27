@@ -3137,11 +3137,11 @@
 
  Handling_epidemic: "§CHandling of the epidemic has begun §!"
 
- CHI_vaccine_tt: "Vaccination"
+ CHI_vaccine_tt: ""
 
- CHI_vaccine_dece: "When the progress bar is complete, the epidemic will §Ggradually begin to improve §!"
+ CHI_vaccine_dece: "When the progress bar is complete, the epidemic will gradually begin to subside."
 
- CHI_vaccine_number: "§CQuantity§!: ( §C[?CHI:CHI_vaccine_value]§! / 10000 )"
+ CHI_vaccine_number: "§CVaccination Quantity§!: ( §C[?CHI:CHI_vaccine_value]§! / 10000 )"
 
  CHI_vaccine_progbar_tt: "§CVaccination§! Progress: §C[?CHI:CHI_vaccine_progress]% §!"
 
@@ -4200,6 +4200,7 @@
  CHI_population_aging: "Aging Population"
 
  CHI_population_aging_dynamic: "Aging Population"
+ CHI_population_aging_dynamic_desc: "East Asian countries have long faced the dual pressures of low birthrates and aging populations. Mature economies, rising education costs, heavy housing burdens, and long working hours have led to a continuous decline in birthrates. \n\nTaiwan is particularly severe. The low birthrate has persisted for many years, with the younger population gradually shrinking and the proportion of elderly people rapidly increasing, resulting in a top-heavy population structure. \n\nThe shrinking labor force, rising social security burdens, and declining pool of eligible conscripts... These problems are impacting Taiwanese society. If we do not take action soon, §RTaiwan will fall into an abyss from which there is no return.§!"
 
  CHI_Population_Aging_decisions: "Demographic Crisis"
 

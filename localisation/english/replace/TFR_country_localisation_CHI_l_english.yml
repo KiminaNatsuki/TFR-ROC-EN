@@ -1872,6 +1872,7 @@
 
  airforce_intel_to_others_tooltip: "$MODIFIER_AIRFORCE_INTEL_TO_OTHERS$: $RIGHT|-=%%1$"
 
+ factory_energy_consumption_tooltip: " $MODIFIER_FACTORY_ENERGY_CONSUMPTION$: $RIGHT|-=%1$"
  min_export_tooltip: "$MODIFIER_MIN_EXPORT_FACTOR$: $RIGHT|=Y%0$"
 
  consumer_goods_factor_tooltip: "$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|Y=%1$"
@@ -4410,6 +4411,8 @@
  CHI_efficient_government: "Streamline the Government"
 
  CHI_success_everywhere: "Success Everywhere"
+
+ CHI_wartime_success_everywhere: "During Wartime:"
 
 
  CHI_Three_Labor_arrows: "Three Arrows of Labor"

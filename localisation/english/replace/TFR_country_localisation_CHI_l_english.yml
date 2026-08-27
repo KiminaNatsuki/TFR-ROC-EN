@@ -995,6 +995,28 @@
 
  CHI_dont_forget_homeland_category: "The Military, A Great Matter of the State"
 
+ CHI_strengthen_anti_corruption_measures_tt: "將§Y軍事改革§!所需三軍§G經驗減半§Y"
+ CHI_project_ROCA_reform_1_anti_corruption: "Preparatory Military Reorganization"
+ CHI_project_ROCA_reform_1_anti_corruption_desc: "We must embark on a preparatory military reorganization plan, reducing the size of the army and streamlining personnel. The dispatch of any volunteer forces is strictly prohibited to concentrate resources on subsequent reforms."
+
+ CHI_project_ROCA_reform_2_anti_corruption: "Reorganization Conference"
+ CHI_project_ROCA_reform_2_anti_corruption_desc: "The Reorganization Conference has officially begun. All currently deployed divisions will be deleted to unify and standardize combat organizations and eliminate redundant military units."
+
+ CHI_project_ROCA_reform_3_anti_corruption: "Restore Corps-Level Designations"
+ CHI_project_ROCA_reform_3_anti_corruption_desc: "As military reorganization proceeds smoothly, we will restore corps-level designations, enhance the command capabilities of all generals, and issue new command post organizations."
+
+ CHI_project_ROCA_reform_4_anti_corruption: "Establish Military Command System"
+ CHI_project_ROCA_reform_4_anti_corruption_desc: "The modern military command system of the ROC Armed Forces has been officially established! Our divisional organization, combat width adaptability, reinforcement rate, and initiative have all been significantly improved, and the dispatch of volunteer forces is reopened."
+
+ CHI_project_Ning_Hai_anti_corruption: "Project Ning Hai"
+ CHI_project_Ning_Hai_anti_corruption_desc: "Project Ning Hai is a long-term strategy aimed at comprehensively upgrading the combat capabilities of the ROC Navy, covering fleet coordination, speed, detection, and the offensive and defensive effectiveness of screening ships."
+
+ CHI_project_Ling_Hsiao_anti_corruption: "Project Ling Hsiao"
+ CHI_project_Ling_Hsiao_anti_corruption_desc: "Project Ling Hsiao focuses on establishing air superiority and providing close air support, ensuring our eagles dominate the skies and provide the most devastating strike power for ground troops."
+
+ CHI_project_hump_training_anti_corruption: "The Hump Bombing Training"
+ CHI_project_hump_training_anti_corruption_desc: "Our Air Force pilots will recall the legendary flights over the Hump and undergo even more rigorous bombing and strafing training. This will slightly improve our efficiency in fighting for air superiority during critical moments."
+
  CHI_project_ROCA_reform_1: "Preparatory Military Reorganization"
 
  CHI_project_ROCA_reform_1_desc: "We must embark on a preparatory military reorganization plan, reducing the size of the army and streamlining personnel. The dispatch of any volunteer forces is strictly prohibited to concentrate resources on subsequent reforms."
@@ -4412,7 +4434,7 @@
 
  CHI_success_everywhere: "Success Everywhere"
 
- CHI_wartime_success_everywhere: "During Wartime:"
+ CHI_wartime_success_everywhere: "§YEffect While At War:§!"
 
 
  CHI_Three_Labor_arrows: "Three Arrows of Labor"

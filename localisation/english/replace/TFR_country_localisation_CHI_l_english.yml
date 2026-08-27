@@ -2731,6 +2731,8 @@
 
  production_speed_nuclear_reactor_factor_tooltip: "$modifier_production_speed_nuclear_reactor_factor$: $RIGHT|+=%1$"
 
+ terrain_penalty_reduction_tooltip: "$MODIFIER_TERRAIN_PENALTY_REDUCTION$：$RIGHT|+=%1$"
+ acclimatization_hot_climate_gain_factor_tooltip: "$MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR$：$RIGHT|+=%1$"
 
 ###############
 
@@ -5091,3 +5093,6 @@
  MCU_Government_desc: "Macau Special Municipal Government"
  CHI_operation_national_glory_idea: "Operation National Glory"
  CHI_opreation_haiwei: "Operation Haiwei"
+
+ terrain_penalty_reduction_tooltip: "Terrain Penalty: $RIGHT|+=%1$"
+ acclimatization_hot_climate_gain_factor_tooltip: "Hot Climate Acclimatization Gain: $RIGHT|+=%1$"

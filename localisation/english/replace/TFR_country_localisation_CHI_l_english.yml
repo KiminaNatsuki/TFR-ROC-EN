@@ -2142,8 +2142,9 @@
  repair_speed_factor_tooltip: "$MODIFIER_REPAIR_SPEED_FACTOR$: $RIGHT|+=%0$"
 
  repair_speed_rail_way_factor_tooltip: "Railway Repair Speed: $RIGHT|+=%0$"
-
  repair_speed_air_base_factor_tooltip: "Air Base Repair Speed: $RIGHT|+=%0$"
+ modifier_repair_speed_rail_way_factor: "Railway Repair Speed: $RIGHT|+=%0$"
+ modifier_repair_speed_air_base_factor: "Air Base Repair Speed: $RIGHT|+=%0$"
 
  positioning_tooltip: "$MODIFIER_POSITIONING$: $RIGHT|+=%1$"
 
@@ -2210,6 +2211,7 @@
  shore_bombardment_bonus_tooltip: "$MODIFIER_SHORE_BOMBARDMENT$: $RIGHT|+=%1$"
 
  shore_bombardment_collateral_damage_factor_tooltip: "$MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR$: $RIGHT|+=%1$"
+ shore_bombardment_collateral_damage_tooltip: "$MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR$: $RIGHT|+=%1$"
 
  amphibious_invasion_tooltip: "$MODIFIER_AMPHIBIOUS_INVASION$: $RIGHT|+=%1$"
 
@@ -2455,6 +2457,9 @@
  state_production_speed_radar_station_factor_tooltip: "$modifier_state_production_speed_radar_station_factor$: $RIGHT|+=%2$"
 
  state_production_speed_rail_way_factor_tooltip: "$modifier_state_production_speed_rail_way_factor$: $RIGHT|+=%2$"
+
+ static_anti_air_damage_factor_tooltip: "$MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR$: $RIGHT|-=%1$"
+ air_superiority_detect_factor_tooltip: "$MODIFIER_AIR_SUPERIORITY_DETECT_FACTOR$: $RIGHT|+=%0$"
 
  state_production_speed_rocket_site_factor_tooltip: "$modifier_state_production_speed_rocket_site_factor$: $RIGHT|+=%2$"
 

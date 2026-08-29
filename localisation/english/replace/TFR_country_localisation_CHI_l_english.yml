@@ -4352,7 +4352,7 @@
 
  CHI_Population_Aging_end: "End Demographic Crisis"
 
- CHI_Population_Aging_end_avaliable_tooltip: "Must complete all Demographic Crisis related decisions and focuses ([?var_CHI_Population_Aging_decisions]/10)"
+ CHI_Population_Aging_end_avaliable_tooltip: "Must complete all Demographic Crisis related decisions and focuses ([?var_CHI_Population_Aging_decisions]/6)"
 
  CHI_Population_Aging_end_tooltip: "Removes the §YDemographic Crisis§! dynamic modifiers and decisions."
 

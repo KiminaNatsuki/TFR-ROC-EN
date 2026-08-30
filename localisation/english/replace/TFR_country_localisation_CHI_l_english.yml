@@ -5191,6 +5191,6 @@
  MCU_Government_desc: "Macau Special Municipal Government"
  CHI_operation_national_glory_idea: "Operation National Glory"
  CHI_opreation_haiwei: "Operation Haiwei"
- CHI_our_final_fight: "§YThe Great Asian War§! has §Rbegun.§!"
+ CHI_our_final_fight_flag: "§YThe Great Asian War§! has §Rbegun.§!"
  terrain_penalty_reduction_tooltip: "Terrain Penalty: $RIGHT|+=%1$"
  acclimatization_hot_climate_gain_factor_tooltip: "Hot Climate Acclimatization Gain: $RIGHT|+=%1$"

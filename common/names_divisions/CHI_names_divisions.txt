@@ -1,0 +1,256 @@
+﻿CHI_INF_1 = {
+  name = "Army Infantry Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { infantry }
+  fallback_name = "ROCA %d. Infantry Brigade"
+  ordered =
+  {
+    1 = { "ROCA 206th Infantry Brigade" }
+    2 = { "ROCA 302nd Infantry Brigade" }
+    3 = { "ROCA 104th Infantry Brigade" }
+    4 = { "ROCA 257th Infantry Brigade" }
+    5 = { "ROCA 203rd Infantry Brigade" }
+    6 = { "ROCA 153rd Infantry Brigade" }
+    7 = { "ROCA 109th Infantry Brigade" }
+    8 = { "ROCA 117th Infantry Brigade" }
+    9 = { "ROCA 101st Infantry Brigade" }
+    10 = { "ROCA 137th Infantry Brigade" }
+    11 = { "ROCA 249th Infantry Brigade" }
+    12 = { "ROCA 108th Infantry Brigade" }
+    13 = { "ROCA 127th Infantry Brigade" }
+    14 = { "ROCA 128th Infantry Brigade" }
+    15 = { "ROCA 129th Infantry Brigade" }
+    16 = { "ROCA 146th Infantry Brigade" }
+    17 = { "ROCA 152nd Infantry Brigade" }
+    18 = { "ROCA 158th Infantry Brigade" }
+    19 = { "ROCA 168th Infantry Brigade" }
+    20 = { "ROCA 176th Infantry Brigade" }
+    21 = { "ROCA 178th Infantry Brigade" }
+    22 = { "ROCA 193rd Infantry Brigade" }
+    23 = { "ROCA 194th Infantry Brigade" }
+    24 = { "ROCA 195th Infantry Brigade" }
+    25 = { "ROCA 292nd Infantry Brigade" }
+    26 = { "ROCA 309th Infantry Brigade" }
+    27 = { "ROCA 319th Infantry Brigade" }
+
+    28 = { "ROCA 676th Infantry Brigade" }
+    29 = { "ROCA 677th Infantry Brigade" }
+    30 = { "ROCA 678th Infantry Brigade" }
+    31 = { "ROCA 700th Infantry Brigade" }
+    32 = { "ROCA 701st Infantry Brigade" }
+    33 = { "ROCA 702nd Infantry Brigade" }
+    34 = { "ROCA 805th Infantry Brigade" }
+    35 = { "ROCA 806th Infantry Brigade" }
+    36 = { "ROCA 807th Infantry Brigade" }
+    37 = { "ROCA 850th Infantry Brigade" }
+    38 = { "ROCA 851st Infantry Brigade" }
+    39 = { "ROCA 852nd Infantry Brigade" }
+    40 = { "ROCA 955th Infantry Brigade" }
+    41 = { "ROCA 956th Infantry Brigade" }
+    42 = { "ROCA 957th Infantry Brigade" }
+    43 = { "ROCA 997th Infantry Brigade" }
+    44 = { "ROCA 998th Infantry Brigade" }
+    45 = { "ROCA 999th Infantry Brigade" }
+  }
+}
+CHI_INF_2 = {
+  name = "Army Mechanized Infantry Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { mechanized }
+  fallback_name = "ROCA %d. Mechanized Infantry Brigade"
+  ordered =
+  {
+    1 = { "ROCA 269th Mechanized Infantry Brigade" }
+    2 = { "ROCA 234th Mechanized Infantry Brigade" }
+    3 = { "ROCA 333rd Mechanized Infantry Brigade" }
+
+  }
+}
+CHI_INF_3 = {
+  name = "Army Armored Infantry Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { mechanized }
+  fallback_name = "ROCA %d. Armored Infantry Brigade"
+  ordered =
+  {
+    1 = { "ROCA 351st Armored Infantry Brigade" }
+    2 = { "ROCA 373rd Armored Infantry Brigade" }
+    3 = { "ROCA 395th Armored Infantry Brigade" }
+
+  }
+}
+CHI_INF_4 = {
+  name = "Army Motorized Infantry Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { motorized }
+  fallback_name = "ROCA %d. Motorized Infantry Brigade"
+  ordered =
+  {
+    1 = { "ROCA 200th Motorized Infantry Brigade" }
+    2 = { "ROCA 298th Motorized Infantry Brigade" }
+  }
+}
+CHI_INF_5 = {
+  name = "Army Armored Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = {
+    armored
+    medium_armor
+  }
+  fallback_name = "ROCA %d. Armored Brigade"
+  ordered =
+  {
+    1 = { "ROCA 542nd Armored Brigade" }
+    2 = { "ROCA 564th Armored Brigade" }
+    3 = { "ROCA 584th Armored Brigade" }
+    4 = { "ROCA 586th Armored Brigade" }
+    5 = { "ROCA 503rd Armored Brigade" }
+
+  }
+}
+CHI_INF_6 = {
+  name = "Army Light Armored Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { light_armor }
+  fallback_name = "ROCA %d. Light Armored Brigade"
+}
+CHI_INF_7 = {
+  name = "Army Aviation & Special Forces Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { paratrooper special_forces air_assault }
+  fallback_name = "ROCA %d. Airborne Special Forces Brigade"
+  ordered =
+  {
+    1 = { "ROCA 601st Aviation Brigade" }
+    2 = { "ROCA 602nd Aviation Brigade" }
+    3 = { "ROCA 862nd Special Operations Brigade" }
+    4 = { "ROCA 871st Special Operations Brigade" }
+  }
+}
+CHI_INF_8 = {
+  name = "Marine Corps Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { marine marines }
+  fallback_name = "ROC Marine Corps %d. Brigade"
+  ordered =
+  {
+    1 = { "ROC Marine Corps 66th Brigade" }
+    2 = { "ROC Marine Corps 99th Brigade" }
+    3 = { "ROC Marine Corps 77th Brigade" }
+
+  }
+}
+CHI_INF_9 = {
+  name = "Army Mountain Operations Unit"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { mountaineers mountaineer }
+  fallback_name = "ROCA %d. Mountain Special Operations Battalion"
+}
+CHI_INF_10 = {
+  name = "Army Special Operations Battalion"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { special_forces }
+  fallback_name = "ROCA %d. Special Operations Battalion"
+  ordered =
+  {
+    1 = { "ROCA 1st Special Operations Battalion" }
+    2 = { "ROCA 2nd Special Operations Battalion" }
+    3 = { "ROCA 3rd Special Operations Battalion" }
+    4 = { "ROCA 4th Special Operations Battalion" }
+    5 = { "ROCA 5th Special Operations Battalion" }
+
+  }
+}
+CHI_INF_11 = {
+  name = "Garrison Battalion"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { garrison }
+  fallback_name = "ROCA %d. Garrison Battalion"
+}
+CHI_INF_12 = {
+  name = "Army Regional Command"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { garrison }
+  fallback_name = "ROCA %d. Garrison Area"
+  ordered =
+  {
+    1 = { "ROCA Guandu Area Command" }
+    2 = { "ROCA Lanyang Area Command" }
+    3 = { "ROCA Taitung Area Command" }
+    4 = { "ROCA Dongyin Area Command" }
+    5 = { "ROCA Juguang Area Command" }
+    6 = { "ROCA Lieyu Area Command" }
+    7 = { "ROCA Kinmen Defense Command" }
+    8 = { "ROCA Matsu Defense Command" }
+    9 = { "ROCA Penghu Defense Command" }
+    10 = { "ROCA Huatung Defense Command" }
+  }
+}
+CHI_INF_13 = {
+  name = "Army Reserve Mobilization Unit"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { militia }
+  fallback_name = "ROCA %d. Reserve Brigade"
+}
+CHI_INF_14 = {
+  name = "Marine Corps Amphibious Operations Brigade"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { marine marines }
+  fallback_name = "ROC Marine Corps %d. Amphibious Operations Brigade"
+}
+CHI_INF_15 = {
+  name = "Army Artillery Command"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { artillery }
+  fallback_name = "ROCA %d. Artillery Command"
+  ordered =
+  {
+    1 = { "ROCA 21st Artillery Command" }
+    2 = { "ROCA 43rd Artillery Command" }
+    3 = { "ROCA 58th Artillery Command" }
+  }
+}
+CHI_INF_16 = {
+  name = "Military Police Command"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { military_police garrison }
+  fallback_name = "ROC Military Police %d. Command"
+  ordered =
+  {
+    1 = { "ROC Military Police 202nd Command" }
+    2 = { "ROC Military Police 203rd Command" }
+    3 = { "ROC Military Police 204th Command" }
+    4 = { "ROC Military Police 205th Command" }
+  }
+}
+CHI_INF_17 = {
+  name = "Air Defense and Missile Unit"
+  for_countries = { CHI }
+  can_use = { always = yes }
+  division_types = { anti_air }
+  fallback_name = "ROC Air Force %d. Air Defense & Missile Brigade"
+  ordered =
+  {
+    1 = { "ROC Air Force 791st Air Defense & Missile Brigade" }
+    2 = { "ROC Air Force 792nd Air Defense & Missile Brigade" }
+    3 = { "ROC Air Force 793rd Air Defense & Missile Brigade" }
+    4 = { "ROC Air Force 794th Air Defense & Missile Brigade" }
+    5 = { "ROC Air Force 795th Air Defense & Missile Brigade" }
+  }
+}

@@ -1,0 +1,304 @@
+##### REPUBLIC OF CHINA NAME LISTS #####
+
+### ROC LEADER NAMES ###
+CHI_LEADERS = {
+  name = "ROC Leaders"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Sun Yat-sen" "Chiang Kai-shek" "Chiang Ching-kuo" "Lee Teng-hui"
+  }
+}
+
+
+### DESTROYERS ###
+CHI_DD_HISTORICAL = {
+  name = "ROC Navy Destroyers"
+
+  for_countries = { CHI }
+
+  type = ship
+  ship_types = { ship_hull_light destroyer }
+
+  fallback_name = "Missile Destroyer %d"
+
+  unique = {
+    "Keelung" "Suao" "Zuoying" "Magong"
+    "Danyang" "Te Yang" "Tang Yang" "Kai Yang" "Kun Yang" "Ching Yang"
+    "Chien Kang" "Chien Yang" "Tzu Yang" "Cheng Yang"
+    "Hui Yang" "Hua Yang" "Heng Yang" "Hsiang Yang"
+    "Yun Yang" "Lo Yang" "Fen Yang" "Han Yang"
+    "Nan Yang" "Hsien Yang" "Kwei Yang"
+  }
+}
+
+
+### FRIGATES ###
+CHI_FRIGATES = {
+  name = "ROC Navy Frigates"
+
+  for_countries = { CHI }
+
+  type = ship
+  ship_types = { ship_hull_cruiser light_cruiser }
+
+  fallback_name = "Frigate %d"
+
+  unique = {
+    "Cheng Kung" "Cheng Ho" "Chi Kuang" "Yueh Fei" "Tzu I"
+    "Pan Chao" "Chang Chien" "Tien Tan"
+    "Kang Ding" "Si Ning" "Kun Ming"
+    "Di Hua" "Wu Chang" "Cheng De"
+    "Chi Yang" "Fong Yang" "Lan Yang"
+  }
+}
+
+
+### MISSILE PATROL BOATS ###
+CHI_PATROL = {
+  name = "ROC Navy Missile Patrol Boats"
+
+  for_countries = { CHI }
+
+  type = ship
+  ship_types = { ship_hull_light destroyer }
+
+  fallback_name = "Missile Patrol Boat %d"
+
+  unique = {
+    "Tuo Chiang" "Ta Chiang" "Fu Chiang" "Hsu Chiang" "Wu Chiang"
+    "Ching Chiang" "Fong Yang" "Lung Chiang" "Chi Yang"
+    "Chien Chiang" "Wan Chiang" "Hsin Chiang"
+  }
+}
+
+
+### SUBMARINES ###
+CHI_SUBMARINES = {
+  name = "ROC Navy Submarines"
+
+  for_countries = { CHI }
+
+  type = ship
+  ship_types = { ship_hull_submarine submarine }
+
+  fallback_name = "Submarine %d"
+
+  unique = {
+    "Hai Shih" "Hai Pao" "Hai Lung" "Hai Hu"
+    "Hai Tun" "Hai Niu" "Hai Hsiang"
+  }
+}
+
+
+### MOUNTAIN NAMES ###
+CHI_MOUNTAINS = {
+  name = "Taiwanese Mountains"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Yushan" "Xueshan" "Alishan"
+    "Central Mountain Range" "Hehuanshan"
+    "Dabajianshan" "Xiuguluanshan"
+    "Nanhudashan" "Qilaishan"
+  }
+}
+
+
+### RIVER NAMES ###
+CHI_RIVERS = {
+  name = "Taiwanese Rivers"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Tamsui River" "Dajia River" "Zhuoshui River"
+    "Gaoping River" "Zengwen River"
+    "Xiuguluan River" "Beinan River"
+  }
+}
+
+
+### ISLAND NAMES ###
+CHI_ISLANDS = {
+  name = "Taiwanese Islands"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Taiwan" "Penghu" "Kinmen" "Matsu"
+    "Green Island" "Orchid Island" "Guishan Island"
+    "Pratas Island" "Taiping Island"
+  }
+}
+
+
+### ROC PROVINCES ###
+CHI_PROVINCES = {
+  name = "ROC Provinces"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Hebei" "Shanxi" "Chahar" "Suiyuan"
+    "Liaoning" "Andong" "Liaobei"
+    "Jilin" "Songjiang"
+    "Heilongjiang" "Nenjiang" "Hejiang"
+    "Jiangsu" "Zhejiang" "Anhui" "Jiangxi" "Fujian" "Shandong"
+    "Henan" "Hubei" "Hunan"
+    "Guangdong" "Guangxi"
+    "Sichuan" "Guizhou" "Yunnan" "Xikang"
+    "Shaanxi" "Gansu" "Qinghai" "Ningxia" "Xinjiang"
+    "Rehe" "Tibet"
+    "Taiwan"
+  }
+}
+
+
+CHI_MUNICIPALITIES = {
+  name = "ROC Special Municipalities"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Nanjing"
+    "Shanghai"
+    "Beiping"
+    "Tianjin"
+    "Qingdao"
+    "Hankou"
+    "Guangzhou"
+    "Chongqing"
+    "Xi'an"
+    "Shenyang"
+    "Harbin"
+    "Dalian"
+  }
+}
+CHI_CITIES_ALL = {
+  name = "ROC Cities"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Taipei" "New Taipei" "Taoyuan" "Taichung" "Tainan" "Kaohsiung"
+    "Keelung" "Hsinchu" "Chiayi" "Hualien" "Taitung"
+    "Penghu" "Kinmen" "Matsu"
+    "Beijing" "Tianjin" "Shijiazhuang" "Tangshan" "Baoding"
+    "Qinhuangdao" "Handan" "Xingtai"
+    "Taiyuan" "Datong" "Changzhi" "Linfen"
+    "Zhangjiakou" "Baotou" "Hohhot"
+    "Shenyang" "Dalian" "Anshan" "Fushun"
+    "Benxi" "Dandong"
+    "Changchun" "Jilin" "Siping"
+    "Harbin" "Qiqihar"
+    "Mudanjiang" "Jiamusi"
+    "Shanghai" "Nanjing" "Suzhou" "Wuxi" "Changzhou"
+    "Xuzhou" "Yangzhou" "Nantong"
+    "Hangzhou" "Ningbo" "Wenzhou"
+    "Shaoxing" "Jiaxing"
+    "Hefei" "Wuhu"
+    "Fuzhou" "Xiamen"
+    "Quanzhou" "Zhangzhou"
+    "Jinan" "Qingdao"
+    "Yantai" "Weihai"
+    "Wuhan" "Hankou" "Xiangyang"
+    "Yichang" "Huangshi"
+    "Changsha" "Zhuzhou"
+    "Xiangtan" "Yueyang"
+    "Zhengzhou" "Luoyang"
+    "Kaifeng" "Anyang"
+    "Guangzhou" "Shenzhen"
+    "Zhuhai" "Foshan"
+    "Dongguan" "Zhongshan"
+    "Shantou" "Zhanjiang"
+    "Nanning" "Guilin"
+    "Liuzhou" "Beihai"
+    "Haikou" "Sanya"
+    "Chengdu" "Chongqing"
+    "Mianyang" "Zigong"
+    "Kunming" "Qujing"
+    "Dali" "Lijiang"
+    "Guiyang" "Zunyi"
+    "Xi'an" "Baoji"
+    "Xianyang" "Yan'an"
+    "Lanzhou" "Tianshui"
+    "Xining"
+    "Yinchuan"
+    "Urumqi"
+    "Kashgar"
+    "Lhasa" "Shigatse"
+    "Khuree" "Ulaanbaatar"
+    "Hong Kong" "Kowloon" "Macau"
+    "Nanchang" "Ganzhou" "Jiujiang"
+    "Yichun" "Jingdezhen"
+    "Fuyang" "Bengbu"
+    "Chuzhou" "Ma'anshan"
+    "Taizhou" "Lishui"
+    "Jinhua" "Huzhou"
+    "Dezhou" "Liaocheng"
+    "Weifang" "Zibo"
+    "Kaiping" "Jiangmen"
+    "Zhaoqing" "Yangjiang"
+    "Yulin" "Wuzhou"
+    "Baise" "Qinzhou"
+    "Panzhihua" "Yibin"
+    "Luzhou" "Dazhou"
+    "Zhaotong" "Baoshan"
+    "Lincang" "Pu'er"
+    "Anshun" "Liupanshui"
+    "Hanzhong" "Yulin"
+    "Weinan" "Ankang"
+    "Jiayuguan" "Jiuquan"
+    "Zhangye" "Dunhuang"
+  }
+}
+CHI_LEADERS = {
+  name = "Chinese Figures"
+
+  for_countries = { CHI }
+
+  type = ship
+
+  unique = {
+    "Chiang Kai-shek" "Chiang Ching-kuo" "Li Zongren" "Bai Chongxi" "He Yingqin" "Chen Cheng" "Sun Li-jen" "Hu Zongnan"
+    "Du Yuming" "Fu Zuoyi" "Yan Xishan"
+    "Zhang Zhizhong" "Gu Zhutong" "Xue Yue"
+    "Tang Enbo" "Zhang Lingfu" "Huang Wei"
+    "T. V. Soong" "H. H. Kung" "Soong Mei-ling"
+    "Chen Guofu" "Chen Lifu"
+    "Mao Zedong" "Zhou Enlai" "Zhu De"
+    "Liu Shaoqi" "Deng Xiaoping" "Chen Yun"
+    "Lin Biao" "Peng Dehuai" "He Long"
+    "Ye Jianying" "Luo Ronghuan" "Xu Xiangqian"
+    "Nie Rongzhen" "Su Yu" "Tan Zhenlin"
+    "Chen Yi" "Zhang Wentian" "Gao Gang"
+    "Sheng Shicai" "Tao Zhiyue"
+    "Burhan Shahidi" "Ehmetjan Qasim"
+    "Saifuddin Azizi" "Ishaq Beg Munonov"
+    "Tenzin Gyatso"
+    "Kalon Surkhang"
+    "Taktra Rinpoche"
+    "Regent Taktra"
+    "Khorloogiin Choibalsan"
+    "Bogd Khan"
+    "Yumjaagiin Tsedenbal"
+    "Damba"
+  }
+}

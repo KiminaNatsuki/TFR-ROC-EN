@@ -1,20 +1,11 @@
 ﻿l_english:
-  CHI.TW.61.t: "Devastating Airstrike on NCSIST Facilities"
-
-  CHI.TW.61.d: "As the war across the Taiwan Strait escalates, enemy precision missiles have breached our air defense network, dealing a devastating blow to the headquarters and core research facilities of the National Chung-Shan Institute of Science and Technology (NCSIST). R&D personnel have suffered heavy casualties, and multiple key weapon development programs have been forced to halt."
-
-  CHI.TW.61.a: "This is a fatal blow to our indigenous defense..."
-
-  CHI_ncsist_destroyed: "NCSIST Facilities Crippled"
-
-  CHI_ncsist_destroyed_desc: "Due to the destruction of core NCSIST facilities, the efficiency of our defense technology R&D and military-industrial production has severely decreased."
-
-  CHI.TW.63.t: "Rebuilding the NCSIST"
-
-  CHI.TW.63.d: "With the stabilization of the frontline and the reallocation of resources, we have officially launched the reconstruction plan for the NCSIST facilities..."
-
-  CHI.TW.63.a: "Restore our R&D capacity as soon as possible!"
-
-  CHI_ncsist_rebuilding: "Rebuilding NCSIST"
-
-  CHI_ncsist_rebuilding_desc: "We are fully committed to rebuilding the facilities of the National Chung-Shan Institute of Science and Technology, investing massive resources to restore our military-industrial R&D and production capacity as quickly as possible."
+ CHI.TW.61.t: "Devastating Airstrikes on NCSIST Facilities"
+ CHI.TW.61.d: "As the flames of war in Taiwan Strait escalates, enemy precision missiles have breached our air defense network, dealing a devastating blow to the headquarters and core research facilities of the National Chung-Shan Institute of Science and Technology (NCSIST). Casualties among research personnel were severe and multiple weapons development programs have been forced to a halt."
+ CHI.TW.61.a: "This is a fatal blow to our indigenous defense..."
+ CHI_ncsist_destroyed: "NCSIST Facilities Crippled"
+ CHI_ncsist_destroyed_desc: "With the destruction of core NCSIST facilities, the efficiency of our defense research and military industrial production has fallen sharply."
+ CHI.TW.63.t: "Rebuilding the NCSIST"
+ CHI.TW.63.d: "With the stabilization of the frontline and the reallocation of resources, we have formally launched plans for the reconstruction of NCSIST's facilities..."
+ CHI.TW.63.a: "Restore our R&D capacity as soon as possible!"
+ CHI_ncsist_rebuilding: "Rebuilding the NCSIST"
+ CHI_ncsist_rebuilding_desc: "We are committing every available resource to the reconstruction of the National Chung-Shan Institute of Science and Technology, seeking to restore our defense research and military production capacity as swiftly as possible."

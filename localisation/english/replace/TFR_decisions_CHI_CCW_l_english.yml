@@ -1,895 +1,447 @@
 ﻿l_english:
  CHI_civilwar_category: "The Second Northern Expedition"
-
- ccw_declare_war_on_taiwan: "Declare war on whoever holds Taiwan"
-
- ccw_declare_war_on_taiwan_desc: "Declare war on whoever holds Taiwan"
-
+ ccw_declare_war_on_taiwan: "OPERATION: KOXINGA"
+ ccw_declare_war_on_taiwan_desc: "Declare war on whoever holds Taiwan."
  ccw_core_taiwan: "Core Taiwan"
-
  ccw_core_taiwan_desc: "Reintegrate Taiwan as our core territory."
-
  ccw_core_taiwan_focus1: "Re-core Taiwan"
-
  ccw_core_taiwan_focus1_desc: "stop using console bro"
-
- ccw_declare_war_on_anhui: "Declare war on whoever holds Anhui"
-
- ccw_declare_war_on_anhui_desc: "Declare war on whoever holds Anhui"
-
+ ccw_declare_war_on_anhui: "Against the Communist's Crossing"
+ ccw_declare_war_on_anhui_desc: "Declare war on whoever holds Anhui."
  ccw_core_anhui: "Core Anhui"
-
  ccw_core_anhui_desc: "Reintegrate Anhui as our core territory."
-
  ccw_core_anhui_focus1: "Core Anhui"
-
  ccw_core_anhui_focus1_desc: "Reintegrate Anhui as our core territory."
-
  ccw_core_anhui_focus2: "Core Anhui"
-
  ccw_core_anhui_focus2_desc: "Reintegrate Anhui as our core territory."
-
- ccw_declare_war_on_beijing: "Declare war on whoever holds Beijing"
-
- ccw_declare_war_on_beijing_desc: "Declare war on whoever holds Beijing"
-
+ ccw_declare_war_on_beijing: "The Morning Sun Rises on Peiping"
+ ccw_declare_war_on_beijing_desc: "Declare war on whoever holds Beijing."
  ccw_core_beijing: "Core Beijing"
-
  ccw_core_beijing_desc: "Reintegrate Beijing as our core territory."
-
  ccw_core_beijing_focus1: "Core Beijing"
-
  ccw_core_beijing_focus1_desc: "Reintegrate Beijing as our core territory."
-
  ccw_core_beijing_focus2: "Core Beijing"
-
  ccw_core_beijing_focus2_desc: "Reintegrate Beijing as our core territory."
-
- ccw_declare_war_on_jiangsu: "Declare war on whoever holds Jiangsu"
-
- ccw_declare_war_on_jiangsu_desc: "Declare war on whoever holds Jiangsu"
-
+ ccw_declare_war_on_jiangsu: "To Nanjing, We Return!"
+ ccw_declare_war_on_jiangsu_desc: "Declare war on whoever holds Jiangsu."
  ccw_core_jiangsu: "Core Jiangsu"
-
  ccw_core_jiangsu_desc: "Reintegrate Jiangsu as our core territory."
-
  ccw_core_jiangsu_focus1: "Core Jiangsu"
-
  ccw_core_jiangsu_focus1_desc: "Reintegrate Jiangsu as our core territory."
-
  ccw_core_jiangsu_focus2: "Core Jiangsu"
-
  ccw_core_jiangsu_focus2_desc: "Reintegrate Jiangsu as our core territory."
-
- ccw_declare_war_on_shandong: "Declare war on whoever holds Shandong"
-
- ccw_declare_war_on_shandong_desc: "Declare war on whoever holds Shandong"
-
+ ccw_declare_war_on_shandong: "OPERATION: QILU"
+ ccw_declare_war_on_shandong_desc: "Declare war on whoever holds Shandong."
  ccw_core_shandong: "Core Shandong"
-
  ccw_core_shandong_desc: "Reintegrate Shandong as our core territory."
-
  ccw_core_shandong_focus1: "Core Shandong"
-
  ccw_core_shandong_focus1_desc: "Reintegrate Shandong as our core territory."
-
  ccw_core_shandong_focus2: "Core Shandong"
-
  ccw_core_shandong_focus2_desc: "Reintegrate Shandong as our core territory."
-
- ccw_declare_war_on_hebei: "Declare war on whoever holds Hebei"
-
- ccw_declare_war_on_hebei_desc: "Declare war on whoever holds Hebei"
-
+ ccw_declare_war_on_hebei: "Through the Mountain Passes"
+ ccw_declare_war_on_hebei_desc: "Declare war on whoever holds Hebei."
  ccw_core_hebei: "Core Hebei"
-
  ccw_core_hebei_desc: "Reintegrate Hebei as our core territory."
-
  ccw_core_hebei_focus1: "Core Hebei"
-
  ccw_core_hebei_focus1_desc: "Reintegrate Hebei as our core territory."
-
  ccw_core_hebei_focus2: "Core Hebei"
-
  ccw_core_hebei_focus2_desc: "Reintegrate Hebei as our core territory."
-
- ccw_declare_war_on_tianjin: "Declare war on whoever holds Tianjin"
-
- ccw_declare_war_on_tianjin_desc: "Declare war on whoever holds Tianjin"
-
+ ccw_declare_war_on_tianjin: "OPERATION: CHINESE ROSE"
+ ccw_declare_war_on_tianjin_desc: "Declare war on whoever holds Tianjin."
  ccw_core_tianjin: "Core Tianjin"
-
  ccw_core_tianjin_desc: "Reintegrate Tianjin as our core territory."
-
  ccw_core_tianjin_focus1: "Core Tianjin"
-
  ccw_core_tianjin_focus1_desc: "Reintegrate Tianjin as our core territory."
-
  ccw_core_tianjin_focus2: "Core Tianjin"
-
  ccw_core_tianjin_focus2_desc: "Reintegrate Tianjin as our core territory."
-
  ccw_declare_war_on_shanxi: "Declare war on whoever holds Shanxi"
-
- ccw_declare_war_on_shanxi_desc: "Declare war on whoever holds Shanxi"
-
+ ccw_declare_war_on_shanxi_desc: "Declare war on whoever holds Shanxi."
  ccw_core_shanxi: "Core Shanxi"
-
  ccw_core_shanxi_desc: "Reintegrate Shanxi as our core territory."
-
  ccw_core_shanxi_focus1: "Core Shanxi"
-
  ccw_core_shanxi_focus1_desc: "Reintegrate Shanxi as our core territory."
-
  ccw_core_shanxi_focus2: "Core Shanxi"
-
  ccw_core_shanxi_focus2_desc: "Reintegrate Shanxi as our core territory."
-
- ccw_declare_war_on_shan3xi: "Declare war on whoever holds Shaanxi"
-
- ccw_declare_war_on_shan3xi_desc: "Declare war on whoever holds Shaanxi"
-
+ ccw_declare_war_on_shan3xi: "OPERATION: YING ZHENG"
+ ccw_declare_war_on_shan3xi_desc: "Declare war on whoever holds Shaanxi."
  ccw_core_shan3xi: "Core Shaanxi"
-
  ccw_core_shan3xi_desc: "Reintegrate Shaanxi as our core territory."
-
  ccw_core_shan3xi_focus1: "Core Shaanxi"
-
  ccw_core_shan3xi_focus1_desc: "Reintegrate Shaanxi as our core territory."
-
  ccw_core_shan3xi_focus2: "Core Shaanxi"
-
  ccw_core_shan3xi_focus2_desc: "Reintegrate Shaanxi as our core territory."
-
- ccw_declare_war_on_henan: "Declare war on whoever holds Henan"
-
- ccw_declare_war_on_henan_desc: "Declare war on whoever holds Henan"
-
+ ccw_declare_war_on_henan: "Retake the Cradle"
+ ccw_declare_war_on_henan_desc: "Declare war on whoever holds Henan."
  ccw_core_henan: "Core Henan"
-
  ccw_core_henan_desc: "Reintegrate Henan as our core territory."
-
  ccw_core_henan_focus1: "Core Henan"
-
  ccw_core_henan_focus1_desc: "Reintegrate Henan as our core territory."
-
  ccw_core_henan_focus2: "Core Henan"
-
  ccw_core_henan_focus2_desc: "Reintegrate Henan as our core territory."
-
- ccw_declare_war_on_ningxia: "Declare war on whoever holds Ningxia"
-
- ccw_declare_war_on_ningxia_desc: "Declare war on whoever holds Ningxia"
-
+ ccw_declare_war_on_ningxia: "OPERATION: LIJI"
+ ccw_declare_war_on_ningxia_desc: "Declare war on whoever holds Ningxia."
  ccw_core_ningxia: "Core Ningxia"
-
  ccw_core_ningxia_desc: "Reintegrate Ningxia as our core territory."
-
  ccw_core_ningxia_focus1: "Core Ningxia"
-
  ccw_core_ningxia_focus1_desc: "Reintegrate Ningxia as our core territory."
-
  ccw_core_ningxia_focus2: "Core Ningxia"
-
  ccw_core_ningxia_focus2_desc: "Reintegrate Ningxia as our core territory."
-
- ccw_declare_war_on_chongqing: "Declare war on whoever holds Chongqing"
-
- ccw_declare_war_on_chongqing_desc: "Declare war on whoever holds Chongqing"
-
+ ccw_declare_war_on_chongqing: "Liberate the Lands of Ba and Shu"
+ ccw_declare_war_on_chongqing_desc: "Declare war on whoever holds Chongqing."
  ccw_core_chongqing: "Core Chongqing"
-
  ccw_core_chongqing_desc: "Reintegrate Chongqing as our core territory."
-
  ccw_core_chongqing_focus1: "Core Chongqing"
-
  ccw_core_chongqing_focus1_desc: "Reintegrate Chongqing as our core territory."
-
  ccw_core_chongqing_focus2: "Core Chongqing"
-
  ccw_core_chongqing_focus2_desc: "Reintegrate Chongqing as our core territory."
-
- ccw_declare_war_on_shanghai: "Declare war on whoever holds Shanghai"
-
- ccw_declare_war_on_shanghai_desc: "Declare war on whoever holds Shanghai"
-
+ ccw_declare_war_on_shanghai: "Liberate the Pearl"
+ ccw_declare_war_on_shanghai_desc: "Declare war on whoever holds Shanghai."
  ccw_core_shanghai: "Core Shanghai"
-
  ccw_core_shanghai_desc: "Reintegrate Shanghai as our core territory."
-
  ccw_core_shanghai_focus1: "Core Shanghai"
-
  ccw_core_shanghai_focus1_desc: "Reintegrate Shanghai as our core territory."
-
  ccw_core_shanghai_focus2: "Core Shanghai"
-
  ccw_core_shanghai_focus2_desc: "Reintegrate Shanghai as our core territory."
-
- ccw_declare_war_on_zhejiang: "Declare war on whoever holds Zhejiang"
-
- ccw_declare_war_on_zhejiang_desc: "Declare war on whoever holds Zhejiang"
-
+ ccw_declare_war_on_zhejiang: "Generalissimo, We Are Home"
+ ccw_declare_war_on_zhejiang_desc: "Declare war on whoever holds Zhejiang."
  ccw_core_zhejiang: "Core Zhejiang"
-
  ccw_core_zhejiang_desc: "Reintegrate Zhejiang as our core territory."
-
  ccw_core_zhejiang_focus1: "Core Zhejiang"
-
  ccw_core_zhejiang_focus1_desc: "Reintegrate Zhejiang as our core territory."
-
  ccw_core_zhejiang_focus2: "Core Zhejiang"
-
  ccw_core_zhejiang_focus2_desc: "Reintegrate Zhejiang as our core territory."
-
- ccw_declare_war_on_fujian: "Declare war on whoever holds Fujian"
-
- ccw_declare_war_on_fujian_desc: "Declare war on whoever holds Fujian"
-
+ ccw_declare_war_on_fujian: "OPERATION: LINMO"
+ ccw_declare_war_on_fujian_desc: "Declare war on whoever holds Fujian."
  ccw_core_fujian: "Core Fujian"
-
  ccw_core_fujian_desc: "Reintegrate Fujian as our core territory."
-
  ccw_core_fujian_focus1: "Core Fujian"
-
  ccw_core_fujian_focus1_desc: "Reintegrate Fujian as our core territory."
-
  ccw_core_fujian_focus2: "Core Fujian"
-
  ccw_core_fujian_focus2_desc: "Reintegrate Fujian as our core territory."
-
- ccw_declare_war_on_guangdong: "Declare war on whoever holds Guangdong"
-
- ccw_declare_war_on_guangdong_desc: "Declare war on whoever holds Guangdong"
-
+ ccw_declare_war_on_guangdong: "Liberate the National Revolution's Birthplace"
+ ccw_declare_war_on_guangdong_desc: "Declare war on whoever holds Guangdong."
  ccw_core_guangdong: "Core Guangdong"
-
  ccw_core_guangdong_desc: "Reintegrate Guangdong as our core territory."
-
  ccw_core_guangdong_focus1: "Core Guangdong"
-
  ccw_core_guangdong_focus1_desc: "Reintegrate Guangdong as our core territory."
-
  ccw_core_guangdong_focus2: "Core Guangdong"
-
  ccw_core_guangdong_focus2_desc: "Reintegrate Guangdong as our core territory."
-
- ccw_declare_war_on_hongkong: "Declare war on whoever holds Hong Kong"
-
- ccw_declare_war_on_hongkong_desc: "Declare war on whoever holds Hong Kong"
-
+ ccw_declare_war_on_hongkong: "Liberate the Pearl of the Orient"
+ ccw_declare_war_on_hongkong_desc: "Declare war on whoever holds Hong Kong."
  ccw_core_hongkong: "Core Hong Kong"
-
  ccw_core_hongkong_desc: "Reintegrate Hong Kong as our core territory."
-
-
- ccw_grant_hkmacau_autonomy: "Hong Kong Macau Problem"
-
+ ccw_grant_hkmacau_autonomy: "The Hong Kong and Macau Problem"
  ccw_grant_hkmacau_autonomy_desc: "Take care of Hong Kong and Macau's demands for autonomy."
-
-
  ccw_core_hongkong_focus1: "Core Hong Kong"
-
  ccw_core_hongkong_focus1_desc: "Reintegrate Hong Kong as our core territory."
-
  ccw_core_hongkong_focus2: "Core Hong Kong"
-
  ccw_core_hongkong_focus2_desc: "Reintegrate Hong Kong as our core territory."
-
- ccw_declare_war_on_macau: "Declare war on whoever holds Macau"
-
- ccw_declare_war_on_macau_desc: "Declare war on whoever holds Macau"
-
+ ccw_declare_war_on_macau: "Liberate Macau"
+ ccw_declare_war_on_macau_desc: "Declare war on whoever holds Macau."
  ccw_core_macau: "Core Macau"
-
  ccw_core_macau_desc: "Reintegrate Macau as our core territory."
-
  ccw_core_macau_focus1: "Core Macau"
-
  ccw_core_macau_focus1_desc: "Reintegrate Macau as our core territory."
-
  ccw_core_macau_focus2: "Core Macau"
-
  ccw_core_macau_focus2_desc: "Reintegrate Macau as our core territory."
-
- ccw_declare_war_on_guangxi: "Declare war on whoever holds Guangxi"
-
- ccw_declare_war_on_guangxi_desc: "Declare war on whoever holds Guangxi"
-
+ ccw_declare_war_on_guangxi: "Battle of Kunlun Pass"
+ ccw_declare_war_on_guangxi_desc: "Declare war on whoever holds Guangxi."
  ccw_core_guangxi: "Core Guangxi"
-
  ccw_core_guangxi_desc: "Reintegrate Guangxi as our core territory."
-
  ccw_core_guangxi_focus1: "Core Guangxi"
-
  ccw_core_guangxi_focus1_desc: "Reintegrate Guangxi as our core territory."
-
  ccw_core_guangxi_focus2: "Core Guangxi"
-
  ccw_core_guangxi_focus2_desc: "Reintegrate Guangxi as our core territory."
-
- ccw_declare_war_on_yunnan: "Declare war on whoever holds Yunnan"
-
- ccw_declare_war_on_yunnan_desc: "Declare war on whoever holds Yunnan"
-
+ ccw_declare_war_on_yunnan: "Kill the \"King of Yunnan\""
+ ccw_declare_war_on_yunnan_desc: "Declare war on whoever holds Yunnan."
  ccw_core_yunnan: "Core Yunnan"
-
  ccw_core_yunnan_desc: "Reintegrate Yunnan as our core territory."
-
  ccw_core_yunnan_focus1: "Core Yunnan"
-
  ccw_core_yunnan_focus1_desc: "Reintegrate Yunnan as our core territory."
-
  ccw_core_yunnan_focus2: "Core Yunnan"
-
  ccw_core_yunnan_focus2_desc: "Reintegrate Yunnan as our core territory."
-
- ccw_declare_war_on_sichuan: "Declare war on whoever holds Sichuan"
-
- ccw_declare_war_on_sichuan_desc: "Declare war on whoever holds Sichuan"
-
+ ccw_declare_war_on_sichuan: "Enter the Land of Abundance"
+ ccw_declare_war_on_sichuan_desc: "Declare war on whoever holds Sichuan."
  ccw_core_sichuan: "Core Sichuan"
-
  ccw_core_sichuan_desc: "Reintegrate Sichuan as our core territory."
-
  ccw_core_sichuan_focus1: "Core Sichuan"
-
  ccw_core_sichuan_focus1_desc: "Reintegrate Sichuan as our core territory."
-
  ccw_core_sichuan_focus2: "Core Sichuan"
-
  ccw_core_sichuan_focus2_desc: "Reintegrate Sichuan as our core territory."
-
- ccw_declare_war_on_xizang: "Declare war on whoever holds Tibet"
-
- ccw_declare_war_on_xizang_desc: "Declare war on whoever holds Tibet"
-
+ ccw_declare_war_on_xizang: "OPERATION: PLATEAU"
+ ccw_declare_war_on_xizang_desc: "Declare war on whoever holds Tibet. \n§YWarning: This action will lead to war with India. A peace treaty will take effect once we fully control South Tibet and Tibet.§!"
  ccw_core_xizang: "Core Tibet"
-
  ccw_core_xizang_desc: "Reintegrate Tibet as our core territory."
-
  ccw_core_xizang_focus1: "Core Tibet"
-
  ccw_core_xizang_focus1_desc: "Reintegrate Tibet as our core territory."
-
  ccw_core_xizang_focus2: "Core Tibet"
-
  ccw_core_xizang_focus2_desc: "Reintegrate Tibet as our core territory."
-
- ccw_declare_war_on_zangsouth: "Declare war on whoever holds South Tibet"
-
- ccw_declare_war_on_zangsouth_desc: "Declare war on whoever holds South Tibet"
-
+ ccw_declare_war_on_zangsouth: "Cross the Backbone of the World"
+ ccw_declare_war_on_zangsouth_desc: "Declare war on whoever holds South Tibet. \n§YWarning: This action will lead to war with India. A peace treaty will take effect once we fully control South Tibet and Tibet.§!"
  ccw_core_zangsouth: "Core South Tibet"
-
  ccw_core_zangsouth_desc: "Reintegrate South Tibet as our core territory."
-
  ccw_core_zangsouth_focus1: "Core South Tibet"
-
  ccw_core_zangsouth_focus1_desc: "Reintegrate South Tibet as our core territory."
-
  ccw_core_zangsouth_focus2: "Core South Tibet"
-
  ccw_core_zangsouth_focus2_desc: "Reintegrate South Tibet as our core territory."
-
- ccw_declare_war_on_hubei: "Declare war on whoever holds Hubei"
-
- ccw_declare_war_on_hubei_desc: "Declare war on whoever holds Hubei"
-
+ ccw_declare_war_on_hubei: "Return to the Revolution's Origin"
+ ccw_declare_war_on_hubei_desc: "Declare war on whoever holds Hubei."
  ccw_core_hubei: "Core Hubei"
-
  ccw_core_hubei_desc: "Reintegrate Hubei as our core territory."
-
  ccw_core_hubei_focus1: "Core Hubei"
-
  ccw_core_hubei_focus1_desc: "Reintegrate Hubei as our core territory."
-
  ccw_core_hubei_focus2: "Core Hubei"
-
  ccw_core_hubei_focus2_desc: "Reintegrate Hubei as our core territory."
-
- ccw_declare_war_on_hunan: "Declare war on whoever holds Hunan"
-
- ccw_declare_war_on_hunan_desc: "Declare war on whoever holds Hunan"
-
+ ccw_declare_war_on_hunan: "OPERATION: SPRING PLOWING"
+ ccw_declare_war_on_hunan_desc: "Declare war on whoever holds Hunan."
  ccw_core_hunan: "Core Hunan"
-
  ccw_core_hunan_desc: "Reintegrate Hunan as our core territory."
-
  ccw_core_hunan_focus1: "Core Hunan"
-
  ccw_core_hunan_focus1_desc: "Reintegrate Hunan as our core territory."
-
  ccw_core_hunan_focus2: "Core Hunan"
-
  ccw_core_hunan_focus2_desc: "Reintegrate Hunan as our core territory."
-
- ccw_declare_war_on_guizhou: "Declare war on whoever holds Guizhou"
-
- ccw_declare_war_on_guizhou_desc: "Declare war on whoever holds Guizhou"
-
+ ccw_declare_war_on_guizhou: "Qian-Gui Campaign"
+ ccw_declare_war_on_guizhou_desc: "Declare war on whoever holds Guizhou."
  ccw_core_guizhou: "Core Guizhou"
-
  ccw_core_guizhou_desc: "Reintegrate Guizhou as our core territory."
-
  ccw_core_guizhou_focus1: "Core Guizhou"
-
  ccw_core_guizhou_focus1_desc: "Reintegrate Guizhou as our core territory."
-
  ccw_core_guizhou_focus2: "Core Guizhou"
-
  ccw_core_guizhou_focus2_desc: "Reintegrate Guizhou as our core territory."
-
- ccw_declare_war_on_jiangxi: "Declare war on whoever holds Jiangxi"
-
- ccw_declare_war_on_jiangxi_desc: "Declare war on whoever holds Jiangxi"
-
+ ccw_declare_war_on_jiangxi: "Liberate the Land of Gan"
+ ccw_declare_war_on_jiangxi_desc: "Declare war on whoever holds Jiangxi."
  ccw_core_jiangxi: "Core Jiangxi"
-
  ccw_core_jiangxi_desc: "Reintegrate Jiangxi as our core territory."
-
  ccw_core_jiangxi_focus1: "Core Jiangxi"
-
  ccw_core_jiangxi_focus1_desc: "Reintegrate Jiangxi as our core territory."
-
  ccw_core_jiangxi_focus2: "Core Jiangxi"
-
  ccw_core_jiangxi_focus2_desc: "Reintegrate Jiangxi as our core territory."
-
- ccw_declare_war_on_hainan: "Declare war on whoever holds Hainan"
-
- ccw_declare_war_on_hainan_desc: "Declare war on whoever holds Hainan"
-
+ ccw_declare_war_on_hainan: "Control the South China Sea"
+ ccw_declare_war_on_hainan_desc: "Declare war on whoever holds Hainan."
  ccw_core_hainan: "Core Hainan"
-
  ccw_core_hainan_desc: "Reintegrate Hainan as our core territory."
-
  ccw_core_hainan_focus1: "Core Hainan"
-
  ccw_core_hainan_focus1_desc: "Reintegrate Hainan as our core territory."
-
  ccw_core_hainan_focus2: "Core Hainan"
-
  ccw_core_hainan_focus2_desc: "Reintegrate Hainan as our core territory."
-
- ccw_declare_war_on_xinjiang: "Declare war on whoever holds Xinjiang"
-
- ccw_declare_war_on_xinjiang_desc: "Declare war on whoever holds Xinjiang"
-
+ ccw_declare_war_on_xinjiang: "OPERATION: ZHANG QIAN"
+ ccw_declare_war_on_xinjiang_desc: "Declare war on whoever holds Xinjiang."
  ccw_core_xinjiang: "Core Xinjiang"
-
  ccw_core_xinjiang_desc: "Reintegrate Xinjiang as our core territory."
-
  ccw_core_xinjiang_focus1: "Core Xinjiang"
-
  ccw_core_xinjiang_focus1_desc: "Reintegrate Xinjiang as our core territory."
-
  ccw_core_xinjiang_focus2: "Core Xinjiang"
-
  ccw_core_xinjiang_focus2_desc: "Reintegrate Xinjiang as our core territory."
-
- ccw_declare_war_on_qinghai: "Declare war on whoever holds Qinghai"
-
- ccw_declare_war_on_qinghai_desc: "Declare war on whoever holds Qinghai"
-
+ ccw_declare_war_on_qinghai: "Liberate the Riverhead"
+ ccw_declare_war_on_qinghai_desc: "Declare war on whoever holds Qinghai."
  ccw_core_qinghai: "Core Qinghai"
-
  ccw_core_qinghai_desc: "Reintegrate Qinghai as our core territory."
-
  ccw_core_qinghai_focus1: "Core Qinghai"
-
  ccw_core_qinghai_focus1_desc: "Reintegrate Qinghai as our core territory."
-
  ccw_core_qinghai_focus2: "Core Qinghai"
-
  ccw_core_qinghai_focus2_desc: "Reintegrate Qinghai as our core territory."
-
- ccw_declare_war_on_gansu: "Declare war on whoever holds Gansu"
-
- ccw_declare_war_on_gansu_desc: "Declare war on whoever holds Gansu"
-
+ ccw_declare_war_on_gansu: "OPERATION: HUO QUBING"
+ ccw_declare_war_on_gansu_desc: "Declare war on whoever holds Gansu."
  ccw_core_gansu: "Core Gansu"
-
  ccw_core_gansu_desc: "Reintegrate Gansu as our core territory."
-
  ccw_core_gansu_focus1: "Core Gansu"
-
  ccw_core_gansu_focus1_desc: "Reintegrate Gansu as our core territory."
-
  ccw_core_gansu_focus2: "Core Gansu"
-
  ccw_core_gansu_focus2_desc: "Reintegrate Gansu as our core territory."
-
- ccw_declare_war_on_neimeng: "Declare war on whoever holds Inner Mongolia"
-
- ccw_declare_war_on_neimeng_desc: "Declare war on whoever holds Inner Mongolia"
-
+ ccw_declare_war_on_neimeng: "OPERATION: KUBLAI"
+ ccw_declare_war_on_neimeng_desc: "Declare war on whoever holds Inner Mongolia."
  ccw_core_neimeng: "Core Inner Mongolia"
-
  ccw_core_neimeng_desc: "Reintegrate Inner Mongolia as our core territory."
-
  ccw_core_neimeng_focus1: "Core Inner Mongolia"
-
  ccw_core_neimeng_focus1_desc: "Reintegrate Inner Mongolia as our core territory."
-
  ccw_core_neimeng_focus2: "Core Inner Mongolia"
-
  ccw_core_neimeng_focus2_desc: "Reintegrate Inner Mongolia as our core territory."
-
- ccw_declare_war_on_mon: "Declare war on whoever holds Mongolia"
-
- ccw_declare_war_on_mon_desc: "Declare war on whoever holds Mongolia"
-
+ ccw_declare_war_on_mon: "Retake the Steppes"
+ ccw_declare_war_on_mon_desc: "Declare war on whoever holds Mongolia."
  ccw_core_mon: "Core Mongolia"
-
  ccw_core_mon_desc: "Reintegrate Mongolia as our core territory."
-
  ccw_core_mon_focus1: "Core Mongolia"
-
  ccw_core_mon_focus1_desc: "Reintegrate Mongolia as our core territory."
-
  ccw_core_mon_focus2: "Core Mongolia"
-
  ccw_core_mon_focus2_desc: "Reintegrate Mongolia as our core territory."
-
  CHI_tuva_decision_unlocked_tt: "Unlocks the Second Northern Expedition decision: §YReclaim Tannu Uriankhai§!"
-
  ccw_seize_tuva: "Reclaim Tannu Uriankhai"
-
- ccw_seize_tuva_desc: "§YNote: Taking this action will trigger a border conflict with Russia. If victorious, our nation will gain permanent de facto control over the region.§!"
-
+ ccw_seize_tuva_desc: "§YWarning: Taking this action will trigger a border conflict with Russia or it's warlords. If victorious, our nation will gain permanent de facto control over the region.§!"
  ccw_core_tuva: "Core Tuva"
-
  ccw_core_tuva_desc: "Reintegrate Tuva as our core territory."
-
  ccw_core_tuva_focus1: "Core Tuva"
-
  ccw_core_tuva_focus1_desc: "Reintegrate Tuva as our core territory."
-
  ccw_core_tuva_focus2: "Core Tuva"
-
  ccw_core_tuva_focus2_desc: "Reintegrate Tuva as our core territory."
-
- ccw_declare_war_on_liaoning: "Declare war on whoever holds Liaoning"
-
- ccw_declare_war_on_liaoning_desc: "Declare war on whoever holds Liaoning"
-
+ ccw_declare_war_on_liaoning: "Beyond the Shanhai Pass"
+ ccw_declare_war_on_liaoning_desc: "Declare war on whoever holds Liaoning."
  ccw_core_liaoning: "Core Liaoning"
-
  ccw_core_liaoning_desc: "Reintegrate Liaoning as our core territory."
-
  ccw_core_liaoning_focus1: "Core Liaoning"
-
  ccw_core_liaoning_focus1_desc: "Reintegrate Liaoning as our core territory."
-
  ccw_core_liaoning_focus2: "Core Liaoning"
-
  ccw_core_liaoning_focus2_desc: "Reintegrate Liaoning as our core territory."
-
- ccw_declare_war_on_jilin: "Declare war on whoever holds Jilin"
-
- ccw_declare_war_on_jilin_desc: "Declare war on whoever holds Jilin"
-
+ ccw_declare_war_on_jilin: "OPERATION: JURCHEN"
+ ccw_declare_war_on_jilin_desc: "Declare war on whoever holds Jilin."
  ccw_core_jilin: "Core Jilin"
-
  ccw_core_jilin_desc: "Reintegrate Jilin as our core territory."
-
  ccw_core_jilin_focus1: "Core Jilin"
-
  ccw_core_jilin_focus1_desc: "Reintegrate Jilin as our core territory."
-
  ccw_core_jilin_focus2: "Core Jilin"
-
  ccw_core_jilin_focus2_desc: "Reintegrate Jilin as our core territory."
-
- ccw_declare_war_on_hlj: "Declare war on whoever holds Heilongjiang"
-
- ccw_declare_war_on_hlj_desc: "Declare war on whoever holds Heilongjiang"
-
+ ccw_declare_war_on_hlj: "The Northern Frontier"
+ ccw_declare_war_on_hlj_desc: "Declare war on whoever holds Heilongjiang."
  ccw_core_hlj: "Core Heilongjiang"
-
  ccw_core_hlj_desc: "Reintegrate Heilongjiang as our core territory."
-
  ccw_core_hlj_focus1: "Core Heilongjiang"
-
  ccw_core_hlj_focus1_desc: "Reintegrate Heilongjiang as our core territory."
-
  ccw_core_hlj_focus2: "Core Heilongjiang"
-
  ccw_core_hlj_focus2_desc: "Reintegrate Heilongjiang as our core territory."
-
  ccw_taiwan_divider: ""
-
- ccw_taiwan_divider_desc: "§GHome Defense Line Secured§!\n\nTaiwan, as the base of the Republic of China, is completely safe. With this as our base, the horn for the counterattack on the mainland has sounded!"
-
+ ccw_taiwan_divider_desc: "§GHome Defense Secured§!\n\nTaiwan, as the current base of the Republic of China, is completely safe. With this as our staging ground, the time for retaking the mainland is now here!"
  ccw_anhui_divider: ""
-
- ccw_anhui_divider_desc: "§GRecovered: Anhui§!\n\nAnhui has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_anhui_divider_desc: "§GRecovered: Anhui§!\n\nAnhui has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_beijing_divider: ""
-
  ccw_beijing_divider_desc: "§GRecovered: Beijing§!\n\nBeijing has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
  ccw_jiangsu_divider: ""
-
- ccw_jiangsu_divider_desc: "§GRecovered: Jiangsu§!\n\nJiangsu has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_jiangsu_divider_desc: "§GRecovered: Jiangsu§!\n\nJiangsu has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_shandong_divider: ""
-
- ccw_shandong_divider_desc: "§GRecovered: Shandong§!\n\nShandong has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_shandong_divider_desc: "§GRecovered: Shandong§!\n\nShandong has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices our men were not in vain."
  ccw_hebei_divider: ""
-
- ccw_hebei_divider_desc: "§GRecovered: Hebei§!\n\nHebei has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_hebei_divider_desc: "§GRecovered: Hebei§!\n\nHebei has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_tianjin_divider: ""
-
- ccw_tianjin_divider_desc: "§GRecovered: Tianjin§!\n\nTianjin has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_tianjin_divider_desc: "§GRecovered: Tianjin§!\n\nTianjin has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_shanxi_divider: ""
-
- ccw_shanxi_divider_desc: "§GRecovered: Shanxi§!\n\nShanxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_shanxi_divider_desc: "§GRecovered: Shanxi§!\n\nShanxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_shan3xi_divider: ""
-
- ccw_shan3xi_divider_desc: "§GRecovered: Shaanxi§!\n\nShaanxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_shan3xi_divider_desc: "§GRecovered: Shaanxi§!\n\nShaanxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_henan_divider: ""
-
- ccw_henan_divider_desc: "§GRecovered: Henan§!\n\nHenan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_henan_divider_desc: "§GRecovered: Henan§!\n\nHenan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_ningxia_divider: ""
-
- ccw_ningxia_divider_desc: "§GRecovered: Ningxia§!\n\nNingxia has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_ningxia_divider_desc: "§GRecovered: Ningxia§!\n\nNingxia has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_chongqing_divider: ""
-
- ccw_chongqing_divider_desc: "§GRecovered: Chongqing§!\n\nChongqing has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_chongqing_divider_desc: "§GRecovered: Chongqing§!\n\nChongqing has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_shanghai_divider: ""
-
- ccw_shanghai_divider_desc: "§GRecovered: Shanghai§!\n\nShanghai has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_shanghai_divider_desc: "§GRecovered: Shanghai§!\n\nShanghai has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_zhejiang_divider: ""
-
- ccw_zhejiang_divider_desc: "§GRecovered: Zhejiang§!\n\nZhejiang has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_zhejiang_divider_desc: "§GRecovered: Zhejiang§!\n\nZhejiang has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_fujian_divider: ""
-
- ccw_fujian_divider_desc: "§GRecovered: Fujian§!\n\nFujian has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_fujian_divider_desc: "§GRecovered: Fujian§!\n\nFujian has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_guangdong_divider: ""
-
- ccw_guangdong_divider_desc: "§GRecovered: Guangdong§!\n\nGuangdong has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_guangdong_divider_desc: "§GRecovered: Guangdong§!\n\nGuangdong has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_hongkong_divider: ""
-
- ccw_hongkong_divider_desc: "§GRecovered: Hong Kong§!\n\nHong Kong has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_hongkong_divider_desc: "§GRecovered: Hong Kong§!\n\nHong Kong has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_macau_divider: ""
-
- ccw_macau_divider_desc: "§GRecovered: Macau§!\n\nMacau has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_macau_divider_desc: "§GRecovered: Macau§!\n\nMacau has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_guangxi_divider: ""
-
- ccw_guangxi_divider_desc: "§GRecovered: Guangxi§!\n\nGuangxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_guangxi_divider_desc: "§GRecovered: Guangxi§!\n\nGuangxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_yunnan_divider: ""
-
- ccw_yunnan_divider_desc: "§GRecovered: Yunnan§!\n\nYunnan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_yunnan_divider_desc: "§GRecovered: Yunnan§!\n\nYunnan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_sichuan_divider: ""
-
- ccw_sichuan_divider_desc: "§GRecovered: Sichuan§!\n\nSichuan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_sichuan_divider_desc: "§GRecovered: Sichuan§!\n\nSichuan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_xizang_divider: ""
-
- ccw_xizang_divider_desc: "§GRecovered: Tibet§!\n\nTibet has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_xizang_divider_desc: "§GRecovered: Tibet§!\n\nTibet has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_zangsouth_divider: ""
-
- ccw_zangsouth_divider_desc: "§GRecovered: South Tibet§!\n\nSouth Tibet has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_zangsouth_divider_desc: "§GRecovered: South Tibet§!\n\nSouth Tibet has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_hubei_divider: ""
-
- ccw_hubei_divider_desc: "§GRecovered: Hubei§!\n\nHubei has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_hubei_divider_desc: "§GRecovered: Hubei§!\n\nHubei has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_hunan_divider: ""
-
- ccw_hunan_divider_desc: "§GRecovered: Hunan§!\n\nHunan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_hunan_divider_desc: "§GRecovered: Hunan§!\n\nHunan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_guizhou_divider: ""
-
- ccw_guizhou_divider_desc: "§GRecovered: Guizhou§!\n\nGuizhou has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_guizhou_divider_desc: "§GRecovered: Guizhou§!\n\nGuizhou has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_jiangxi_divider: ""
-
- ccw_jiangxi_divider_desc: "§GRecovered: Jiangxi§!\n\nJiangxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_jiangxi_divider_desc: "§GRecovered: Jiangxi§!\n\nJiangxi has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_hainan_divider: ""
-
- ccw_hainan_divider_desc: "§GRecovered: Hainan§!\n\nHainan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_hainan_divider_desc: "§GRecovered: Hainan§!\n\nHainan has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_xinjiang_divider: ""
-
- ccw_xinjiang_divider_desc: "§GRecovered: Xinjiang§!\n\nXinjiang has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_xinjiang_divider_desc: "§GRecovered: Xinjiang§!\n\nXinjiang has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices our men were not in vain."
  ccw_qinghai_divider: ""
-
- ccw_qinghai_divider_desc: "§GRecovered: Qinghai§!\n\nQinghai has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_qinghai_divider_desc: "§GRecovered: Qinghai§!\n\nQinghai has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_gansu_divider: ""
-
- ccw_gansu_divider_desc: "§GRecovered: Gansu§!\n\nGansu has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_gansu_divider_desc: "§GRecovered: Gansu§!\n\nGansu has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_neimeng_divider: ""
-
- ccw_neimeng_divider_desc: "§GRecovered: Inner Mongolia§!\n\nInner Mongolia has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_neimeng_divider_desc: "§GRecovered: Inner Mongolia§!\n\nInner Mongolia has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_mon_divider: ""
-
- ccw_mon_divider_desc: "§GRecovered: Mongolia§!\n\nMongolia has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_mon_divider_desc: "§GRecovered: Mongolia§!\n\nMongolia has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_tuva_divider: ""
-
- ccw_tuva_divider_desc: "§GRecovered: Tuva§!\n\nTuva has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_tuva_divider_desc: "§GRecovered: Tuva§!\n\nTuva has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_liaoning_divider: ""
-
- ccw_liaoning_divider_desc: "§GRecovered: Liaoning§!\n\nLiaoning has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_liaoning_divider_desc: "§GRecovered: Liaoning§!\n\nLiaoning has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_jilin_divider: ""
-
- ccw_jilin_divider_desc: "§GRecovered: Jilin§!\n\nJilin has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_jilin_divider_desc: "§GRecovered: Jilin§!\n\nJilin has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_hlj_divider: ""
-
- ccw_hlj_divider_desc: "§GRecovered: Heilongjiang§!\n\nHeilongjiang has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of the Republic of China Armed Forces soldiers were not in vain."
-
+ ccw_hlj_divider_desc: "§GRecovered: Heilongjiang§!\n\nHeilongjiang has returned to the rule of the Republic of China. The Blue Sky, White Sun, and a Wholly Red Earth flag once again flutters here; the sacrifices of our men were not in vain."
  ccw_taiwan_warning_divider: ""
-
- ccw_taiwan_warning_divider_desc: "§YWarning: Home Defense Line Breached§!\n\nWe must defend Taiwan!\n\nAs the final bastion for the revival of the Republic of China, we must absolutely not let this land fall into enemy hands. The Armed Forces must defend by any cost necessary!"
-
+ ccw_taiwan_warning_divider_desc: "§YWarning: Home Defense Line Breached§!\n\nWe must defend Taiwan!\n\nAs the final bastion for the revival of the Republic of China, we absolutely should not let our last bastion fall into enemy hands. The Armed Forces must defend by any cost necessary!"
  ccw_anhui_warning_divider: ""
-
  ccw_anhui_warning_divider_desc: "§YNot Fully Controlled: Anhui§!\n\nWe must liberate Anhui!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_beijing_warning_divider: ""
-
  ccw_beijing_warning_divider_desc: "§YNot Fully Controlled: Beijing§!\n\nWe must liberate Beijing!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_jiangsu_warning_divider: ""
-
  ccw_jiangsu_warning_divider_desc: "§YNot Fully Controlled: Jiangsu§!\n\nWe must liberate Jiangsu!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_shandong_warning_divider: ""
-
  ccw_shandong_warning_divider_desc: "§YNot Fully Controlled: Shandong§!\n\nWe must liberate Shandong!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_hebei_warning_divider: ""
-
  ccw_hebei_warning_divider_desc: "§YNot Fully Controlled: Hebei§!\n\nWe must liberate Hebei!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_tianjin_warning_divider: ""
-
  ccw_tianjin_warning_divider_desc: "§YNot Fully Controlled: Tianjin§!\n\nWe must liberate Tianjin!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_shanxi_warning_divider: ""
-
  ccw_shanxi_warning_divider_desc: "§YNot Fully Controlled: Shanxi§!\n\nWe must liberate Shanxi!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_shan3xi_warning_divider: ""
-
  ccw_shan3xi_warning_divider_desc: "§YNot Fully Controlled: Shaanxi§!\n\nWe must liberate Shaanxi!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_henan_warning_divider: ""
-
  ccw_henan_warning_divider_desc: "§YNot Fully Controlled: Henan§!\n\nWe must liberate Henan!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_ningxia_warning_divider: ""
-
  ccw_ningxia_warning_divider_desc: "§YNot Fully Controlled: Ningxia§!\n\nWe must liberate Ningxia!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_chongqing_warning_divider: ""
-
  ccw_chongqing_warning_divider_desc: "§YNot Fully Controlled: Chongqing§!\n\nWe must liberate Chongqing!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_shanghai_warning_divider: ""
-
  ccw_shanghai_warning_divider_desc: "§YNot Fully Controlled: Shanghai§!\n\nWe must liberate Shanghai!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_zhejiang_warning_divider: ""
-
  ccw_zhejiang_warning_divider_desc: "§YNot Fully Controlled: Zhejiang§!\n\nWe must liberate Zhejiang!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_fujian_warning_divider: ""
-
  ccw_fujian_warning_divider_desc: "§YNot Fully Controlled: Fujian§!\n\nWe must liberate Fujian!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_guangdong_warning_divider: ""
-
  ccw_guangdong_warning_divider_desc: "§YNot Fully Controlled: Guangdong§!\n\nWe must liberate Guangdong!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_hongkong_warning_divider: ""
-
  ccw_hongkong_warning_divider_desc: "§YNot Fully Controlled: Hong Kong§!\n\nWe must liberate Hong Kong!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_macau_warning_divider: ""
-
  ccw_macau_warning_divider_desc: "§YNot Fully Controlled: Macau§!\n\nWe must liberate Macau!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_guangxi_warning_divider: ""
-
  ccw_guangxi_warning_divider_desc: "§YNot Fully Controlled: Guangxi§!\n\nWe must liberate Guangxi!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_yunnan_warning_divider: ""
-
  ccw_yunnan_warning_divider_desc: "§YNot Fully Controlled: Yunnan§!\n\nWe must liberate Yunnan!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_sichuan_warning_divider: ""
-
  ccw_sichuan_warning_divider_desc: "§YNot Fully Controlled: Sichuan§!\n\nWe must liberate Sichuan!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_xizang_warning_divider: ""
-
  ccw_xizang_warning_divider_desc: "§YNot Fully Controlled: Tibet§!\n\nWe must liberate Tibet!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_zangsouth_warning_divider: ""
-
  ccw_zangsouth_warning_divider_desc: "§YNot Fully Controlled: South Tibet§!\n\nWe must liberate South Tibet!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_hubei_warning_divider: ""
-
  ccw_hubei_warning_divider_desc: "§YNot Fully Controlled: Hubei§!\n\nWe must liberate Hubei!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_hunan_warning_divider: ""
-
  ccw_hunan_warning_divider_desc: "§YNot Fully Controlled: Hunan§!\n\nWe must liberate Hunan!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_guizhou_warning_divider: ""
-
  ccw_guizhou_warning_divider_desc: "§YNot Fully Controlled: Guizhou§!\n\nWe must liberate Guizhou!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_jiangxi_warning_divider: ""
-
  ccw_jiangxi_warning_divider_desc: "§YNot Fully Controlled: Jiangxi§!\n\nWe must liberate Jiangxi!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_hainan_warning_divider: ""
-
  ccw_hainan_warning_divider_desc: "§YNot Fully Controlled: Hainan§!\n\nWe must liberate Hainan!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_xinjiang_warning_divider: ""
-
  ccw_xinjiang_warning_divider_desc: "§YNot Fully Controlled: Xinjiang§!\n\nWe must liberate Xinjiang!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_qinghai_warning_divider: ""
-
  ccw_qinghai_warning_divider_desc: "§YNot Fully Controlled: Qinghai§!\n\nWe must liberate Qinghai!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_gansu_warning_divider: ""
-
  ccw_gansu_warning_divider_desc: "§YNot Fully Controlled: Gansu§!\n\nWe must liberate Gansu!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_neimeng_warning_divider: ""
-
  ccw_neimeng_warning_divider_desc: "§YNot Fully Controlled: Inner Mongolia§!\n\nWe must liberate Inner Mongolia!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_mon_warning_divider: ""
-
  ccw_mon_warning_divider_desc: "§YNot Fully Controlled: Mongolia§!\n\nWe must liberate Mongolia!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_tuva_warning_divider: ""
-
  ccw_tuva_warning_divider_desc: "§YNot Fully Controlled: Tuva§!\n\nWe must liberate Tuva!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_liaoning_warning_divider: ""
-
  ccw_liaoning_warning_divider_desc: "§YNot Fully Controlled: Liaoning§!\n\nWe must liberate Liaoning!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_jilin_warning_divider: ""
-
  ccw_jilin_warning_divider_desc: "§YNot Fully Controlled: Jilin§!\n\nWe must liberate Jilin!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-
  ccw_hlj_warning_divider: ""
-
  ccw_hlj_warning_divider_desc: "§YNot Fully Controlled: Heilongjiang§!\n\nWe must liberate Heilongjiang!\n\nThis area is currently still occupied by Communist bandits or illegal warlord forces. For the future of the Republic of China, the ROC Armed Forces must reclaim every inch of fallen territory and rebuild freedom and order under the Blue Sky and White Sun flag."
-

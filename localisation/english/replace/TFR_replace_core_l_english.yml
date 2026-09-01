@@ -27,7 +27,6 @@
  INIT_GAMESTATE: "Starting Wars..."
  ACHIEVEMENT_UNLOCKED_WHEN: "§СPrerequisites:§!"
  EFFECT_ACTIVATE_TARGETED_DECISION: "Enables Decision: $NAME|H$"
- #Modifier Icons Mod
  NAVAL_COMBAT_SHIP_STRENGTH: "£strenght_texticon Strength: $STR|%Y$"
  NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: " - £organization_texticon Organization: $ORG|%Y$"
  UNIT_ORG: "£organization_texticon Organization: $VALUE|H$"
@@ -39,7 +38,6 @@
  ORG_DAMAGE_MULTIPLIER: "£organization_texticon Organization damage taken"
  STR_DAMAGE_MULTIPLIER: "£strenght_texticon Strength damage taken"
  WAR_SUPPORT_REDUCTION_ON_DAMAGE: "£war_support_texticon War Support reduction on damaged"
- # useless but error
  subideology_container_politics: ""
  factions_container_politics: ""
  subideology_container_diplomacy: ""

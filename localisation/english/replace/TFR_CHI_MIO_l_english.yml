@@ -1,296 +1,109 @@
 ﻿l_english:
- # =============================================
- # 臺灣國際造船股份有限公司 (CSBC Corporation, Taiwan)
- # =============================================
  CHI_CSBC_organization: "CSBC Corporation, Taiwan"
-
  CHI_CSBC_organization_desc: "The Taiwan International Shipbuilding Corporation is the largest state-owned shipyard in the Republic of China. Its diversified production lines are responsible for the Indigenous Defense Submarine program as well as the construction of capital ships and frigates."
-
-
  CHI_CSBC_mio_initial_trait: "Shipyard Material Standardization"
-
  CHI_CSBC_mio_initial_trait_desc: "Standardizing materials used across all shipyards will offer improved naval vessel structural integrity and reliability while maximizing our production capacity."
-
-
  CHI_CSBC_mio_trait_submarine_hunters: "Submarine Hunters"
-
  CHI_CSBC_mio_trait_submarine_hunters_desc: "Using enhanced sonar integration, underwater detection modules, and deep water attack systems, we can produce a squadron of highly effective multirole frigates for anti-submarine warfare."
-
-
  CHI_CSBC_mio_trait_efficient_patrolling_scheme: "Optimized Patrol Routes"
-
  CHI_CSBC_mio_trait_efficient_patrolling_scheme_desc: "By optimizing the effectiveness of our naval patrols and our coordination, our naval elements will cover patrol zones more effectively."
-
-
  CHI_CSBC_mio_trait_advanced_sub_scanners: "Advanced Submarine Detection"
-
  CHI_CSBC_mio_trait_advanced_sub_scanners_desc: "Integrates highly sensitive sonar detection systems to enhance the detection and tracking capabilities of surface vessels against submarines."
-
-
  CHI_CSBC_mio_trait_high_altitute_catapult: "High-Altitude Catapult"
-
  CHI_CSBC_mio_trait_high_altitute_catapult_desc: "Improves the catapult system for seaplanes, providing better aerial visibility and early warning detection capabilities."
-
-
  CHI_CSBC_mio_trait_light_armor_piercing_guns: "Armor-piercing Guns"
-
  CHI_CSBC_mio_trait_light_armor_piercing_guns_desc: "Develops high-muzzle-velocity armor-piercing ammunition for enhanced penetration against the armor of enemy warships."
-
-
  CHI_CSBC_mio_trait_brass_case_reloader: "Brass Casing Autoloader Integration"
-
  CHI_CSBC_mio_trait_brass_case_reloader_desc: "Utilizing high-strength brass casings along with an improved loading mechanism will increase the rate of fire and reliability of light artillery."
-
-
  CHI_CSBC_mio_trait_anti_air_defense: "Multi-Layered Air Defenses"
-
  CHI_CSBC_mio_trait_anti_air_defense_desc: "Through the introduction of various weapon and detection systems, the effectiveness of aerial target interception and air defense will be improved."
-
-
  CHI_CSBC_mio_trait_heavy_guns: "Heavy Guns"
-
  CHI_CSBC_mio_trait_heavy_guns_desc: "Refines the structural design and fire control integration of heavy artillery, improving the firepower output and destructive efficiency of capital ships."
-
-
  CHI_CSBC_mio_advanced_periscope: "Advanced Periscope"
-
  CHI_CSBC_mio_advanced_periscope_desc: "Adopts more stealthy optical and electronic reconnaissance periscopes, reducing the risk of exposure when submarines conduct underwater detection."
-
-
  CHI_CSBC_mio_trait_piercing_rounds: "Armor-Piercing Rounds"
-
  CHI_CSBC_mio_trait_piercing_rounds_desc: "Equips the latest heavy armor-piercing rounds, specifically designed to strike the thick armor of enemy capital ships."
-
-
  CHI_CSBC_mio_trait_base_defense: "Base Defense"
-
  CHI_CSBC_mio_trait_base_defense_desc: "Strengthens hull armor and basic anti-air firepower, comprehensively enhancing the survival and defensive capabilities of vessels in combat zones."
-
- 
  CHI_CSBC_mio_trait_deck_guns: "Deck Guns"
-
  CHI_CSBC_mio_trait_deck_guns_desc: "Adds auxiliary anti-air firepower on the deck, further improving the interception efficiency against low-altitude threats."
-
-
  CHI_CSBC_mio_trait_state_sponsored_dev: "State-Sponsored Development"
-
  CHI_CSBC_mio_trait_state_sponsored_dev_desc: "Expands shipyard infrastructure through special government funding, stabilizing military vessel production lines and increasing capital accumulation."
-
-
  CHI_CSBC_mio_trait_state_research_grants: "State Research Grants"
-
  CHI_CSBC_mio_trait_state_research_grants_desc: "Introduces government research subsidies to accelerate the development cycle of vessel design, shortening the timeline from concept to mass production for new ships."
-
-
- CHI_CSBC_mio_trait_24h_shifts_csbc: "24-Hour Shifts"
-
+ CHI_CSBC_mio_trait_24h_shifts_csbc: "24-Hour Shift Work System"
  CHI_CSBC_mio_trait_24h_shifts_csbc_desc: "Implements an around-the-clock shift production system, significantly increasing vessel construction speed, at the cost of higher labor management expenses."
-
-
  CHI_CSBC_mio_trait_state_subsidizing_csbc: "State Subsidies"
-
  CHI_CSBC_mio_trait_state_subsidizing_csbc_desc: "Lowers the threshold for organizational upgrades through long-term subsidy agreements, consolidating the strategic partnership with the government, though design team allocation costs slightly increase."
-
-
- # =============================================
- # 中信造船集團 (Jong Shyn Shipbuilding Group)
- # =============================================
  CHI_Jong_Shyn_organization: "Jong Shyn Shipbuilding Group"
-
- CHI_Jong_Shyn_organization_desc: "The Jong Shyn Shipbuilding Group focuses on the construction of large mission ships such as aircraft carriers, cruisers, and destroyers. Excelling in the development of high-speed ocean-going combat vessels, it builds the ROC's blue-water power projection capabilities."
-
-
+ CHI_Jong_Shyn_organization_desc: "The Jong Shyn Shipbuilding Group focuses on the construction of large mission ships such as aircraft carriers, cruisers, and destroyers. Excelling in the development of high-speed ocean-going combat vessels, it serves as the primary manufacturer for the ROC's blue-water power projection vessels."
  CHI_Jong_Shyn_mio_initial_trait: "Fleet Mission Ship Design Philosophy"
-
- CHI_Jong_Shyn_mio_initial_trait_desc: "Takes integrated combat of mission fleets as the core design philosophy, strengthening hull integrity and accelerating the development process."
-
-
+ CHI_Jong_Shyn_mio_initial_trait_desc: "By integrating combat experience of mission fleets into our core design philosophy, hull integrity will be strengthened and the development process will be expedited."
  CHI_Jong_Shyn_mio_trait_long_range_cruising: "Long-Range Cruising"
-
  CHI_Jong_Shyn_mio_trait_long_range_cruising_desc: "Optimizes fuel configuration and hull hydrodynamic design, significantly extending the ocean-going combat range of vessels."
-
-
  CHI_Jong_Shyn_mio_trait_high_speed_cruising: "High-Speed Cruising"
-
- CHI_Jong_Shyn_mio_trait_high_speed_cruising_desc: "Adopts high-power propulsion systems and streamlined hull forms, significantly increasing the maximum speed of vessels, making them suitable for rapid deployment missions."
-
-
- CHI_Jong_Shyn_mio_trait_splinter_protection: "Splinter Protection"
-
- CHI_Jong_Shyn_mio_trait_splinter_protection_desc: "Strengthens splinter protection armor for the vessel's superstructure and critical compartments, reducing the lethal effects of explosive fragmentation on personnel and equipment."
-
-
+ CHI_Jong_Shyn_mio_trait_high_speed_cruising_desc: "Adopts high-power propulsion systems and streamlined hull forms, significantly increasing the maximum speed of vessels and making them suitable for rapid deployment."
+ CHI_Jong_Shyn_mio_trait_splinter_protection: "Shrapnel Protection"
+ CHI_Jong_Shyn_mio_trait_splinter_protection_desc: "Strengthens shrapnel protection armor for the vessel's superstructure and critical compartments, reducing the lethal effects of explosive fragmentation on personnel and equipment."
  CHI_Jong_Shyn_mio_trait_transom_stern: "Hydrodynamic Improvements"
-
  CHI_Jong_Shyn_mio_trait_transom_stern_desc: "Adopts a transom stern structure to improve sailing efficiency, reducing drag and saving fuel consumption."
-
-
  CHI_Jong_Shyn_mio_trait_underway_replenishment_equipment: "Underway Replenishment Equipment"
-
- CHI_Jong_Shyn_mio_trait_underway_replenishment_equipment_desc: "Integrates rapid underway replenishment systems, allowing vessels to extend mission durations without needing to dock."
-
-
- CHI_Jong_Shyn_mio_trait_secondary_fire_director_control: "Secondary Fire Director Control"
-
+ CHI_Jong_Shyn_mio_trait_underway_replenishment_equipment_desc: "Integrates rapid underway replenishment systems, allowing vessels to have prolonged missions without the need for docking."
+ CHI_Jong_Shyn_mio_trait_secondary_fire_director_control: "Secondary Fire Guidance Control"
  CHI_Jong_Shyn_mio_trait_secondary_fire_director_control_desc: "Integrates fire control computers to improve the firing accuracy of anti-air weapons and light artillery."
-
-
- CHI_Jong_Shyn_mio_trait_primary_fire_director_control: "Primary Fire Director Control"
-
+ CHI_Jong_Shyn_mio_trait_primary_fire_director_control: "Primary Fire Guidance Control"
  CHI_Jong_Shyn_mio_trait_primary_fire_director_control_desc: "Equips main guns with precision fire control calculation systems, significantly improving the anti-surface attack accuracy of heavy artillery."
-
-
  CHI_Jong_Shyn_mio_trait_flight_deck_edge_aa_mounts: "Flight Deck Edge AA Mounts"
-
  CHI_Jong_Shyn_mio_trait_flight_deck_edge_aa_mounts_desc: "Installs close-in weapon systems along the edges of carrier flight decks, enhancing the carrier's own low-altitude and terminal air defense capabilities."
-
-
  CHI_Jong_Shyn_mio_trait_rapid_fire_guns: "Rapid-Fire Guns"
-
  CHI_Jong_Shyn_mio_trait_rapid_fire_guns_desc: "Equipped with high-rate-of-fire automatic gun systems, providing significant suppression against low-flying targets and small surface vessels."
-
-
  CHI_Jong_Shyn_mio_trait_high_velocity_guns: "High-Velocity Naval Guns"
-
  CHI_Jong_Shyn_mio_trait_high_velocity_guns_desc: "Develops high-muzzle-velocity armor-piercing ammunition for main guns, significantly increasing penetration against heavy warship armor."
-
-
  CHI_Jong_Shyn_mio_trait_advanced_fitting_works: "Advanced Fitting Works"
-
  CHI_Jong_Shyn_mio_trait_advanced_fitting_works_desc: "Refines the assembly processes and quality control of vessel construction, increasing the production rate of assembly lines."
-
-
  CHI_Jong_Shyn_mio_trait_gyro_stabilized_mounts: "Gyro-Stabilized Mounts"
-
  CHI_Jong_Shyn_mio_trait_gyro_stabilized_mounts_desc: "Adopts gyroscopic compensation systems, allowing gun mounts to maintain stable aim while the ship pitches, significantly improving hit rates."
-
-
  CHI_Jong_Shyn_mio_trait_carrier_flight_operations_center: "Advanced Fire Pumps"
-
  CHI_Jong_Shyn_mio_trait_carrier_flight_operations_center_desc: "Integrates high-pressure firefighting systems and real-time damage control feedback networks, enhancing the vessel's survivability after sustaining combat damage."
-
-
- # =============================================
- # 龍德造船工業股份有限公司 (Lungteh Shipbuilding)
- # =============================================
  CHI_Lungteh_organization: "Lungteh Shipbuilding Co., Ltd."
-
  CHI_Lungteh_organization_desc: "Lungteh Shipbuilding Co., Ltd. focuses on the construction of corvettes, patrol ships, and high-speed missile boats. Renowned for stealth vessel designs like the Tuo Chiang class, it provides flexible maritime strike capabilities for Taiwan's coastal defense."
-
-
- CHI_Lungteh_mio_initial_trait: "Coastal Fast Combat Vessel Design Philosophy"
-
+ CHI_Lungteh_mio_initial_trait: "Coastal Fast-Combat Vessel Design Concept"
  CHI_Lungteh_mio_initial_trait_desc: "Taking high-mobility, low-cost coastal combat as its core design philosophy, these vessels naturally possess excellent speeds and lower construction costs."
-
-
  CHI_Lungteh_mio_trait_submarine_hunters: "Anti-Submarine Role Optimization"
-
  CHI_Lungteh_mio_trait_submarine_hunters_desc: "Integrates towed array sonars and depth charge systems, substantially improving the underwater target detection and attack capabilities of corvettes."
-
-
- CHI_Lungteh_mio_trait_high_speed_mine_hunting: "High-Speed Mine Hunting Equipment"
-
- CHI_Lungteh_mio_trait_high_speed_mine_hunting_desc: "Optimizes internal piping layouts and propulsion cooling designs, increasing the maximum speed of vessels when conducting mine-hunting missions."
-
-
+ CHI_Lungteh_mio_trait_high_speed_mine_hunting: "High-Speed Mine Clearing Equipment"
+ CHI_Lungteh_mio_trait_high_speed_mine_hunting_desc: "Optimizes internal piping layouts and propulsion cooling designs, increasing the maximum speed of vessels when conducting mine-clearing missions."
  CHI_Lungteh_mio_trait_advanced_hydrodynamic_design: "Advanced Hydrodynamic Design"
-
  CHI_Lungteh_mio_trait_advanced_hydrodynamic_design_desc: "Utilizes wind tunnel and towing tank test data to refine hull forms, increasing speed while simultaneously reducing fuel consumption and construction costs."
-
-
  CHI_Lungteh_mio_trait_fleet_escort: "Fleet Escort Role"
-
  CHI_Lungteh_mio_trait_fleet_escort_desc: "Strengthens the multi-role positioning of vessels as mainstays of maritime patrols, improving coordinated patrol efficiency and light firepower output."
-
-
  CHI_Lungteh_mio_trait_anti_air_ship: "Anti-Air Ship"
-
  CHI_Lungteh_mio_trait_anti_air_ship_desc: "Empowers vessels with enhanced air defense missions, deploying multi-layered close-in firepower to counter various aerial threats."
-
-
  CHI_Lungteh_mio_trait_armed_escort: "Armed Escort"
-
  CHI_Lungteh_mio_trait_armed_escort_desc: "Enhances vessel firepower configurations, combining artillery strike and armed escort capabilities, ideal for high-intensity coastal combat."
-
-
  CHI_Lungteh_mio_trait_optimized_aa_arcs: "Optimized AA Firing Arcs"
-
  CHI_Lungteh_mio_trait_optimized_aa_arcs_desc: "Improves the placement and firing arcs of anti-aircraft guns, enhancing air defense interception efficiency."
-
-
  CHI_Lungteh_mio_trait_gyro_stabilized_mounts: "Gyro-Stabilized Mounts"
-
  CHI_Lungteh_mio_trait_gyro_stabilized_mounts_desc: "Adopts gyroscopic compensation systems, allowing gun mounts to maintain stable aim while the ship pitches, significantly improving hit rates."
-
-
  CHI_Lungteh_mio_trait_improved_aa_mounts: "Improved AA Mounts"
-
  CHI_Lungteh_mio_trait_improved_aa_mounts_desc: "Improves the structural installation and mounting techniques of AA gun mounts, reducing manufacturing costs while enhancing anti-air firepower output efficiency."
-
-
  CHI_Lungteh_mio_trait_mass_production: "Mass Production"
-
  CHI_Lungteh_mio_trait_mass_production_desc: "Implements standardized design specifications and modular construction techniques, greatly increasing corvette mass production efficiency and lowering per-ship costs."
-
-
  CHI_Lungteh_mio_trait_improved_light_gun_mounts: "Improved Light Gun Mounts"
-
  CHI_Lungteh_mio_trait_improved_light_gun_mounts_desc: "Refines gun mount installation procedures and quality control mechanisms, reducing construction costs while comprehensively upgrading anti-air and anti-surface firepower."
-
-
-# =============================================
- # 國家中山科學研究院 (National Chung-Shan Institute of Science & Technology)
- # =============================================
  CHI_NCSIST_organization: "National Chung-Shan Institute of Science and Technology"
-
  CHI_NCSIST_organization_desc: "The National Chung-Shan Institute of Science and Technology (NCSIST) is the national defense research and development institution of the Republic of China, focusing on the development and manufacturing of missiles, radars, drones, and other advanced weapon systems."
-
-
- CHI_NCSIST_mio_initial_trait: "Defense Technology R&D"
-
+ CHI_NCSIST_mio_initial_trait: "National Defense Technology R&D"
  CHI_NCSIST_mio_initial_trait_desc: "Focuses on the research and development of advanced weapon systems, enhancing the Republic of China's defense self-sufficiency and strategic deterrence."
-
-
-# =============================================
- # 漢翔航空工業股份有限公司 (Aerospace Industrial Development Corp)
- # =============================================
  CHI_AIDC_organization: "Aerospace Industrial Development Corporation (AIDC)"
-
  CHI_AIDC_organization_desc: "The Aerospace Industrial Development Corporation (AIDC) is an aviation industry institution of the Republic of China, focusing on aircraft design, research, development, and manufacturing."
-
-
-# =============================================
- # 三陽工業股份有限公司 (Sanyang Motor Co., Ltd.)
- # =============================================
  CHI_Sanyang_motor_organization: "Sanyang Motor Co., Ltd."
-
  CHI_Sanyang_motor_organization_desc: "Sanyang Motor Co., Ltd. is a motorcycle manufacturing institution of the Republic of China, focusing on the design, research, development, and manufacturing of light vehicles."
-
-
-# =============================================
- # 裕隆汽車製造股份有限公司 (Yulon Motor Co., Ltd.)
- # =============================================
  CHI_yulon_motor_organization: "Yulon Motor Co., Ltd."
-
  CHI_yulon_motor_organization_desc: "Yulon Motor Co., Ltd. is an automotive manufacturing institution of the Republic of China, focusing on the design, research, development, and manufacturing of various vehicles."
-
- # =============================================
- # 金賓汽車股份有限公司 (Champion Auto Co., Ltd.)
- # =============================================
  CHI_champion_auto_organization: "Champion Auto Co., Ltd."
-
  CHI_champion_auto_organization_desc: "Champion Auto Co., Ltd. is an automotive manufacturing institution of the Republic of China, focusing on the design, research, development, and manufacturing of various vehicles."
-
- # =============================================
- # 國防部軍備局生產製造中心第202廠(the 202th Arsenal)
- # =============================================
  CHI_armaments_bureau_202_organization: "Armaments Bureau 202nd Arsenal"
-
  CHI_armaments_bureau_202_organization_desc: "The Armaments Bureau 202nd Arsenal is a weapons manufacturing institution of the Republic of China, focusing on the research, development, and manufacturing of tanks and other land-based weapons."
-
-# =============================================
- # 國防部軍備局生產製造中心第205廠 (the 205th Arsenal)
- # =============================================
  CHI_armaments_bureau_205_organization: "Armaments Bureau 205th Arsenal"
-
  CHI_armaments_bureau_205_organization_desc: "The Armaments Bureau 205th Arsenal is a weapons manufacturing institution of the Republic of China, focusing on the research, development, and manufacturing of various weapons."
